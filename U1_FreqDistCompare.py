@@ -2,6 +2,7 @@ from __future__ import division
 from nltk.probability import FreqDist
 from nltk import FreqDist
 import nltk
+import operator
 from nltk.book import *
 #from nltk.book import text1 - find a way to do this
 '''
@@ -40,12 +41,18 @@ print sortedDict
 print('herp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
 text7Dist = FreqDist(text7)
-commonWords = text7Dist.items()
-print type(sortedDict)
+allWords = sorted(text7Dist.items(), key=operator.itemgetter(1)) 
+#commonWords = {k:v for k, v in commonWords.items() if v > 10}
+#find the 100th elements
 
+#retrieve top 150 (some arbitrary)
+allWords = allWords[:50]
+text7DistCommon = {}
+print allWords
+#get rid of words that are occuring in other text
 for common in commonWords:
     if (common in sortedDict and sortedDict(common) < 1500):
-        print common
+        text7DistCommon.append(common)
         
         
 
