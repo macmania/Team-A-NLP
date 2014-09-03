@@ -3,7 +3,7 @@
 	some questions that we want to investigate: 
 		- what is the best way to summarize with words or phrases considering frequencies
 			+ are frequencies best way to effectively summarize a particular text? 
-		- examples: text 7, ClassEvent, JLaw picture and is the cloud secure?
+		- examples: text 7, ClassEvent
 		- what we found from googling and also experimenting is that 
 		making a text shorter (paraphrasing it), using key words, we can produce an ok 'summary' of
 		it. 
@@ -39,15 +39,38 @@ from nltk.collocations import *
 
 #starts parsing the text file
 f = open("../Islip13Rain/7.txt")
-lines = set(f.read().splitlines())
-lines = [w for w in lines if len(w) > 3 and (not '\xc2' in w or not '\xa0 in w')]
+tokens = nltk.word_tokenize(open("../Islip13Rain/7.txt").read())
+tokens = [t.lower() for t in tokens if len(t) > 3]
+pairs = nltk.bigrams(tokens)
+#print pairs
+
+#1 Overview of using collocations
+bigram_measures = nltk.collocations.BigramAssocMeasures()
+trigram_measures = nltk.collocations.TrigramAssocMeasures()
+finder = nltk.collocations.BigramCollocationFinder.from_words(pairs)
+f2 = nltk.collocations.BigramCollocationFinder.from_words(pairs)
+for i in range(2, 6): 
+	f2.apply_freq_filter(i)
+	#print 'frequents ', i, f2.nbest(bigram_measures.pmi, 10)
+#decreases in frequencies
+
+
+
+#2 Finders
+scored = finder.score_ngrams(bigram_measures.raw_freq)
+word_fd = nltk.FreqDist(tokens)
+bigram_fd = nltk.FreqDist(nltk.bigrams(tokens))
+finder = BigramCollocationFinder(word_fd, bigram_fd)
+print sorted(finder.nbest(trigram_measures.raw_freq, 3)) # sorted(bigram for bigram, score in scored)
 exclude = set(string.punctuation)
 #lines = ''.join(ch for ch in lines if ch not in exclude)
-print(sorted(lines))
-tokens = sorted(set(lines))
+#print(sorted(lines))
+#tokens = sorted(set(lines))
 fdist1 = FreqDist(tokens)
-print (fdist1)
+#print (fdist1)
 
 
-
+#finder = TrigramCollocationFinder.from_words(tokens)
+finder = TrigramCollocationFinder.from_words(tokens)
+print sorted(finder.nbest(trigram_measures.raw_freq, 4))
 
