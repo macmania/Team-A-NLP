@@ -1,0 +1,18 @@
+Advantages:
+1. Good keywords that are indicative of content. 
+IMP: 
+Interesting questions:
+a) threshold wordLength for indicative words? 
+b) Can we do an intelligent search which filters out uninformative words? ( uninformative = stop words )
+2. Bigrams are interesting. 
+3. Better indicative words if we compare with word frequencies. Different from 1 (b)
+Few representative words show what Could be indicative words in the text.
+Filter out other words...
+
+Disadvantages:
+1. Most of the words are useless(?). Need to filter out prepositions etc
+2. Need to process more - stemming, lemmatisation etc. 
+With stemming - whale vs whaling are two different words. 
+Whaling gives a different inflection to the text content.
+3. Will not work for short articles...? 
+Question: Will it work for short articles?
