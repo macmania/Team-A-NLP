@@ -17,7 +17,7 @@ commonWords=fdist1.items() #????
 #fdist1.plot(50, cumulative=False)
 indicativeWords= [word[0] for word in commonWords if word[0].isalpha()]
 #if len(word[0])>4 ]
-count= 0
+count = 0
 masterDict = {}
 for text in listOfTexts:
     fdist = FreqDist(text)
@@ -30,6 +30,8 @@ for text in listOfTexts:
             masterDict[word] =fdist[word]
 
 sortedDict = dict(sorted(masterDict.items(), key=lambda x: x[1]))
+print sortedDict
+
 
 '''for herp in sortedDict:
     print(herp)'''
@@ -42,8 +44,8 @@ commonWords = text7Dist.items()
 print type(sortedDict)
 
 for common in commonWords:
-    if (common[0] in sortedDict and sortedDict(common[0]) < 1500):
-        print common[0]
+    if (common in sortedDict and sortedDict(common) < 1500):
+        print common
         
         
 
