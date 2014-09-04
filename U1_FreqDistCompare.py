@@ -30,8 +30,7 @@ for text in listOfTexts:
         else:
             masterDict[word] =fdist[word]
 
-sortedDict = dict(sorted(masterDict.items(), key=lambda x: x[1]))
-print sortedDict
+sortedDictInAllTxt = dict(sorted(masterDict.items(), key=lambda x: x[1]))
 
 
 '''for herp in sortedDict:
@@ -41,19 +40,20 @@ print sortedDict
 print('herp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
 text7Dist = FreqDist(text7)
-allWords = sorted(text7Dist.items(), key=operator.itemgetter(1)) 
+allWordsIn7Txt = sorted(text7Dist.items(), key=operator.itemgetter(1)) 
 #commonWords = {k:v for k, v in commonWords.items() if v > 10}
 #find the 100th elements
 
-#retrieve top 150 (some arbitrary)
-allWords = allWords[:50]
-text7DistCommon = {}
-print allWords
+#retrieve top 50 words that appears in other texts(some arbitrary)
+allWordsIn7Txt = allWordsIn7Txt[:50]
+text7DistCommon = {} #the uncommon ones
+
 #get rid of words that are occuring in other text
-for common in commonWords:
-    if (common in sortedDict and sortedDict(common) < 1500):
+for common in allWordsIn7Txt:
+    if (common not in  sortedDictInAllTxt and sortedDictInAllTxt(common) < 1500):
         text7DistCommon.append(common)
-        
+
+print text7DistCommon        
         
 
 #print(sorted(masterDict.items(), key=lambda x: x[1]))
@@ -63,21 +63,23 @@ colloc= text1.collocations();
 
 #To count percentage of occurrence of each of the words...
 #wordPercentList= List of % of usage
-textLength= len(text1)
-wordPercentList=[]
+wordPercentList, textLength = [], len(text1)
+
 print (len(indicativeWords))
+
 #Implement stop word filters
 ignored_words = (open('nltk_english_stopWords.txt')).read().split()
 for word in indicativeWords:
     if word in ignored_words:
         print (word, ' found and removed')
         indicativeWords.remove(word)
+
 # word Is indeed indicative
 for word in indicativeWords:    
     wordPercentList.append(100*text1.count(word)/textLength)
-print (len(indicativeWords))
-print (len(wordPercentList))
-#print('\n',type(indicativeWords))
+print (len(indicativeWords)), (len(wordPercentList))
+
+
 print('\nPercentage list of all indicative words:\n')
 for i in range(0,len(indicativeWords)-1):
     print(indicativeWords[i],wordPercentList[i])
