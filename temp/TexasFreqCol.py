@@ -5,6 +5,9 @@
 import glob
 import errno
 import nltk
+from nltk import FreqDist
+from nltk.collocations import *
+import operator
 
 #analyzes the text based on the number of lines in comparison to the words of a text file
 #if there are more lines than text then it's not an article. (Interesting to look at whether a
@@ -32,13 +35,17 @@ def classifyTxt(strTxt):
 
 #returns a list of top 10 most frequent words
 def extractTopWrds(strTxt):
-	dictTxt = nltk.FreqDist(dictTxt)
-	sortedDictTxt = sorted(dictTxt.iteritems(), key=operator.itemgetter(1))
+	strTxt = nltk.FreqDist(strTxt)
+	sortedDictTxt = sorted(strTxt.iteritems(), key=operator.itemgetter(1))
 	return sortedDictTxt[len(sortedDictTxt)-5:len(sortedDictTxt)]
 
 #returns a list of phrases that occur the most, may need to change it up
 #still need to be examined a bit closely
 def extractPhrases(strTxt):
+	tokens = nltk.wordpunct_tokenize(str(strTxt))
+	tokens = [t.lower() for t in tokens if len(t) > 3]
+	pairs = nltk.bigrams(tokens)
+
 	#1 Overview of using collocations
 	bigram_measures = nltk.collocations.BigramAssocMeasures()
 	trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -58,16 +65,25 @@ def extractPhrases(strTxt):
 #extracts a chunk of text that are similar distance to one another, assuming that the
 #article is double or single spaced. 
 #returns the extracted text
+'''Need to ask Dr. Fox what the best approach would be to classify a particular text: 
+	according to the chunk it belongs to, but since for this program we are not classify
+	the text on a particular file, we just want to know which content is the most relevant'''
 def extractTxtArticle(strTxt):
-	''' to-do stub'''
-	return  ' '
+	strTxt = strTxt.splitlines()
+	extractTxt = []
+	for r in range(len(lines)):
+		if len(lines[r].strip(' ')) >= 80 and '|' not in lines[r] and '?' not in lines[r] and '#' not in lines[r]:
+			extractTxt.append(lines[r])
 
+	print extractTxt
+	return extractTxt
 
 
 #Texas folder collocation start
 files = glob.glob("../Texas Fertilizer Plant Explosion/*.txt")
 artcle, nonArtcl = 0, 0
 art, nonArt = [], [] 
+extractTxt = ' '
 for name in files: 
 	try: 
 		with open(name) as f: 
@@ -75,15 +91,25 @@ for name in files:
 			if classifyTxt(lines):
 				artcle += 1
 				art.append(name)
+				extractTxt = extractTxtArticle(lines)
+
+				
 			else: 
+				extractTxt = lines.split()
 				nonArtcl += 1
 				nonArt.append(name)
+
+			topWords = extractTopWrds(extractTxt)
+			phrases = extractPhrases(extractTxt)
+
+			print name[36:], topWords, phrases
 
 	except IOError as exc: 
 		if exc.errno != errno.EISDIR: # Do not fail if a directory is found, just ignore it.
 			raise # Propagate other kinds of IOError.
 
+''' Temp '''
 print artcle, nonArtcl
-print art[0:5]
-print nonArt[0:5]
-
+print art[0:10], '\n'
+print nonArt[0:10]
+''' Temp '''
