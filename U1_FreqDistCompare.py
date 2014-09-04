@@ -30,7 +30,7 @@ for text in listOfTexts:
         else:
             masterDict[word] =fdist[word]
 
-sortedDictInAllTxt = dict(sorted(masterDict.items(), key=lambda x: x[1]))
+sortedDictInAllTxt = dict(sorted(masterDict.items(), key=lambda x: x[1])[:50])
 
 
 '''for herp in sortedDict:
@@ -40,7 +40,7 @@ sortedDictInAllTxt = dict(sorted(masterDict.items(), key=lambda x: x[1]))
 print('herp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
 text7Dist = FreqDist(text7)
-allWordsIn7Txt = dict(sorted(text7Dist.items(), key=operator.itemgetter(1))[:50])
+allWordsIn7Txt = dict(sorted(text7Dist.items(), key=operator.itemgetter(1)))
 #commonWords = {k:v for k, v in commonWords.items() if v > 10}
 #find the 100th elements
 
@@ -52,7 +52,7 @@ text7DistCommon = {} #the uncommon ones
 for common in allWordsIn7Txt:
     print common, type(common), type(sortedDictInAllTxt)
     if (common not in sortedDictInAllTxt and common in allWordsIn7Txt and 
-        allWordsIn7Txt[common] < 1500):
+        allWordsIn7Txt[common] < 1500 and len(common) > 3):
         text7DistCommon[common] = allWordsIn7Txt[common]
 
 print text7DistCommon        
@@ -61,7 +61,7 @@ print text7DistCommon
 #print(sorted(masterDict.items(), key=lambda x: x[1]))
  
 print('\nCollocations')
-colloc= text1.collocations();
+colloc = text1.collocations();
 
 #To count percentage of occurrence of each of the words...
 #wordPercentList= List of % of usage
