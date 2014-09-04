@@ -61,11 +61,11 @@ print text7DistCommon
 #print(sorted(masterDict.items(), key=lambda x: x[1]))
  
 print('\nCollocations')
-colloc = text1.collocations();
+colloc = text7.collocations();
 
 #To count percentage of occurrence of each of the words...
 #wordPercentList= List of % of usage
-wordPercentList, textLength = [], len(text1)
+wordPercentList, textLength = [], len(text7)
 
 print (len(indicativeWords))
 
