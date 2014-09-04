@@ -51,7 +51,7 @@ for name in files:
 			tok = [t.lower() for t in tok if len(t) > 3]
 			pair = nltk.bigrams(tok)
 			finder = TrigramCollocationFinder.from_words(tokens)
-			texasAllPairs.append(finder.nbest(trigram_measures.raw_freq, 4))
+			texasAllPairs.append(sorted(finder.nbest(trigram_measures.raw_freq, 4)))
 	except IOError as exc: 
 		if exc.errno != errno.EISDIR: # Do not fail if a directory is found, just ignore it.
 			raise # Propagate other kinds of IOError.
