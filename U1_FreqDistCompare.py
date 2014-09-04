@@ -40,18 +40,20 @@ sortedDictInAllTxt = dict(sorted(masterDict.items(), key=lambda x: x[1]))
 print('herp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 
 text7Dist = FreqDist(text7)
-allWordsIn7Txt = sorted(text7Dist.items(), key=operator.itemgetter(1)) 
+allWordsIn7Txt = dict(sorted(text7Dist.items(), key=operator.itemgetter(1))[:50])
 #commonWords = {k:v for k, v in commonWords.items() if v > 10}
 #find the 100th elements
 
 #retrieve top 50 words that appears in other texts(some arbitrary)
-allWordsIn7Txt = allWordsIn7Txt[:50]
+#allWordsIn7Txt = allWordsIn7Txt[:50]
 text7DistCommon = {} #the uncommon ones
 
 #get rid of words that are occuring in other text
 for common in allWordsIn7Txt:
-    if (common not in  sortedDictInAllTxt and sortedDictInAllTxt(common) < 1500):
-        text7DistCommon.append(common)
+    print common, type(common), type(sortedDictInAllTxt)
+    if (common not in sortedDictInAllTxt and common in allWordsIn7Txt and 
+        allWordsIn7Txt[common] < 1500):
+        text7DistCommon.update(common)
 
 print text7DistCommon        
         
