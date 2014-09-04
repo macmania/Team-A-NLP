@@ -53,7 +53,7 @@ for common in allWordsIn7Txt:
     print common, type(common), type(sortedDictInAllTxt)
     if (common not in sortedDictInAllTxt and common in allWordsIn7Txt and 
         allWordsIn7Txt[common] < 1500):
-        text7DistCommon.update(common)
+        text7DistCommon[common] = allWordsIn7Txt[common]
 
 print text7DistCommon        
         
