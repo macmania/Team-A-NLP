@@ -8,7 +8,7 @@ from nltk.corpus import PlaintextCorpusReader
 
 #returns a list of top 10 most frequent words
 def extractTopWrds(strTxt):
-	strTxt = [t.lower() for t in strTxt if len(t) > 3]
+	strTxt = [t.lower() for t in strTxt if len(t) > 3 and t != 'that']
 	strTxt = nltk.FreqDist(strTxt)
 	sortedDictTxt = sorted(strTxt.iteritems(), key=operator.itemgetter(1))
 
@@ -18,7 +18,7 @@ def extractTopWrds(strTxt):
 #still need to be examined a bit closely
 def extractPhrases(strTxt):
 	tokens = nltk.wordpunct_tokenize(str(strTxt))
-	tokens = [t.lower() for t in tokens if len(t) > 3]
+	tokens = [t.lower() for t in tokens if len(t) > 3 and '>' not in t]
 	pairs = nltk.bigrams(tokens)
 
 	#1 Overview of using collocations
@@ -33,9 +33,9 @@ def extractPhrases(strTxt):
 	bigram_fd = nltk.FreqDist(nltk.bigrams(tokens))
 	finder = BigramCollocationFinder(word_fd, bigram_fd)
 	#need to be examined which one is better
-	print sorted(finder.nbest(trigram_measures.raw_freq, 2))
-	print sorted(finder.nbest(trigram_measures.raw_freq, 10))
-	return sorted(finder.nbest(trigram_measures.raw_freq, 3))
+	#print sorted(finder.nbest(trigram_measures.raw_freq, 2))
+	print sorted(finder.nbest(trigram_measures.raw_freq, 12))
+	return sorted(finder.nbest(trigram_measures.raw_freq, 15))
 
 #Texas folder collocation start
 corpus_root = "Islip13Rain"
