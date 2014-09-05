@@ -1,6 +1,0 @@
-WP Ajax Edit Comments Popup Box
-Please type out your comment below.
-
-
-
-
