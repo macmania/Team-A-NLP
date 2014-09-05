@@ -35,6 +35,7 @@ def classifyTxt(strTxt):
 
 #returns a list of top 10 most frequent words
 def extractTopWrds(strTxt):
+	strTxt = [t.lower() for t in strTxt if len(t) > 3]
 	strTxt = nltk.FreqDist(strTxt)
 	sortedDictTxt = sorted(strTxt.iteritems(), key=operator.itemgetter(1))
 	return sortedDictTxt[len(sortedDictTxt)-5:len(sortedDictTxt)]
@@ -72,7 +73,7 @@ def extractTxtArticle(strTxt):
 	strTxt = strTxt.splitlines()
 	extractTxt = []
 	for r in range(len(lines)):
-		if len(lines[r].strip(' ')) >= 80 and '|' not in lines[r] and '?' not in lines[r] and '#' not in lines[r]:
+		if len(lines[r].strip(' ')) >= 80 and '|' not in lines[r] not in lines[r] and '#' not in lines[r]:
 			extractTxt.append(lines[r])
 
 	print extractTxt
@@ -92,8 +93,7 @@ for name in files:
 				artcle += 1
 				art.append(name)
 				extractTxt = extractTxtArticle(lines)
-
-				
+	
 			else: 
 				extractTxt = lines.split()
 				nonArtcl += 1
