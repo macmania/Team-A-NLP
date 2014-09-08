@@ -72,9 +72,9 @@ def extractPhrases(strTxt):
 def extractTxtArticle(strTxt):
 	strTxt = strTxt.splitlines()
 	extractTxt = []
-	for r in range(len(lines)):
-		if len(lines[r].strip(' ')) >= 80 and '|' not in lines[r] not in lines[r] and '#' not in lines[r]:
-			extractTxt.append(lines[r])
+	for r in range(len(strTxt)):
+		if len(strTxt[r].strip(' ')) >= 80 and '|' not in strTxt[r] and '#' not in strTxt[r]:
+			extractTxt.append(strTxt[r])
 
 	print extractTxt
 	return extractTxt
@@ -93,23 +93,24 @@ for name in files:
 				artcle += 1
 				art.append(name)
 				extractTxt = extractTxtArticle(lines)
+				#print name[36:], extractTxt
 	
 			else: 
 				extractTxt = lines.split()
 				nonArtcl += 1
 				nonArt.append(name)
 
-			topWords = extractTopWrds(extractTxt)
-			phrases = extractPhrases(extractTxt)
+			#topWords = extractTopWrds(extractTxt)
+			#phrases = extractPhrases(extractTxt)
 
-			print name[36:], topWords, phrases
+			#print name[36:], topWords, phrases
 
 	except IOError as exc: 
 		if exc.errno != errno.EISDIR: # Do not fail if a directory is found, just ignore it.
 			raise # Propagate other kinds of IOError.
 
-''' Temp '''
+''' Temp 
 print artcle, nonArtcl
 print art[0:10], '\n'
 print nonArt[0:10]
-''' Temp '''
+Temp '''
