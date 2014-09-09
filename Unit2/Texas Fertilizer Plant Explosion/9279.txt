@@ -1,0 +1,99 @@
+Linux 101 stuff. Questions are encouraged, noobs are welcome!jump to contentmy subredditsAdviceAnimalsannouncementsAskRedditatheismawwbestofblogfunnygamingIAmAmoviesMusicnewspicspoliticssciencetechnologytodayilearnedvideosworldnewsWTFedit subscriptionsfront-all-random | pics-funny-politics-gaming-AskReddit-worldnews-news-videos-IAmA-todayilearned-WTF-aww-atheism-technology-AdviceAnimals-science-Music-movies-bestof-leagueoflegends-gifs-pokemon-reactiongifs-4chan-Minecraft-mildlyinteresting-fffffffuuuuuuuuuuuu-gentlemanboners-MakeupAddiction-woahdude-AnimalCrossing-circlejerk-gameofthrones-nba-starcraft-DotA2-conspiracy-LadyBoners-cats-atheismrebooted-skyrim-LifeProTips-HistoryPorn-mylittlepony-cringe-soccer-facepalm-firstworldanarchists-doctorwho-RedditLaqueristasmore »reddit.com linux4noobshotnewrisingcontroversialtopwant to join? login or register in seconds|Englishlimit my search to /r/linux4noobsuse the following search parameters to narrow your results:subreddit:subredditfind submissions in "subreddit"author:usernamefind submissions by "username"site:example.comfind submissions from "example.com"url:textsearch for "text" in urlselftext:textsearch for "text" in self post contentsself:yes (or self:no)include (or exclude) self postsnsfw:yes (or nsfw:no)include (or exclude) results marked as NSFWe.g. subreddit:aww site:imgur.com dogsee the search faq for details.advanced search: by author, subreddit...remember mereset passwordloginSubmit a new linkSubmit a new text postlinux4noobssubscribeunsubscribe17,375 readers~31 users here nowLinux introductions, tips and tutorials.  
+Explicitly noob-friendly. Please don't intimidate people who are coming to learn and get help.
+If you're posting for help, please include the following details, so that we can help you more efficiently:
+
+your operating system and version
+the hardware you're using
+a description of the problem
+output that was displayed (if any)
+
+Questions are encouraged. If you fix the problem yourself, please post your solution, so that others can also learn.
+There's a great list of introductory links here - thanks to SCSweeps.
+Other subreddits you may like:
+
+
+
+
+
+
+
+/r/linux
+/r/linuxquestions
+
+
+/r/ubuntu
+/r/linux_devices
+
+
+/r/fedora
+/r/linuxaudio
+
+
+/r/debian
+/r/linux_gaming
+
+
+/r/gentoo
+/r/commandline
+
+
+/r/linuxmint
+/r/unix
+
+
+/r/archlinux
+/r/BSD
+
+
+/r/opensuse
+/r/24hoursupport
+
+
+/r/slackware
+/r/techsupport
+
+
+/r/kubuntu
+/r/opensource
+
+
+/r/lubuntu
+/r/libredesign
+
+
+/r/xubuntu
+/r/freeculture
+
+
+/r/centos
+/r/linuxadmin
+
+
+/r/gnome
+/r/sysadmin
+
+
+/r/kde
+/r/openwrt
+
+
+/r/lxde
+
+
+
+/r/xfce
+
+
+
+Does this sidebar need an addition or correction? Tell me here
+
+created by lukazooa community for 4 yearsmessage the moderatorsMODERATORSPi31415926reddit is a website about everythingpowered by community, democracy, and you.learn more ›1789Any distro that can survive 24mb? (self.linux4noobs)submitted 12 hours ago by unwiseTree17 commentssharecancelloading...2•••How do I stop a script? (self.linux4noobs)submitted 49 minutes ago by doubleclick2 commentssharecancelloading...3456lubuntu and java (self.linux4noobs)submitted 11 hours ago by handsthestrangler2 commentssharecancelloading...4434445Core Concepts: The Linux Filesystem (thelinuxcauldron.com)submitted 1 day ago by ProfessorKaos649 commentssharecancelloading...5234LinuxMint 15 Wifi not connecting (self.linux4noobs)submitted 19 hours ago by xTheAnti1 commentsharecancelloading...6345Trying to boot from USB but all I get is a black screen and a blinking white line (underscore size) (self.linux4noobs)submitted 21 hours ago by ftly2 commentssharecancelloading...7678Some super-cool linux command line tricks and tips (varunbpatil.github.io)submitted 1 day ago by varunbpatil2 commentssharecancelloading...8123Debian Server, High-end amplifier, Ipad, Galaxy III and spotify - looking for the leanest audio streaming set-up, input appreciated! (self.linux4noobs)submitted 1 day ago by _30d_2 commentssharecancelloading...9123Installed Fedora 18 on Samsung N150 - Wifi doesn't work! (self.linux4noobs)submitted 1 day ago by [deleted]commentsharecancelloading...10345How Do AMD Catalyst Drivers Work? (self.linux4noobs)submitted 1 day ago by RedYellowBlueBlast1 commentsharecancelloading...11234UEFI Dual Booting Issues (self.linux4noobs)submitted 1 day ago* by Firadin1 commentsharecancelloading...12151617I am having a very noticeable reduction in WiFi speeds using Ubuntu. Is there anything I can do? (self.linux4noobs)submitted 1 day ago by Franknog9 commentssharecancelloading...13456Installing Debian - What will I run into (self.linux4noobs)submitted 1 day ago by installingdebian13 commentssharecancelloading...14123I have an old laptop and am looking for a light-weight distribution that is noob/user-friendly [Specs Inside] (self.linux4noobs)submitted 1 day ago by sa_sh15 commentssharecancelloading...15123Having some trouble starting TF2. (self.linux4noobs)submitted 1 day ago* by BaconChapstickcommentsharecancelloading...16456Some Steam games aren't working. (self.linux4noobs)submitted 1 day ago by SL619 commentssharecancelloading...17456Installing the proprietary graphics driver on iMac causes me to boot up to an all white screen. (self.linux4noobs)submitted 2 days ago* by WcJessen2 commentssharecancelloading...18234Lubuntu. Problem opening synaptic. (self.linux4noobs)submitted 2 days ago by handsthestrangler2 commentssharecancelloading...198910Recently installed Linux Mint 15 on a seperate HDD. Ran into this error (self.linux4noobs)submitted 2 days ago by zedzdead339 commentssharecancelloading...20234Software Rendering Mode in Linux Mint - WiFi issues (self.linux4noobs)submitted 2 days ago by zedzdead331 commentsharecancelloading...21234Lubuntu colors are off (self.linux4noobs)submitted 2 days ago* by nkbxwb5 commentssharecancelloading...22456DVD drive not recognized Ubuntu 12.04 (self.linux4noobs)submitted 2 days ago by blueyedminordemoncommentsharecancelloading...23234What is the purpose of user roles and projects in the useradd command? (self.linux4noobs)submitted 2 days ago by ckim441 commentsharecancelloading...24567Help setting up pcsx2 for linux mint (self.linux4noobs)submitted 2 days ago* by [deleted]2 commentssharecancelloading...258910Soundcards for Linux (self.linux4noobs)submitted 3 days ago by jmmL7 commentssharecancelloading...view more: next ›aboutblogaboutteamsource codeadvertisehelpwikiFAQreddiquetterulescontact ustoolsmobilefirefox extensionchrome extensionbuttonswidget<3reddit goldstoreredditgiftsreddit.tvradio redditUse of this site constitutes acceptance of our User Agreement and Privacy Policy (updated). © 2013 reddit inc. All rights reserved.REDDIT and the ALIEN Logo are registered trademarks of reddit inc.close this windowyou'll need to login or register to do thatcreate a new accountall it takes is a username and passwordprivacy philosophy
+
+we limit data collected about you and your use of the platform,
+your personal information is never for sale,
+we use and disclose information to prevent people from abusing the platform, but
+we never disclose it for any other reason unless required by law.
+
+for more information, see our privacy policy.
+
+username:try anotheravailable!account recovery email:  (optional)we only send email at your requestpassword:verify password:remember mecreate accountis it really that easy? only one way to find out...loginalready have an account and just want to login?username:password:remember merecover passwordloginclose this windowinterface languageEnglish [en]العربية [ar] (*)Беларуская мова [be] (*)български език [bg] (*)català [ca] (*)česky [cs]dansk [da] (*)Deutsch [de]Ελληνικά [el]English (Australia) [en-au] (*)English (Canadian) [en-ca] (*)English (Great Britain) [en-gb]English [en-us] (*)Esperanto [eo] (*)español [es]español [es-ar]eesti keel [et] (*)Euskara [eu]فارسی [fa] (*)suomi [fi] (*)français [fr]עברית [he] (*)मानक हिन्दी [hi] (*)hrvatski [hr]Magyar [hu] (*)Հայերեն լեզու [hy] (*)Bahasa Indonesia [id] (*)íslenska [is] (*)italiano (Italy) [it]日本語 [ja] (*)한국어 [ko] (*)Latin [la] (*)1337 [leet]LOL [lol] (*)lietuvių kalba [lt] (*)latviešu valoda [lv] (*)Nederlands [nl]Nynorsk [nn]Norsk [no]Arrrrrrrr! [pir] (*)polski [pl] (*)português [pt] (*)português [pt-pt] (*)română [ro] (*)русский [ru] (*)slovenčina [sk] (*)slovenščina [sl] (*)српски језик [sr]Srpski [sr-la] (*)Svenska [sv] (*)தமிழ் [ta] (*)ภาษาไทย [th] (*)Türkçe [tr] (*)українська мова [uk] (*)Tiếng Việt [vi] (*)中文 [zh] (*) (*) incomplete  volunteer to translatecontent languageall languagessome languagesالعربيةעבריתpolskiБеларуская моваमानक हिन्दीportuguêsбългарски езикhrvatskiromânăcatalàMagyarрусскийčeskyՀայերեն լեզուslovenčinadanskBahasa IndonesiaslovenščinaDeutschíslenskaсрпски језикΕλληνικάitaliano (Italy)SvenskaEnglish日本語தமிழ்Esperanto한국어ภาษาไทยespañolLatinTürkçeeesti keellietuvių kalbaукраїнська моваEuskaralatviešu valodaTiếng ViệtفارسیNederlands中文suomiNynorskfrançaisNorskπ Rendered by PID 11201 on app-163 at 2013-06-25 15:47:21.617085+00:00 running d1cd38e.
