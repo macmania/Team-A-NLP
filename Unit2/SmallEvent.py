@@ -65,7 +65,7 @@ for name in files:
 				artcle += 1
 				art.append(name)
 				extractTxt = extractTxtArticle(lines)
-				print name[33:]
+				print name, name[33:]
 				newFile = open(str("TexasExtractedFiles/" + name[33:]), 'w')
 				newFile.write(str(extractTxt))
 				numArticles += 1
@@ -75,7 +75,7 @@ for name in files:
 				extractTxt = lines.split()
 				nonArtcl += 1
 				nonArt.append(name)
-
+		extractTxt = ' '
 	except IOError as exc: 
 		if exc.errno != errno.EISDIR: # Do not fail if a directory is found, just ignore it.
 			raise # Propagate other kinds of IOError.
