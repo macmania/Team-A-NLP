@@ -67,6 +67,6 @@ print('Done stemming and stuff')
 fullDist = FreqDist(processedListOfTexts)
 #Use items() because most_common() doesn't work on mac
 for word in fullDist.items()[:75]:
-    #if word[0] not in stopWords:
-    print(word[0])
+    if word[0] not in stopWords:
+    	print(word[0])
 
