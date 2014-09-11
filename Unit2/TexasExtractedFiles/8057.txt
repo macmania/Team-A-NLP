@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ['Internet, Datos, Mensajes e Email Ilimitados. Y cientos de minutos a cualquier hora.', 'Al usar nuestros servicios y este sitio de Internet, usted acuerda los siguientes t\xc3\xa9rminos.', 'El robot Android se basa en el trabajo creado y compartido por Google y que se utiliza seg\xc3\xban la Licencia Creative Commons 3.0. Google, Android y otras marcas de Google son marcas comerciales de Google, Inc.']
+=======
+['Internet, Datos, Mensajes e Email Ilimitados. Y cientos de minutos a cualquier hora.', 'Al usar nuestros servicios y este sitio de Internet, usted acuerda los siguientes trminos.', 'El robot Android se basa en el trabajo creado y compartido por Google y que se utiliza segn la Licencia Creative Commons 3.0. Google, Android y otras marcas de Google son marcas comerciales de Google, Inc.']
+>>>>>>> FETCH_HEAD

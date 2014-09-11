@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ['SearchImagesMapsPlayYouTubeNewsGmailDriveMoreCalendarTranslateMobileBooksOffersWalletShoppingBloggerFinancePhotosVideosEven more \xc2\xbbAccount OptionsSign inHelpDiscuss']
+=======
+['SearchImagesMapsPlayYouTubeNewsGmailDriveMoreCalendarTranslateMobileBooksOffersWalletShoppingBloggerFinancePhotosVideosEven more Account OptionsSign inHelpDiscuss']
+>>>>>>> FETCH_HEAD

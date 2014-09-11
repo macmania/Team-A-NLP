@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ['contained the hits \xe2\x80\x9cSlide\xe2\x80\x9d, \xe2\x80\x9cBlack Balloon\xe2\x80\x9d and \xe2\x80\x9cBroadway,\xe2\x80\x9d all of which', 'Days\xe2\x80\x9d and a chart-topping cover of Supertramp\xe2\x80\x99s \xe2\x80\x9cGive A Little Bit.\xe2\x80\x9d And', 'another dose of great Goo songs such as \xe2\x80\x9cSweetest Lie,\xe2\x80\x9d \xe2\x80\x9cOne Night\xe2\x80\x9d, and']
+=======
+['contained the hits Slide, Black Balloon and Broadway, all of which', 'Days and a chart-topping cover of Supertramps Give A Little Bit. And', 'another dose of great Goo songs such as Sweetest Lie, One Night, and']
+>>>>>>> FETCH_HEAD

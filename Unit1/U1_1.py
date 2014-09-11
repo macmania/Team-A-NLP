@@ -7,6 +7,7 @@ from nltk.book import *
 from nltk.stem.porter import *
 
 
+<<<<<<< HEAD
 print('Starting creation of stop words')
 
 stopWords = []
@@ -33,6 +34,10 @@ for f in files:
 
 
 
+=======
+
+listOfTexts= [text1,text2,text3,text4,text5,text6,text8,text9]
+>>>>>>> FETCH_HEAD
 
 
 stemmer = PorterStemmer()
@@ -45,15 +50,22 @@ for text in listOfTexts:
     for word in processedWords:
         processedListOfTexts.append(word)
 
+<<<<<<< HEAD
 print('Done stemming and stuff')
 
 setOfProcessedWords = set(processedListOfTexts)
 masterDist = FreqDist(processedListOfTexts)
 '''
+=======
+
+setOfProcessedWords = set(processedListOfTexts)
+masterDist = FreqDist(processedListOfTexts)
+>>>>>>> FETCH_HEAD
 stopWords = []
 for key in masterDist.keys():
     if masterDist[key] > 750:
         stopWords.append(key)
+<<<<<<< HEAD
 '''
 
 
@@ -62,3 +74,12 @@ for word in fdist7.items()[:75]:
     if word[0] not in stopWords:
         print(word[0])
 
+=======
+
+for word in fdist7.most_common(75):
+    if word[0] not in stopWords:
+        print(word[0])
+
+print('\nCollocations')
+colloc = text7.collocations();
+>>>>>>> FETCH_HEAD
