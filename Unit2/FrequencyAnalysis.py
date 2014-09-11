@@ -3,8 +3,9 @@ from nltk.probability import FreqDist
 from nltk import FreqDist
 import nltk
 import operator
-from nltk.book import *
+#from nltk.book import *
 from nltk.stem.porter import *
+import glob
 
 
 print('Starting creation of stop words')
@@ -19,26 +20,40 @@ print('Done creating stop words')
 
 #Populate the list of texts to be used
 listOfTexts = []
-files = glob.glob("TexasExtractedFiles/*.txt")
-count = 0
-for f in files:
-	raw = f.read()
-	#TOKENIZE??????????????????
-	tokens = nltk.word_tokenize(raw)
-	text = nltk.Text(tokens)
-	listOfTexts.append(text)
-	count = count + 1
-	if (count % 50 == 0)
-		print(count)
+directory = "TexasExtractedFiles/*.txt"
+files = glob.glob(directory)
+print('There were ')
+print(len(files))
+print('files found in the ' + directory + ' directory.')
+
+#count = 0
+for curr in files:
+#	count = count + 1
+#	if (count % 50) == 0:
+#		print(count)
+
+	try:
+		with open(curr) as f:
+			raw = f.read()
+			#TOKENIZE??????????????????
+			tokens = nltk.word_tokenize(raw)
+			text = nltk.Text(tokens)
+			listOfTexts.append(text)
+
+	except IOError as e:
+		if e.errno != errno.EISDIR:
+			raise
 
 
+print('listOfTexts has: ')
+print(len(listOfTexts))
+print('texts in it')
 
 
+#Process texts
+print('starting stemming and processing')
 
 stemmer = PorterStemmer()
-processedWords7 = [(stemmer.stem(word).lower()) for word in text7 if word.isalpha()]
-fdist7 = FreqDist(processedWords7)
-
 processedListOfTexts = []
 for text in listOfTexts:
     processedWords = [(stemmer.stem(word)).lower() for word in text if word.isalpha()]
@@ -47,18 +62,11 @@ for text in listOfTexts:
 
 print('Done stemming and stuff')
 
-setOfProcessedWords = set(processedListOfTexts)
-masterDist = FreqDist(processedListOfTexts)
-'''
-stopWords = []
-for key in masterDist.keys():
-    if masterDist[key] > 750:
-        stopWords.append(key)
-'''
 
 
+fullDist = FreqDist(processedListOfTexts)
 #Use items() because most_common() doesn't work on mac
-for word in fdist7.items()[:75]:
-    if word[0] not in stopWords:
-        print(word[0])
+for word in fullDist.items()[:75]:
+    #if word[0] not in stopWords:
+    print(word[0])
 
