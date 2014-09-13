@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 ['Start SessionTo start your chat session, please enter your name, your email address, and your question, and a representative will be with you momentarily.Name:E-mail:Question:Ticket IdPowered by\xc2\xa0\xc2\xa0Bamboo CricketSuggestion to the product? Email us.']
-=======
-['Start SessionTo start your chat session, please enter your name, your email address, and your question, and a representative will be with you momentarily.Name:E-mail:Question:Ticket IdPowered byBamboo CricketSuggestion to the product? Email us.']
->>>>>>> FETCH_HEAD
