@@ -105,10 +105,15 @@ for words in x:
         end = l
 wordsWithOutNoise = x[start:end-3]
 
-print [(w, wordsWithOutNoise.count(w)) for w in set(wordsWithOutNoise) if w in wordsWithNoise]
+x = [(w) for w in set(wordsWithOutNoise) if w in wordsWithNoise]
+l = [(y) for y in set(wordsWithNoise) if y not in wordsWithOutNoise]
 
-for x in range(len(wordsWithOutNoise)):
-    print wordsWithNoise[x], wordsWithOutNoise[x]
+print x, len(x), len(wordsWithOutNoise), len(wordsWithNoise)
+
+print l
+#print [d for l in wordsWithNoise]
+'''for x in range(len(wordsWithOutNoise)):
+    print wordsWithNoise[x], wordsWithOutNoise[x]'''
         
 
 
