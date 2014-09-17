@@ -52,8 +52,8 @@ def extractTxtArticle(strTxt):
 
 #Texas folder extraction start
 print('Beginning to clean up files and Extraction of article contents')
-#files = glob.glob("Texas Fertilizer Plant Explosion/*.txt")
-files = glob.glob("Islip13Rain/*.txt")
+files = glob.glob("Texas Fertilizer Plant Explosion/*.txt")
+#files = glob.glob("Islip13Rain/*.txt")
 artcle, nonArtcl = 0, 0
 art, nonArt = [], [] 
 extractTxt = ''
@@ -69,8 +69,8 @@ for name in files:
                 art.append(name)
                 fileName=os.path.split(name)[1]
                 extractTxt = extractTxtArticle(lines)
-                #newFile = open(str("TexasExtractedFiles/" + fileName), 'w')
-                newFile = open(str("IslipExtractedFiles/" + fileName), 'w')
+                newFile = open(str("TexasExtractedFiles/" + fileName), 'w')
+                #newFile = open(str("IslipExtractedFiles/" + fileName), 'w')
                 newFile.write(str(extractTxt))
             else:
                 stopWords.append(lines)
@@ -112,7 +112,9 @@ def writeStopWords(stopWordSet):
 ####################################################################
 # listOfTexts contains the raw strings of all cleaned texts
 listOfTexts = []
-directory = "IslipExtractedFiles/*.txt"
+directory = "TexasExtractedFiles/*.txt"
+#directory = "IslipExtractedFiles/*.txt"
+
 files = glob.glob(directory)
 print('There were '+str(len(files))+' files found in the ' + directory + ' directory.')
 for curr in files:
@@ -132,16 +134,24 @@ processedListOfTexts = []
 nounList=[]
 for text in listOfTexts:
     #temp=[]
-    wordsInText=text.split()
+
+    #wordsInText=text.split()
+    wordsInText = nltk.word_tokenize(text)
+
     for i in range(0,len(wordsInText)-1):
         word=wordsInText[i]           
-        if wordsInText[i-1]!='.' and word.istitle(): # Look for capital first letter for nouns. Nouns are of special interest to us.    
-            nounList.append(word.lower())
         # Stemming and normalization
         lemWord=(wnl.lemmatize(word)).lower()
         if lemWord not in mitStopWords and word.isalpha(): # beware : we lose number info    
-            processedListOfTexts.append(lemWord) # append all processed words in a particular text to masterList         
+            processedListOfTexts.append(lemWord) # append all processed words in a particular text to masterList
+
+
+        #tokenize
+        if wordsInText[i-1][-1]!='.' and word.istitle() and word.isalpha(): # Look for capital first letter for nouns. Nouns are of special interest to us.
+            #print(wordsInText[i-1])
+            nounList.append(lemWord)         
 print('Done lemmatizing and normalization')
+
 ####################################################################
 # Hash the nounList
 print('Hashing the nounList')
@@ -169,4 +179,4 @@ for word in top:
         probable.append(word)
         print(word)
 print('\n--------------------------------------------------\nCollocations throughout all texts: ')
-#processedListofText
+#processedListOfTexts
