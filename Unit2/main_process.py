@@ -12,7 +12,14 @@ stopWordSet=[]
 mitStopWords=[]
 processedListOfTexts = []
 nounList=[]
-    
+averageLettersPerWord=0
+percentWordsNotInStop=0
+percentWordsInRange1_15=0
+averageWordsPerSentence= 0
+YourWordsDict={}
+ARI= 0
+
+#function definitions
 def processTexts(processedListOfTexts):
     #FreqDist
     print('\n--------------------------------------------------\nCompute most frequent indicative words')
