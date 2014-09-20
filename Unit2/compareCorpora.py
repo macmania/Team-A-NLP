@@ -43,6 +43,7 @@ def createBaseline(YourWords):
 ##    #words(fileids=[f1,f2,f3])
     corporaDist=[classEventFdist, texasEventFdist, baselineFdist]
     for word in str(YourWords).split():
+        word = '\''+word+'\''
         baseVal=baselineFdist[word]
         classVal=classEventFdist[word]
         texasVal = texasEventFdist[word] 
@@ -60,6 +61,6 @@ def createBaseline(YourWords):
         for word in corpora.words() )
     cfd.plot()
     
-text= 'rain water long island islip wednesday state road town august weather york county flood flash storm damage suffolk service parkway'
+#text= 'rain water long island islip wednesday state road town august weather york county flood flash storm damage suffolk service parkway'
 text = 'people fertilizer plant explosion texas west april boston news find fire time point volunteer blast state town community marathon suspect'
 createBaseline(text)
