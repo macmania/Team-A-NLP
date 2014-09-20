@@ -2,10 +2,15 @@
 	Don't touch yet :) 
 
 	extracts the features from the body of text, i.e.: publication format, grammar structure
-	then clusters these features based on how similar they are
+	then clusters these features based on how similar they are using k-means 
 
-	Vectorizes all of the text files in the Texas folder and performs k-means to better cluster 
-	the text to the appropriate feature set. 
+	Solution: 
+		Vectorizes all of the text files in the Texas folder -> puts them in a database (in-progress of where to save this)
+		Performs k-means to better cluster these features
+		
+		Look at the cluster and see if there are particular things to look to better perform analysis
+
+		***** Need to write this in Hadoop ******
 
 	Lots of to-do
  						-----In progress-----
@@ -28,18 +33,24 @@ def extractFeatures(text):
 	print 'hello'
 	return True
 
+'''
+Tags the lines based on their word characteristic: 
+	- VB, NNP, etc. 
+	- outputs two sets of data structures
+		1. a dictionary, removes redudancy 
+		2. 
+'''
 def getTags(text): 
 	listTags = []
 
 #Assuming text is a bunch of lines conglomerated together
+#lemmatized, lower-cased and amongst other things to sanitize noise in the data
 def filter(allText): 
 	if allText == None: 
 		return
 	filteredText, words, tokens = [], [], []
 	for lines in allText: 
 		tokens = word_tokenize[lines]
-
-
 
 def readFiles() : 
 	#Texas folder collocation start
