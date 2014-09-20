@@ -49,7 +49,7 @@ def main():
     listOfTexts = normalize(processedListOfTexts,mitStopWords,nounList)
     #processTexts(processedListOfTexts)
 
-    stats(listOfTexts, mitStopWords, ['people', 'ha', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect'])
+    stats(listOfTexts, mitStopWords, ['people', 'april', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect'])
 
 if __name__ == "__main__":
     main()
