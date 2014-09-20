@@ -1,0 +1,97 @@
+Pythonjump to contentmy subredditsAdviceAnimalsannouncementsAskRedditaskscienceawwbestofblogbooksEarthPornexplainlikeimfivefunnygaminggifsIAmAmoviesMusicnewspicssciencetechnologytelevisiontodayilearnedvideosworldnewsWTFedit subscriptionsfront-all-random | pics-funny-gaming-AskReddit-worldnews-news-videos-IAmA-todayilearned-WTF-aww-technology-AdviceAnimals-science-Music-movies-bestof-books-EarthPorn-explainlikeimfive-gifs-television-askscience-leagueoflegends-pokemon-politics-cringepics-GrandTheftAutoV-reactiongifs-breakingbad-4chan-gentlemanboners-MakeupAddiction-Minecraft-cats-soccer-fffffffuuuuuuuuuuuu-woahdude-circlejerk-TheLastAirbender-DotA2-conspiracy-atheism-nfl-teenagers-starcraft-pcmasterrace-facepalm-Unexpected-thatHappenedmore » Pythonhotnewrisingcontroversialtopwant to join? login or register in seconds|Englishlimit my search to /r/Pythonuse the following search parameters to narrow your results:subreddit:subredditfind submissions in "subreddit"author:usernamefind submissions by "username"site:example.comfind submissions from "example.com"url:textsearch for "text" in urlselftext:textsearch for "text" in self post contentsself:yes (or self:no)include (or exclude) self postsnsfw:yes (or nsfw:no)include (or exclude) results marked as NSFWe.g. subreddit:aww site:imgur.com dogsee the search faq for details.advanced search: by author, subreddit...remember mereset passwordloginSubmit a new linkSubmit a new text postPythonsubscribeunsubscribe56,119 readers~61 users here nownews about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python
+If you are about to ask a question, please consider r/learnpython
+Please don't use URL shorteners
+Posting code to this subreddit:
+Add 4 extra spaces before each line of code
+def fibonacci():
+    a, b = 0, 1
+    while 1:
+        yield a
+        a, b = b, a + b
+
+Online books
+
+Learn Python the Hard Way (for Python 2)
+Dive into Python 3 (for Python 3)
+Invent Your Own Computer Games with Python
+Beginner's Guide to Python
+Non-programmers Tutorial for Python 3
+Five life jackets to throw to the new coder (perfect for when you're done with LPTHW)
+
+Online exercices
+
+codingbat
+pyschools
+codecademy
+/r/dailyprogrammer
+
+programming challenges
+
+The Python Challenge (solve each level through programming)
+CheckiO (game world)
+Project Euler (math heavy)
+
+Asking Questions
+
+Should I use Python 2 or Python 3?
+r/learnpython
+r/learnprogramming
+
+Try Python in your browser
+
+learnpython.org
+Skulpt (uses WebGL)
+trypython.org (uses Silverlight)
+ideone (online compiler and debugger)
+PythonAnywhere (basic accounts are free)
+Brython (Python 3 implementation for client-side web programming)
+
+Docs
+
+Python 2 docs
+Python 3 docs
+Packaging docs (under development)
+The Hitchhiker's Guide to Python
+
+Libraries
+
+Twisted, 0MQ (networking)
+Django, Pyramid, ... (Web Frameworks)
+Pygame (Game development)
+NumPy & SciPy (Scientific computing)
+
+Related subreddits
+
+/r/flask (web microframework)
+/r/django (web framework for perfectionists with deadlines)
+/r/pygame (a set of modules designed for writing games)
+/r/IPython (interactive environment)
+/r/inventwithpython (for the books written by /u/AlSweigart)
+
+Python jobs
+
+Python.org job board
+pythonjobs.com
+Python Jobs HQ
+
+Newsletters
+
+Pycoder's Weekly
+Python Weekly
+
+Screencasts
+
+Neckbeard Republic
+Bucky's Python Tutorials.
+
+
+a community for 5 yearsmessage the moderatorsMODERATORSBioGeekBioinformatics software developernevarechromakodemdipierrokingkilrCPython/PyPy/Django developerquasarjjrupacimport this...and 1 more »reddit is a website about everythingpowered by community, democracy, and you.learn more ›what's this?This sponsored link is an advertisement generated with our self-serve advertisement tool.Use of this tool is open to all members of reddit.com, and for as little as $5.00 you can advertise in this area. Get started ›This area shows new and upcoming links. Vote on links here to help them become popular, and click the forwards and backwards buttons to view more.Enter a keyword or topic to discover new subreddits around your interests. Be specific!You can access this tool at any time on the /subreddits/ page.1171819Programming a Perceptron in Python (blog.dbrgn.ch)submitted 4 hours ago by dbrgncommentsharecancelloading...2767778Coursera's Interactive Programming in Python is open! (class.coursera.org)submitted 12 hours ago by idoescompooters12 commentssharecancelloading...3•••sphinxcontrib.contributors: This documentation was brought you by these awesome persons (opensourcehacker.com)submitted 50 minutes ago by moo9001commentsharecancelloading...4•••A Billion Rows per Second: Metaprogramming Python for Big Data (youtube.com)submitted 1 hour ago by mubbashir1 commentsharecancelloading...5678isort (the Python import sorting command line tool, library, and collection of text-editor plugins) version 2.0.0 released. Adds a Vim plugin, initial Sublime plugin, improved Kate plugin, and the ability to add/remove import statements across multiple Python files. (github.com)submitted 11 hours ago by timothycrosleycommentsharecancelloading...6626364Python for Rookies - A First Course in Programming [Online Lecture Slides & videos] (pythonforrookies.org)submitted 1 day ago by Remoras9 commentssharecancelloading...7171819lifelines: survival regression and analysis in Python (github.com)submitted 20 hours ago by HootBackcommentsharecancelloading...8123Executing code in ST3 (self.Python)submitted 9 hours ago by DoubleMintx2 commentssharecancelloading...9000PHP, Perl or Python: which one is best? (altabel.wordpress.com)submitted 7 hours ago by Alanxa1 commentsharecancelloading...10567Any great ideas for a quick Python introduction? (self.Python)submitted 23 hours ago by PigBoyOhBoy8 commentssharecancelloading...11252627Getting started with Python (self.Python)submitted 1 day ago by Trevorrrrrr32 commentssharecancelloading...12123To get started with Python programming I decided to write a basic client to fetch Reddit submissions. (github.com)submitted 17 hours ago by tiiv5 commentssharecancelloading...13000Could someone make a python script to install a chrome plugin? (self.Python)submitted 18 hours ago by ErrorImpact2 commentssharecancelloading...1491011Python 3d gurus - please help (self.Python)submitted 1 day ago* by app_maker13 commentssharecancelloading...15118119120Python + FFMPEG : read and write any Audio/Video format with just a few lines of code. (zulko.github.io)submitted 2 days ago by laMarm0tte28 commentssharecancelloading...16222324Working with unicode streams in Python (blog.etianen.com)submitted 1 day ago by etianen3 commentssharecancelloading...17000Learning the language, crashed the compiler within my first ten commands. I might be hopeless. (i.imgur.com)submitted 1 day ago by [deleted]3 commentssharecancelloading...18000python3 color and shape help (self.Python)submitted 1 day ago by hakh14772 commentssharecancelloading...19404142Numba vs. Parakeet vs. Cython (nbviewer.ipython.org)submitted 2 days ago by cypherx2 commentssharecancelloading...20000New to Python (self.Python)submitted 1 day ago by never_easy17 commentssharecancelloading...21474849stl_tools: Python library to convert images and text to 3D-printable STL files (github.com)submitted 2 days ago by thearn4Scientific computing, Image Processing6 commentssharecancelloading...22262728A preview of the upcoming PyMC3 (a Bayesian MCMC statistical package) and its new GLM submodule (twiecki.github.io)submitted 2 days ago by roger_4 commentssharecancelloading...23101112Dynamic Programming with Python and C# (devleader.ca)submitted 2 days ago by ncosentino5 commentssharecancelloading...24131415python package managers: easy_install works behind proxy, pip doesnt (self.Python)submitted 2 days ago* by alok2912 commentssharecancelloading...25232425Pyke: rake-inspired make tool for Python (github.com)submitted 3 days ago by dreikanter9 commentssharecancelloading...view more: next ›aboutblogaboutteamsource codeadvertisehelpwikiFAQreddiquetterulescontact ustoolsmobilefirefox extensionchrome extensionbuttonswidget<3reddit goldstoreredditgiftsreddit.tvradio redditUse of this site constitutes acceptance of our User Agreement and Privacy Policy. © 2013 reddit inc. All rights reserved.REDDIT and the ALIEN Logo are registered trademarks of reddit inc.close this windowyou'll need to login or register to do thatcreate a new accountall it takes is a username and passwordprivacy philosophy
+
+we limit data collected about you and your use of the platform,
+your personal information is never for sale,
+we use and disclose information to prevent people from abusing the platform, but
+we never disclose it for any other reason unless required by law.
+
+for more information, see our privacy policy.
+
+username:try anotheravailable!account recovery email:  (optional)we only send email at your requestpassword:verify password:remember mecreate accountis it really that easy? only one way to find out...loginalready have an account and just want to login?username:password:remember merecover passwordloginclose this windowinterface languageEnglish [en]العربية [ar] (*)Беларуская мова [be] (*)български език [bg] (*)català [ca] (*)česky [cs]dansk [da]Deutsch [de]Ελληνικά [el]English (Australia) [en-au] (*)English (Canadian) [en-ca] (*)English (Great Britain) [en-gb]English [en-us] (*)Esperanto [eo] (*)español [es]español [es-ar]eesti keel [et] (*)Euskara [eu]فارسی [fa] (*)suomi [fi] (*)français [fr]עברית [he] (*)मानक हिन्दी [hi]hrvatski [hr]Magyar [hu] (*)Հայերեն լեզու [hy] (*)Bahasa Indonesia [id] (*)íslenska [is] (*)italiano (Italy) [it]日本語 [ja] (*)한국어 [ko] (*)Latin [la] (*)1337 [leet]LOL [lol] (*)lietuvių kalba [lt] (*)latviešu valoda [lv] (*)Nederlands [nl]Nynorsk [nn]Norsk [no]Arrrrrrrr! [pir] (*)polski [pl] (*)português [pt] (*)português [pt-pt] (*)română [ro] (*)русский [ru] (*)slovenčina [sk] (*)slovenščina [sl] (*)српски језик [sr]Srpski [sr-la] (*)Svenska [sv] (*)தமிழ் [ta] (*)ภาษาไทย [th] (*)Türkçe [tr] (*)українська мова [uk] (*)Tiếng Việt [vi] (*)中文 [zh] (*) (*) incomplete  volunteer to translatecontent languageall languagessome languagesالعربيةעבריתpolskiБеларуская моваमानक हिन्दीportuguêsбългарски езикhrvatskiromânăcatalàMagyarрусскийčeskyՀայերեն լեզուslovenčinadanskBahasa IndonesiaslovenščinaDeutschíslenskaсрпски језикΕλληνικάitaliano (Italy)SvenskaEnglish日本語தமிழ்Esperanto한국어ภาษาไทยespañolLatinTürkçeeesti keellietuvių kalbaукраїнська моваEuskaralatviešu valodaTiếng ViệtفارسیNederlands中文suomiNynorskfrançaisNorskπ Rendered by PID 18166 on app-15 at 2013-10-07 13:34:06.451265+00:00 running f288a9d.
