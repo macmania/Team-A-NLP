@@ -27,12 +27,12 @@ def createBaseline(YourWords, YourWords2):
     baselineFdist=FreqDist(nltk.Text(fullText.split()))
 
     f = open('ISLIPPROCESSED.txt')
-    classEvent= nltk.Text(f.read().lower().split()) #???
+    classEvent= f.read().lower().split(',') #???
     classEventFdist=FreqDist(classEvent)
     f.close()
 
     f = open('TEXASPROCESSED.txt')
-    texasEvent= nltk.Text(f.read().lower().split())
+    texasEvent= f.read().lower().split(',')
     texasEventFdist=FreqDist(texasEvent)
     f.close()
 
@@ -43,7 +43,7 @@ def createBaseline(YourWords, YourWords2):
     cfdist = ConditionalFreqDist()
 ##    #words(fileids=[f1,f2,f3])
     corporaDist=[classEventFdist, texasEventFdist, baselineFdist]
-    for word in str(YourWords).split():
+    for word in YourWords:
         #word = str(word)
         #word = '\''+word+'\''
         baseVal=baselineFdist[word]
@@ -51,7 +51,7 @@ def createBaseline(YourWords, YourWords2):
         texasVal = texasEventFdist[word] 
         print('word: ', word, ' classVal: ', classVal, ' baseVal: ', baseVal, ' texasVal: ', texasVal)
 
-    for word in str(YourWords2).split():
+    for word in YourWords2:
         #word = '\''+word+'\''
         baseVal=baselineFdist[word]
         classVal=classEventFdist[word]
@@ -71,6 +71,6 @@ def createBaseline(YourWords, YourWords2):
         for word in corpora.words() )
     cfd.plot()
     
-text= ['rain', 'rain', 'water', 'long', 'island', 'islip', 'wednesday', 'state', 'road', 'town', 'august', 'weather', 'york', 'county', 'flood', 'flash', 'storm', 'damage', 'suffolk', 'service', 'parkway', 'parkway']
+text= ['rain', 'the', 'rain', 'water', 'long', 'island', 'islip', 'wednesday', 'state', 'road', 'town', 'august', 'weather', 'york', 'county', 'flood', 'flash', 'storm', 'damage', 'suffolk', 'service', 'parkway', 'parkway']
 text2 = ['people', 'people', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'april', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect', 'suspect']
 createBaseline(text, text2)
