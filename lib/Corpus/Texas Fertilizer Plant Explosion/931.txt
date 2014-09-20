@@ -1,0 +1,289 @@
+WARN Interactive Live Radar - NewsOn6.com - Tulsa, OK - News, Weather, Video and Sports - KOTV.com | 
+
+
+
+WARN Interactive Live Radar - NewsOn6.com - Tulsa, OK - News, Weather, Video and Sports - KOTV.com | 
+
+
+
+
+
+
+Tulsa Shooting SpreeAmerican Airlines: Turbulent TimesConnect With UsLinks MentionedSix in the MorningFood for KidsTV ScheduleRSS FeedsPoliticsOklahoma Wildfires6 InvestigatesCrime Special Coverage Send Us News TipsBusinessHealthStrange NewsEmail Sign-UpRadarsWeather In-DepthCurrent TempsWeather 101Safety TipsCommunitySKYCAMSStorm ZoneWeather Product InteractiveNews On 6 VideosWatch CBS ShowsVideoBytesVideo RequestsThe VaultFord Sports BlitzHigh School FootballLatest RecipesBy TypeBy SpecialtyKitchen ToolsSign Up For Recipe EmailsMainTax GuideMother's Day EntertainmentMoneyHome/FamilyHealthFoodPetsTechTravelBeauty & StyleAutoVideoBytesPress ReleasesText & WinGet SocialBrady RebornCommunity CalendarConcept HomeEmail Sign-UpFood for KidsHoroscopesLottery ResultsState Of AddictionSix In The MorningEmploymentKQCW ChannelsLegal Notices TV ScheduleVideo RequestsAdvertise With UsSend Us News TipsNews On 6 NowMoneySavingQueen.comClassifiedsBusiness Directory
+
+
+
+
+Member Center:Create Account|Log InManage Account|Log Out
+
+SITE SEARCHWEB SEARCH BY 
+
+
+
+
+
+
+
+
+
+
+
+
+WARN Interactive Radar is one of the most advanced online radar tools available. The radar is a statewide composite image that provides a quick look at weather across Oklahoma. To get started, click anywhere on the map below to load that region’s local radar, or click one of the thumbnails below the main radar image. Once the radar has loaded, you can use the checkboxes available to activate or deactivate features like rotation, hail, and lightning. For more information, check out the user guide below the thumbnails.
+
+
+
+
+
+
+
+
+
+
+
+
+
+WARN Interactive
+Radar
+Winterize
+Rainfall
+Track
+Hail
+Rotation
+Intense Rotation
+Lightning
+Warnings
+Zoom
+Display Problems
+
+
+WARN Interactive Help Guide
+Our WARN Interactive Radar is one of the most advanced online radar tools available and it allows you to take the controls.
+To begin using the radar, choose a map by clicking on one of the map images. When you click on an image the system will begin to load the most current weather data. When the radar loads you will be able to use the check boxes at the top of the page to turn the radar features on and off.
+
+
+Radar
+The Radar button is pre–selected when you launch a radar display. This display is the standard radar display most people are familiar with seeing.
+Radar essentially detects the location and the intensity of precipitation. The intensity is measured in units called dBZ.
+The intensity scale is on the left–hand side of the radar window and ranges from light precipitation represented by the blues and greens, to the intense precipitation, represented by the reds and purples. The most extreme precipitation intensity on this scale is white.
+Notice the smooth look of the precipitation patterns (i.e., the storms) on the radar display. This is a result of high definition data processing which eliminates the blocky appearance typical of less sophisticated radar displays.
+
+
+Winterize
+This button changes the radar imagery to detect winter precipitation like rain, freezing rain, sleet and snow. The legend on the left side also changes to indicate the winter precipitation type.
+This highly advanced feature allows you to track winter storms and monitor the type of precipitation falling in a particular area.
+
+
+Rainfall
+The Rainfall button displays the estimated rainfall distribution across the entire radar screen. You will note the scale on the left–hand side has changed to a color table representing amounts of rainfall from a trace to over 14″.
+Notice the first three shades of blue at the bottom of the scale from 0 to 1. These specific colors represent rainfall amounts from a trace to 1/3″, and then from 1/3″ to 2/3″, and then from 2/3″ to 1″, respectively.
+
+
+Track
+This will overlay a storm track on every significant storm. The line extending from the storm points in the direction of motion, and the end of the line gives you an idea of where the storm will be in one hour.
+The tick marks along each line gives you an idea of where the storm will be in 15–minute increments out to one hour.
+Therefore, if a line passes over a particular town, you can expect the storm’s arrival within a one hour period.
+
+
+Hail
+This simple button activates the results of an extremely complex program that analyzes every storm in three dimensions and calculates the maximum size of hail stones within each storm.
+As you can see in the scale on the left–hand side of the radar window, a small white ball icon is plotted when the radar detects pea to marble–sized hail. A slightly larger white ball with an inscribed letter “P” indicates penny–sized hail.
+Once the hail reaches one inch or more in diameter (about the size of a quarter), a relatively large white ball icon is plotted with the size of the hail stone (in inches) inscribed within the ball.
+
+
+Rotation
+Since our WARN Interactive Radar ingests true Doppler Radar wind data, it is possible to detect areas of rotation within a thunderstorm. These rotation centers are identified by a gray swirl icon.
+However, it must be emphasized at this time that just because a thunderstorm has developed rotation, it does not necessarily mean that this rotation is a tornado, nor does it mean that it will continue to develop and eventually produce a tornado.
+Thunderstorms often produce areas of rotation that come and go without producing severe weather or any damage at all. But when these rotation centers persist for more than 10 to 15 minutes, their chances of producing severe weather of some kind — whether it is large hail, damaging winds and/or tornados — significantly increase.
+
+
+Intense Rotation
+Areas of particularly strong rotation are identified by either a purple swirl icon or a purple arrowhead as indicated by the legend.
+The purple swirl icon simply means that intense rotation was detected, but it was located in the upper–level parts of the storm rather than near the bottom. Thus, it is not likely that this intense rotation has made it to the ground.
+The purple arrowhead means that intense rotation was detected in the lowest levels of the storm, and therefore has a higher probability that it is actually extending down to the ground.
+It should be pointed out that due to the curvature of the earth, it is not possible for any radar, no matter how powerful, to see what is going on directly at ground level.
+However, when a purple arrowhead is observed on the WARN Interactive Radar — and especially if it is preceded by and/or coincident with a long lived rotation center as indicated by a gray or purple swirl icon — a Tornado Warning is often issued.
+
+
+Lightning
+The Lightning button displays five minutes worth of cloud–to–ground lightning strikes for each frame in the radar animation. It allows you to see if a storm is weakening or strengthening by observing the decrease or increase in the number of strikes associated with each storm.
+Lightning data provided by NAPLN, the North American Precision Lightning Network. Experience has shown that the resolution, timeliness, and format of NAPLN Lightning Data do not present a complete picture or description of the presence of lightning or convective activity in a particular area or the potential impact of such activity on the safety of personnel and property. Interpretation and use of the data, including any extrapolation or forecast based on such data, is at customer’s sole risk.
+
+
+Warnings
+The severe weather warnings displayed on WARN Interactive Radar are not simply an outline of the county being warned. The outlines produced by our WARN Interactive Radar specifically point out which part of the county (or counties) will be affected by the storm.
+The warnings are also dynamic in the sense that they move with any change in storm motion. Thus if a storm takes an unexpected turn to the left or right, the warning outline will adjust to reflect those areas under the greatest threat and which areas are in the “all clear”.
+
+
+Zoom
+To zoom in and out on the radar place your cursor on the map image and click your left mouse button. The left button zooms in. Holding down your ALT or CTRL button (CMD button for Mac) while clicking with your left button zooms out. You can also move the map around while zoomed in by holding down your left button and dragging.
+
+
+Display Problems
+WARN Interactive requires Flash Player. Go to adobe.com to download and install the latest version of Flash Player for free.
+
+
+
+
+
+
+
+
+
+
+SKYCAM Network
+
+
+
+
+Special Features
+
+
+
+
+
+
+
+Bus Stop Forecast
+Wondering if you’ll need rain gear for your morning bus trip or afternoon ride home? Ask Alan!
+
+
+
+
+
+
+Eagle Cam
+Get a bird’s eye view from the Sutton Avian Research Center Live Bald Eagle nest camera.
+
+
+
+
+
+
+Storm Tracker Radar
+The Storm Tracker Interactive Radar takes you inside the storm. Watch live storm tracker video.
+
+
+
+
+
+
+Weather Dog
+Meet Radar, News On 6’s Weather Dog. Radar joins the weather team & teaches severe weather safety.
+
+
+
+
+
+
+Weather Widgets
+Have current conditions, alerts and the latest forecast on your website!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured on NewsOn6.com »
+
+Desktop RadarDownload I–News to receive weather alerts, current conditions & view the live radar!
+Mobile AlertsGet alerts sent to your cell phone or email when watches and warnings are issued for severe weather.
+RadarsSee where weather is happening using our live interactive radars.
+SkyNews 6When there is breaking news across the state SkyNews 6 can be first on the scene.
+Storm ZoneWatch tornadoes tear across Oklahoma and learn how to stay safe!
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+			News On 6
+			303 N. Boston Ave
+			Tulsa, OK 74103
+
+TULSA'S OWN TM
+GREEN COUNTRY'S OWN TM
+
+			Oklahoma’s Own NewsOn6.com is proud to provide Oklahomans with timely and relevant news and information, sharing the stories, pictures and loves of Oklahomans across our great state including Tulsa’s Own and Green Country’s Own.
+		
+
+
+NEWS
+
+6 Investigates
+Business
+Crime
+Education
+Special Coverage
+Politics
+Links
+Six In The Morning
+
+
+
+WEATHER
+
+WARN Interactive
+Street Level Radar
+Current Temps
+Desktop Radar
+Weather 101
+Weather Community
+Storm Tracker
+Weather In-Depth
+
+
+
+FEATURED
+
+Video
+Share
+Recipes
+Classifieds
+Contests
+Community
+Contact Us
+Employment
+
+
+
+DIGITAL NETWORK
+
+NewsOn6.com
+News9.com
+Business Directory
+TulsaCW.com
+RadioOklahoma.net
+OklahomaFarmReport.com
+
+
+
+
+		All content © Copyright 2000 - 2013, WorldNow and KOTV. All Rights Reserved. For more information on this site, please read our Privacy Policy and Terms of Service.
+	
+
+
+
+
+
+

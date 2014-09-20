@@ -1,0 +1,5 @@
+KOSU Public Calendar
+
+Your browser does not appear to support JavaScript, but this page needs to use JavaScript to display correctly.
+You can visit the HTML-only version of this page at:
+https://www.google.com/calendar/hosted/kosu.org/htmlembed?showTitle=0&showTabs=0&showCalendars=0&showTz=0&height=370&wkst=1&bgcolor=%23BFE0F6&src=kosu.org_592rtlrfcac838ve176i4ufu98%40group.calendar.google.com&color=%23AB8B00&ctz=America%2FChicago
