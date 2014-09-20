@@ -6,7 +6,7 @@ from nltk.probability import *
 #from collections import Counter
 #inputs:
 #outputs:
-def createBaseline(YourWords):
+def createBaseline(YourWords, YourWords2):
     #fullText = brown.raw() + reuters.raw() + state_union.raw() + nltk.corpus.words.raw()
     #f = open('ALLRAW.txt', 'w')
     #f.write(fullText)
@@ -14,6 +14,7 @@ def createBaseline(YourWords):
 
     f = open('ALLRAW.txt')
     fullText = f.read()
+    fullText = fullText.lower()
     f.close()
     print(len(fullText))
 
@@ -23,7 +24,7 @@ def createBaseline(YourWords):
     baseline=baseline.append(state_union.words())
     baseline=baseline.append(nltk.corpus.words.words())#confirm if this exists
     '''
-    baselineFdist=FreqDist(nltk.Text(fullText))
+    baselineFdist=FreqDist(nltk.Text(fullText.split()))
 
     f = open('ISLIPPROCESSED.txt')
     classEvent= nltk.Text(f.read().lower().split()) #???
@@ -43,11 +44,20 @@ def createBaseline(YourWords):
 ##    #words(fileids=[f1,f2,f3])
     corporaDist=[classEventFdist, texasEventFdist, baselineFdist]
     for word in str(YourWords).split():
-        word = '\''+word+'\''
+        #word = str(word)
+        #word = '\''+word+'\''
         baseVal=baselineFdist[word]
         classVal=classEventFdist[word]
         texasVal = texasEventFdist[word] 
         print('word: ', word, ' classVal: ', classVal, ' baseVal: ', baseVal, ' texasVal: ', texasVal)
+
+    for word in str(YourWords2).split():
+        #word = '\''+word+'\''
+        baseVal=baselineFdist[word]
+        classVal=classEventFdist[word]
+        texasVal = texasEventFdist[word] 
+        print('word: ', word, ' classVal: ', classVal, ' baseVal: ', baseVal, ' texasVal: ', texasVal)
+
 
     cfdist = ConditionalFreqDist()
     #words(fileids=[f1,f2,f3])
@@ -61,6 +71,6 @@ def createBaseline(YourWords):
         for word in corpora.words() )
     cfd.plot()
     
-#text= 'rain water long island islip wednesday state road town august weather york county flood flash storm damage suffolk service parkway'
-text = 'people fertilizer plant explosion texas west april boston news find fire time point volunteer blast state town community marathon suspect'
-createBaseline(text)
+text= ['rain', 'rain', 'water', 'long', 'island', 'islip', 'wednesday', 'state', 'road', 'town', 'august', 'weather', 'york', 'county', 'flood', 'flash', 'storm', 'damage', 'suffolk', 'service', 'parkway', 'parkway']
+text2 = ['people', 'people', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'april', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect', 'suspect']
+createBaseline(text, text2)
