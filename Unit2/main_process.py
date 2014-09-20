@@ -4,6 +4,7 @@ import noiseFilter_2
 from stopWordLists import *
 from cleanUp import *
 from normalize import *
+from stats import *
 
 #Global variables
 extractTxt = ''
@@ -11,6 +12,7 @@ sublStopWords=[]
 stopWordSet=[]
 mitStopWords=[]
 processedListOfTexts = []
+listOfTexts = []
 nounList=[]
 averageLettersPerWord=0
 percentWordsNotInStop=0
@@ -25,9 +27,10 @@ def processTexts(processedListOfTexts):
     print('\n--------------------------------------------------\nCompute most frequent indicative words')
     #requires tokenized nltk/string. Also can use ' '.join(processedListOfTexts)
     fullDist = FreqDist(str(word) for word in processedListOfTexts)
-    #Use items() because most_common() doesn't work on mac.
+    #Use items() because moslst_common() doesn't work on mac.
     #Note: Please confirm if output of items() is sorted by value
-    top=[word[0] for word in fullDist.most_common(50) if word[0] not in stopWordSet]
+    #top=[word[0] for word in fullDist.most_common(50) if word[0] not in stopWordSet]
+    top=[word[0] for word in fullDist.items()[:50] if word[0] not in stopWordSet]
     for word in top:
         print(word)
     relevantNouns=[]
@@ -41,10 +44,12 @@ def processTexts(processedListOfTexts):
 
 def main():
     mitStopWords = createMitStopWordList() # New is in mit stopword list! NEW York!
-    #cleanUp_1(extractTxt,sublStopWords)
-    cleanUp_2(extractTxt)
-    normalize(processedListOfTexts,mitStopWords,nounList)
-    processTexts(processedListOfTexts)
+    cleanUp_1(extractTxt,sublStopWords)
+    #cleanUp_2(extractTxt)
+    listOfTexts = normalize(processedListOfTexts,mitStopWords,nounList)
+    #processTexts(processedListOfTexts)
+
+    stats(listOfTexts, mitStopWords, ['people', 'ha', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect'])
 
 if __name__ == "__main__":
     main()

@@ -37,3 +37,5 @@ def normalize(processedListOfTexts,mitStopWords,nounList):
             if lemWord not in mitStopWords and word.isalpha(): # beware : we lose number info    
                 processedListOfTexts.append(lemWord) # append all processed words in a particular text to masterList         
     print('Done lemmatizing and normalization')
+
+    return listOfTexts

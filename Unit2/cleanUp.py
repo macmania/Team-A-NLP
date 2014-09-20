@@ -53,7 +53,8 @@ def cleanUp_2(extractTxt):
                 lines = f.read()
                 extractTxt=noiseFilter_2(lines)
                 fileName=os.path.split(name)[1]
-                newFile = open(str("IslipExtractedFiles/" + fileName), 'w')
+                newFile = open(str("TexasExtractedFiles/" + fileName), 'w')
+                #newFile = open(str("IslipExtractedFiles/" + fileName), 'w')
                 newFile.write(str(extractTxt))
                 fileCount+=1
                 print(fileCount)
