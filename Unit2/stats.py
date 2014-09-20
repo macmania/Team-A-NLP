@@ -2,6 +2,8 @@
 import nltk
 from nltk import tokenize
 from decimal import *
+from nltk import probability
+from nltk.probability import FreqDist
 #from __future__ import division
 
 # inputs: 1) fullText, 2) stop-word list(ours/mit's) 3)
@@ -16,6 +18,17 @@ def stats(listOfTexts, stopList, YourWords):
     countInRange1_15= 0
 
     YourWordsDict = {}
+    masterFDist = {}
+
+    fdist=FreqDist(nltk.Text(str(listOfTexts).lower().split()))
+    fdist2=FreqDist(nltk.Text('abc abc abc hello random words'))
+    for word in YourWords:
+        print(word, fdist[word])
+    for word in fdist2.keys():
+        print(word)
+
+    for x in range(1,16):
+        print(x, fdist(x))
 
 #    for line in fullTextInLines:
 
@@ -24,12 +37,13 @@ def stats(listOfTexts, stopList, YourWords):
         #print("THE TEXT IS:")
         #print(text)
         fullTextInLines = nltk.sent_tokenize(text)
-
+        
         #print("THE TOKENIZED TEXT IS")
         #print(fullTextInLines)
         for line in fullTextInLines:
             totalSentences = totalSentences + 1
             for word in line.split():
+                word = word.lower()
                 # to find average number of letters per word
                 totalLetters = totalLetters + len(word) 
                 totalWords = totalWords + 1
@@ -44,12 +58,13 @@ def stats(listOfTexts, stopList, YourWords):
                 if word not in stopList:
                     countNotInStop = countNotInStop + 1
 
-
     print(totalSentences)
     print(totalWords)
     print(totalLetters)
     print(countNotInStop)
     print(countInRange1_15)
+
+
 
     averageLettersPerWord= Decimal(totalLetters)/Decimal(totalWords)
     percentWordsNotInStop= (Decimal(countNotInStop)/Decimal(totalWords))*100
@@ -64,4 +79,6 @@ def stats(listOfTexts, stopList, YourWords):
     for word in YourWords:
         YourWordsDict[word]=YourWordsDict[word]/totalWords
     # 4.71 uw + 0.5 us - 21.43
-    ARI= 4.71*averageLettersPerWord + 0.5*averageWordsPerSentence  - 21.43
+    ARI= Decimal(4.71)*Decimal(averageLettersPerWord) + Decimal(0.5)*Decimal(averageWordsPerSentence)  - Decimal(21.43)
+
+    print('ARI', ARI)

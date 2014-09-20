@@ -38,5 +38,6 @@ def extractTxtArticle(strTxt):
     extractTxt = []
     for r in range(len(strTxt)):
         if len(strTxt[r].strip(' ')) >= 80 and '|' not in strTxt[r] and '#' not in strTxt[r]:
-            extractTxt.append(strTxt[r])
+            if (is_ascii(strTxt[r])):
+                extractTxt.append(strTxt[r])
     return extractTxt
