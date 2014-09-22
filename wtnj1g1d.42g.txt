@@ -1,0 +1,22 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   arjunTestfile.txt
+#
+# Untracked files:
+#	../Unit1/Islip13Rain/10.txt~Merge branch 'master' of https
+#	../Unit1/Islip13Rain/2.txt~Merge branch 'master' of https
+#	../Unit1/Islip13Rain/3.txt~Merge branch 'master' of https
+#	../Unit1/Islip13Rain/4.txt~Merge branch 'master' of https
+#	../Unit1/Islip13Rain/8.txt~Merge branch 'master' of https
+#	Islip13Rain/10.txt~Merge branch 'master' of https
+#	Islip13Rain/2.txt~Merge branch 'master' of https
+#	Islip13Rain/3.txt~Merge branch 'master' of https
+#	Islip13Rain/4.txt~Merge branch 'master' of https
+#	Islip13Rain/8.txt~Merge branch 'master' of https
+#
+
