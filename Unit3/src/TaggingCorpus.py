@@ -19,7 +19,6 @@ from AnalysisWords import getFreqDist
 ##########################################
 
 
-
 #a text of body that needs to
 def getTagCorpus(textToks):
   listOfAllTags, listOfTags = [], []
@@ -45,8 +44,12 @@ def getNouns(listTags):
 def getPOS(listOfNouns):
   distNouns = getFreqDist(listOfNouns, 10)
   swFreeNouns = removeStopWords(distNouns)
-  #print swFreeNouns
   return swFreeNouns
+
+#compares the result we had gotten from solr
+def compareSolr(wordsPOS):
+    results, solrWords = " some results ", []
+    return results
 
 #need a better name
 def analysis():
@@ -66,8 +69,6 @@ def analysis():
   print "These are the list of all nouns in the class event corpus\n", len(posSum)
   for x in posSum:
     print x
-
-
 
 
 analysis()
