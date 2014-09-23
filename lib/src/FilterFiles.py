@@ -2,8 +2,6 @@
 	Filters the file based on the structure, still a lot to do to improve
 	the criterion on removing the noise
 '''
-# Filter noisy sentences from webpages. Assume that relevant text to us is only Sentenes.
-# Assumption: sentences are strings ending with '.', '?' or '!'
 import nltk
 import re
 
@@ -11,33 +9,13 @@ import re
 #output: Input raw text is split into sentences. Non-sentences are discarded.
 def noiseFilter_2(rawText):
     rawSentences=re.findall( '.+?[.?!]',rawText)
-    # re.findall Returns all non-overlapping matches of 'string.' in rawText, as a list of strings
-    #print(RawSentences)
     sentences= [sent for sent in rawSentences if len(sent)>80]
     return sentences
 
-    #Now tokenize and continue processing
-#noiseFilter_2('abc. def. \n\n\n\tTitle....! of \n\nSent1? Sent2.\nSent3.')
 
-#disadvantage: noise is discarded - can't create stop word list.
-# So we use both approaches and give two results. better method depends on noisy text files.
-
-
-# Scrape useless noise from Texas */*.txt files
 def is_ascii(s):
     return all(ord(c) < 128 for c in s)
 
-#analyzes the text based on the number of lines in comparison to the words of a text file
-#if there are more lines than text then it's not an article. (Interesting to look at whether a
-#   cluster of text may indicate that the text is an article)
-#If it's an article then we use a k-means clustering to look at:
-#   - top 10 most frequent words
-#   - top collocation phrases
-#If it's not an article then we report:
-#   - top 5 most frequent words
-#   - find the common phrases
-#Question: which one is better? common phrases for an article or most frequent words in
-#                                                                   a non-article
 def classifyTxt(strTxt):
     if strTxt == None:
         print "parameter cannot be empty"
@@ -51,12 +29,6 @@ def classifyTxt(strTxt):
         else:
             return False
 
-#extracts a chunk of text that are similar distance to one another, assuming that the
-#article is double or single spaced.
-#returns the extracted text
-'''Need to ask Dr. Fox what the best approach would be to classify a particular text:
-    according to the chunk it belongs to, but since for this program we are not classify
-    the text on a particular file, we just want to know which content is the most relevant'''
 def extractTxtArticle(strTxt):
 		strTxt = strTxt.splitlines()
 		extractTxt = []
@@ -65,3 +37,31 @@ def extractTxtArticle(strTxt):
 		      if (is_ascii(strTxt[r])):
 		          extractTxt.append(strTxt[r])
 		return extractTxt
+
+def createStopWordsCollection():
+	mitStopWords=[]
+	mitStopWordsFile=open('../../lib/StopWords/mit_stop_words.txt')
+	mitStopWords = [line.strip() for line in mitStopWordsFile]
+	mitStopWordsFile.close()
+	return mitStopWords
+
+
+def removeStopWords(text):
+	mitStopWords = createStopWordsCollection()
+	keys = {}
+	for e in text:
+		e=str(e).split('\n')
+		for element in e:
+				if element not in mitStopWords:
+						element=str(element).strip()
+						keys[element] = 1
+	stopWordSet= keys.keys()
+	return stopWordSet
+
+
+# Write sub-language stop words into file
+def writeStopWordsFile(stopWordSet, fileName):
+		stopWordFile=open('../output/' + fileName,'w')
+		for word in stopWordSet:
+				stopWordFile.write(str(word))
+		stopWordFile.close()
