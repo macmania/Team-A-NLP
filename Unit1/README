@@ -1,1 +1,24 @@
-Unit I solution 
+Unit I solution for the class “Natural Language Processing” 
+	Team members: 
+		Arjun
+		Saurav Sharma
+		Jonathan Tran
+		Jouella Fabe
+
+
+To run this program, run the shell script: 
+	./Unit1 
+
+If interested in examining in running the solution individually, then just add the flag
+	./Unit1 -1b1
+
+If you want to put the solution for the python script into a text file, the output will be put in a folder called “output”. Type this command: 
+	./Unit1 -f 
+
+If you need help then type this command
+	./Unit1 -help
+
+Happy examining our solutions
+
+Some of the python scripts might be in a library outside of Unit1. We made this library so that we decrease rewriting our solutions 
+

@@ -1,0 +1,33 @@
+To-do, still needs revision
+
+Self-help git command tour
+
+1. Make sure to pull from the repository: 
+	git pull
+
+2. Check if you have any changes that needs to be pushed to the remote server: 
+	git status 
+
+3. If you do then just add them and commit (make sure that you added a useful message)
+	git add "whatever files"
+	git commit -m "some useful message on what you've done"
+		i.e. fixed a bug, added a feature, fixed a bug in the feature (keep it simple)
+
+4. Then push it to the server: 
+	git push
+
+How to deal with conflicts with the git repo
+
+1. When you push to the server and it says that you need to merge some files, type this
+	command to ensure safe merging: 
+	git mergetool - this should tell you which files need to be merged
+2. After finishing all of the conflicts: 
+	git add "some files"
+	git commit -m "some message that is useful"
+	git push
+
+If there were a lot of changes made to a particular class, please submit a pull request so that all of the members can comment and
+discuss whether the changes are necessary and what not. Here is a helpful articule on pull request: 
+	https://help.github.com/articles/using-pull-requests
+
+If you have any conflicts please message jojofabe@vt.edu
