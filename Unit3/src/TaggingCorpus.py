@@ -36,7 +36,7 @@ def getTagCorpus(textToks):
 #compares the list when there are nouns that are filtered
 #and ones that are not filtered
 def getNouns(listTags):
-  listOfAllNouns = [a for (a, b) in listTags if b[0] == 'N' and b != "NUM" and len(a) > 2]
+  listOfAllNouns = [a.lower() for (a, b) in listTags if b[0] == 'N' and b != "NUM" and len(a) > 2]
   # edit: storing noun as is, i.e, we are Not lower-casing
   return listOfAllNouns
 
