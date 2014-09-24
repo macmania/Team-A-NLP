@@ -6,6 +6,7 @@ from __future__ import division
 import nltk
 from nltk.corpus import PlaintextCorpusReader
 import sys, os
+
 ######################sets up the path######
 currPath = os.path.abspath("")
 startPath = 0
