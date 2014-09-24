@@ -52,9 +52,9 @@ def removeStopWords(text):
 	for e in text:
 		e=str(e).split('\n')
 		for element in e:
-				if element not in mitStopWords:
+				if element.lower() not in mitStopWords: # Note : checking against lower-case word
 						element=str(element).strip()
-						keys[element] = 1
+						keys[element] = 1 # !!! NOTE : key is word as is, NOT lowercased word
 	stopWordSet= keys.keys()
 	return stopWordSet
 
