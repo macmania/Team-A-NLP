@@ -63,6 +63,9 @@ def getVerbs(listTags):
   listOfAllVerbs = [a.lower() for (a, b) in listTags if b[0] == 'V' and b != "NUM" and len(a) > 2]
   return listOfAllVerbs  
 
+def getAdjs(listTags):
+  listOfAllAdjs = [a.lower() for (a, b) in listTags if b [0]== 'J' and b[1]=='J']
+  return listOfAllAdjs 
 #returns summary of the tags based on:
 #  1. FreqDist
 #  2. Not in Stop Words
@@ -101,7 +104,7 @@ def extractTopPOS():
   allVerbs = getVerbs(listOfAllTags) # allNouns= list of all nouns 
   topVerbs = getPOS(allVerbs) #posSum= list of top 10 stop-word free nouns
 
-  print "These are the list of top nouns in the class event corpus\n", len(posSum)
+  """print "These are the list of top nouns in the class event corpus\n", len(posSum)
   print 'Printing top (stop-word free) nouns '
   for x in posSum:
     print x
@@ -114,5 +117,10 @@ def extractTopPOS():
   print "These are the list of top verbs in the class event corpus\n", len(topVerbs)
   for x in topVerbs:
     print x
+
+  print "These are the list of top adjectives in the class event corpus\n", len(topAdjs)
+  for x in topAdjs:
+    print x
+  """  
 
 extractTopPOS()

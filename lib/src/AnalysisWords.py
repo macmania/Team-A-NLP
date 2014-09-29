@@ -13,10 +13,8 @@ def getFreqDist(text, occurNum):
   #if there are fewer than 25 items in the top choices, then return items that are in the
   #top 25 in the dictionary freq dist items
   if len(topChoices) < 25:
-    listWords = dictItems[0:26]
-    print listWords
-    topChoices = [a for (a, b) in listWords]
-
+    topChoices = topChoices[0:25]
+  print topChoices
   return topChoices
 
 def getReducerFreqDist(freqdistr, listOfWords, occurNum):
