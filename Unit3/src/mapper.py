@@ -1,23 +1,28 @@
 #!/usr/bin/env python
 import sys
 import nltk
+import cPickle
+from cPickle import load
+
+#Import tagger
+inp = open('TrigramTagger.pkl', 'rb')
+tagger = load(inp)
+inp.close()
+
+sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 for line in sys.stdin:
-    # remove leading and trailing whitespace
-	line = line.strip()
-	line=nltk.word_tokenize(line)
-    # split the line into words
-	#words = line.split()
-    # initialize counts
-    wnl = nltk.WordNetLemmatizer()
-	for word in words:
-        # write the results to STDOUT (standard output);
-        # what we output here will be the input for the
-        # Reduce step, i.e., the input for reducer.py
-        #
-        # tab-delimited; the trivial word count is 1
-        word = word.lower()
+    #assume line is the full path for a file
+    currentFile = open(line)
 
-        if (word.isalnum()):
-            word = wnl.lemmatize(word)
-            print '%s\t%s' % (word, 1)
+    #FOR EACH SENTENCE IN THE FILE
+    #   lowercase everything
+    #   get POS of all words
+    #   lemmatize word??
+    #   OUTPUT: word_pos   1   to a file
+    sentences = sent_tokenizer.tokenize(currentFile)
+    for sent in sentences:
+        sent = sent.lower()
+        posTagsTuples = tagger.tag(sent)
+        for tup in posTagsTuples:
+            print '%s\t%s' % (tup[0] + '_' + tup[1], 1)
