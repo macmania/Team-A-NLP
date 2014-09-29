@@ -80,6 +80,8 @@ def compareSolr(wordsPOS):
 def extractTopPOS():
 
   CEcorpus_root = '../../lib/Corpus/ClassEvent'
+  Solrcorpus_root = '../output/SolrFolder/'
+  SolrcorpusWord =  PlaintextCorpusReader(Solrcorpus_root, "*\.txt")
   CEWordLists = PlaintextCorpusReader(CEcorpus_root, ".*\.txt")
   CE = CEWordLists.raw() # read all texts, CE = string of all texts
   extractTxt = extractTxtArticle(CE) #list of lines separated by \n
