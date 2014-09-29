@@ -1,1 +1,1 @@
-['When you exit a car and shutdown its engine (come to a complete stop then hold the exit button), it will make ticking noises until it cools down.', 'we use and disclose information to prevent people from abusing the platform, but']
+When you exit a car and shutdown its engine (come to a complete stop then hold the exit button), it will make ticking noises until it cools down.we use and disclose information to prevent people from abusing the platform, but
