@@ -4,10 +4,12 @@ import nltk
 import cPickle
 from cPickle import load
 
-#Import tagger
+#Import tagger and lemmatizer
 inp = open('TrigramTagger.pkl', 'rb')
 tagger = load(inp)
 inp.close()
+
+wnl = nltk.WordNetLemmatizer()
 
 sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
@@ -25,4 +27,8 @@ for line in sys.stdin:
         sent = sent.lower()
         posTagsTuples = tagger.tag(sent)
         for tup in posTagsTuples:
-            print '%s\t%s' % (tup[0] + '_' + tup[1], 1)
+            lemmatizedWord = wnl.lemmatize(tup[0])
+            print '%s\t%s' % (lemmatizedWord + '_' + tup[1], 1)
+
+
+    
