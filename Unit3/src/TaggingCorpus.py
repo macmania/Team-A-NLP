@@ -6,7 +6,7 @@ from __future__ import division
 import nltk
 from nltk.corpus import PlaintextCorpusReader
 import sys, os
-
+from nltk.probability import FreqDist
 ######################sets up the path######
 currPath = os.path.abspath("")
 startPath = 0
@@ -16,7 +16,7 @@ pathClass = currPath[0:endPath-9] + '/lib/ClassCode/'
 sys.path.append(pathSrc)
 sys.path.append(pathClass)
 from FilterFiles import extractTxtArticle, removeStopWords
-from AnalysisWords import getFreqDist
+from AnalysisWords import *
 ##########################################
 
 
@@ -67,7 +67,9 @@ def getVerbs(listTags):
 #  1. FreqDist
 #  2. Not in Stop Words
 def getPOS(listOfWords):
-  distWords = getFreqDist(listOfWords, 10)
+  #distWords = getFreqDist(listOfWords, 10)
+  freqd=FreqDist(listOfWords) #simulates freqdist obtained from reducer
+  distWords = getReducerFreqDist(freqd,listOfWords, 50)
   swFreeWords = removeStopWords(distWords)
   return swFreeWords
 
@@ -75,7 +77,6 @@ def getPOS(listOfWords):
 def compareSolr(wordsPOS):
     results, solrWords = " some results ", []
     return results
-
 
 def extractTopPOS():
 
