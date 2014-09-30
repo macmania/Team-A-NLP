@@ -18,7 +18,7 @@ for line in sys.stdin:
     # convert count (currently a string) to int
 	try:
 		count = int(count)
-	exceptValueError:
+	except ValueError:
         # count was not a number, so silently
         # ignore/discard this line
 		continue
@@ -38,4 +38,4 @@ for line in sys.stdin:
                 freqdistr[word]=current_count
 # do not forget to output the last word if needed!
 if current_word == word:
-print '%s\t%s' % (current_word, current_count)
+	print '%s\t%s' % (current_word, current_count)
