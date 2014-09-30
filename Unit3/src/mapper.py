@@ -32,7 +32,7 @@ for line in sys.stdin:
         posTagsTuples = tagger.tag(wordList) # use Trigram tagger to tag sentence
         #print posTagsTuples
         for tup in posTagsTuples:
-            print tup[0]
+            #print tup[0]
             lemmatizedWord = wnl.lemmatize(tup[0])
             print '%s\t%s' % (lemmatizedWord + '_' + tup[1], 1)
 
