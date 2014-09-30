@@ -28,6 +28,7 @@ for line in sys.stdin:
     for sent in sentences: # each sentence in file
         sent = sent.lower()
         posTagsTuples = tagger.tag(sent) # use Trigram tagger to tag sentence
+        print posTagsTuples
         for tup in posTagsTuples:
             print tup
             lemmatizedWord = wnl.lemmatize(tup[0])
