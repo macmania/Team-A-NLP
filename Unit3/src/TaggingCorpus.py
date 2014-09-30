@@ -82,19 +82,12 @@ def compareSolr(wordsPOS):
     return results
 
 def extractTopPOS(location, descriptionLocation):
-  print location
   CEcorpus_root = location
-  #Solrcorpus_root = '../output/SolrFolder/'
 
   CEWordLists = PlaintextCorpusReader(CEcorpus_root, ".*\.txt")
   CE = CEWordLists.raw() # read all texts, CE = string of all texts
 
-  #SolrWordLists =  PlaintextCorpusReader(Solrcorpus_root, "*\.txt")
-  #SOLR = SolrWordLists.raw()
-
-
   extractTxt = extractTxtArticle(CE) #list of lines separated by \n
-  print "extracting txt", extractTxt
   CE = " ".join(extractTxt) # CE now is a string with all lines of all texts
   sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
   CEsents = sent_tokenizer.tokenize(CE) # CEsents= list of sentences(strings)
@@ -111,9 +104,11 @@ def extractTopPOS(location, descriptionLocation):
   allVerbs = getVerbs(listOfAllTags) # allNouns= list of all nouns 
   topVerbs = getPOS(allVerbs) #posSum= list of top 10 stop-word free nouns
 
+"""
   print "These are the list of top nouns in the ", descriptionLocation, '\n', len(posSum)
 
   print "These are the list of top nouns in the class event corpus\n", len(posSum)
+
 
   print 'Printing top (stop-word free) nouns '
   for x in posSum:
@@ -131,6 +126,7 @@ def extractTopPOS(location, descriptionLocation):
   print "These are the list of top adjectives in the class event corpus\n", len(topAdjs)
   for x in topAdjs:
     print x
-  
+  """
 
 extractTopPOS('../../lib/Corpus/ClassEvent', 'class event')
+extractTopPOS('../output/', 'solr folder')
