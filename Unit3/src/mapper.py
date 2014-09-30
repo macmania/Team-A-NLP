@@ -17,12 +17,14 @@ for line in sys.stdin:
     #assume line is the full path for a file
     currentFile = open(line)
     fullFile=currentFile.read()
+    print fullFile
     #FOR EACH SENTENCE IN THE FILE
     #   lowercase everything
     #   get POS of all words
     #   lemmatize word??
     #   OUTPUT: word_pos   1   to a file
     sentences = sent_tokenizer.tokenize(fullFile) #sentences = list of sentence strings
+    print sentences
     for sent in sentences: # each sentence in file
         sent = sent.lower()
         posTagsTuples = tagger.tag(sent) # use Trigram tagger to tag sentence
