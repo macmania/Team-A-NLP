@@ -29,7 +29,7 @@ for line in sys.stdin:
     for sent in sentences: # each sentence in file
         sent = sent.lower()
         wordList=nltk.word_tokenize(sent)
-        posTagsTuples.append(tagger.tag(sent)) # use Trigram tagger to tag sentence
+        posTagsTuples.append(tagger.tag(wordList)) # use Trigram tagger to tag sentence
         print posTagsTuples
         for tup in posTagsTuples:
             print tup
