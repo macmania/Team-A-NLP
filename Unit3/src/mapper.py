@@ -29,6 +29,7 @@ for line in sys.stdin:
         sent = sent.lower()
         posTagsTuples = tagger.tag(sent) # use Trigram tagger to tag sentence
         for tup in posTagsTuples:
+            print tup
             lemmatizedWord = wnl.lemmatize(tup[0])
             print '%s\t%s' % (lemmatizedWord + '_' + tup[1], 1)
 
