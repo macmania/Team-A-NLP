@@ -25,9 +25,11 @@ for line in sys.stdin:
     #   OUTPUT: word_pos   1   to a file
     sentences = sent_tokenizer.tokenize(fullFile) #sentences = list of sentence strings
     print sentences
+    posTagsTuples=[]
     for sent in sentences: # each sentence in file
         sent = sent.lower()
-        posTagsTuples = tagger.tag(sent) # use Trigram tagger to tag sentence
+        wordList=nltk.word_tokenize(sent)
+        posTagsTuples.append(tagger.tag(sent)) # use Trigram tagger to tag sentence
         print posTagsTuples
         for tup in posTagsTuples:
             print tup
