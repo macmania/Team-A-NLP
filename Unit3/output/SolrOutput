@@ -4,7 +4,7 @@
     "QTime":1,
     "params":{
       "indent":"true",
-      "q":"county | weather | area | islip | flash | damage | long | state | storm | rainfall | inches | cars | rain",
+      "q":"text: county | weather | area | islip | flash | damage | long | state | storm | rainfall | inches | cars | rain",
       "wt":"json"}},
   "response":{"numFound":826063,"start":0,"docs":[
       {
