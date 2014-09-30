@@ -7,7 +7,7 @@ from cPickle import load
 # import punkt tokenizer
 sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 #Import tagger 
-inp = open('TrigramTagger.pkl', 'rb')
+inp = open('/home/cla/UITeamA/Unit3/src/TrigramTagger.pkl', 'rb')
 tagger = load(inp)
 inp.close()
 # import lemmatizer
