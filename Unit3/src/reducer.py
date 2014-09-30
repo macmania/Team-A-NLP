@@ -38,4 +38,4 @@ for line in sys.stdin:
                 freqdistr[word]=current_count
 # do not forget to output the last word if needed!
 if current_word == word:
-print '%s\t%s' % (current_word, current_count)
+	print '%s\t%s' % (current_word, current_count)
