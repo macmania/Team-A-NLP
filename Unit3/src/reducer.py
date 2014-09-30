@@ -18,7 +18,7 @@ for line in sys.stdin:
     # convert count (currently a string) to int
 	try:
 		count = int(count)
-	exceptValueError:
+	except ValueError:
         # count was not a number, so silently
         # ignore/discard this line
 		continue
