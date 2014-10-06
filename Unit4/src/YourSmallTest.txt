@@ -1,0 +1,10 @@
+11_pos.txt pos
+14_pos.txt pos
+17_neg.txt neg
+19_neg.txt neg
+1_pos.txt pos
+22_pos.txt pos
+2_pos.txt pos
+6_pos.txt pos
+7_neg.txt neg
+8_neg.txt neg
