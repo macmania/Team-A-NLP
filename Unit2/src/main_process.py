@@ -43,13 +43,13 @@ def processTexts(processedListOfTexts):
     #print('\n--------------------------------------------------\nCollocations throughout all texts: ')
 
 def main():
-    mitStopWords = createMitStopWordList() # New is in mit stopword list! NEW York!
+    ##mitStopWords = createMitStopWordList() # New is in mit stopword list! NEW York!
     cleanUp_1(extractTxt,sublStopWords)
     #cleanUp_2(extractTxt)
-    listOfTexts = normalize(processedListOfTexts,mitStopWords,nounList)
+    #listOfTexts = normalize(processedListOfTexts,mitStopWords,nounList)
     #processTexts(processedListOfTexts)
 
-    stats(listOfTexts, mitStopWords, ['people', 'april', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect'])
+    #stats(listOfTexts, mitStopWords, ['people', 'april', 'fertilizer', 'plant', 'explosion', 'texas', 'west', 'boston', 'news', 'find', 'fire', 'time', 'point', 'volunteer', 'blast', 'state', 'town', 'community', 'marathon', 'suspect'])
 
 if __name__ == "__main__":
     main()
