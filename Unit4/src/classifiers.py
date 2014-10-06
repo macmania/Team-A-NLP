@@ -3,11 +3,15 @@ import nltk
 #import sklearn
 from sklearn.svm import SVC
 
-
 featureList=['texas', 'west', 'north', 'waco', 'town', 'explosion', 'blast', 'fertilizer', 'plant', 'company', 'fire', 'flames', 'firefighters', 'responders', 'extinguish', 'people', 'damage', 'destroyed', 'danger', 'injured', 'dead', 'death', 'killed', 'casualties', 'bodies', 'toll', 'rescue', 'buildings', 'homes', 'wednesday', 'authorities', 'officials', 'police', 'state', 'trooper', 'firemen', 'cause', 'ammonia', 'chemical', 'Mary', 'Reyes', 'farming', 'community', 'determine', 'investigation', 'department']
 trainFeatureSets=[]
 testFeatureSets=[]
 
+# Do this based on most_informative_features
+# TO BE DONE
+def modifyFeatureList(): 
+    print ''
+    
 def crossValidation(classifier):
     f1= open('YourSmallAllLabelled.txt')
     totalAcc=0
@@ -18,26 +22,27 @@ def crossValidation(classifier):
     for i in range(0,5):
         startIdxTestImgs= int((numImgs*i)/5)
         endIdxTestImgs= int((numImgs*(i+1))/5)
-        print range(startIdxTestImgs,endIdxTestImgs)
-        print 'Starting Index of testing images = '+str(startIdxTestImgs)
-        print 'Starting Index of testing images = '+str(endIdxTestImgs)
+        #print range(startIdxTestImgs,endIdxTestImgs)
+        #print 'Starting Index of testing images = '+str(startIdxTestImgs)
+        #print 'Starting Index of testing images = '+str(endIdxTestImgs)
         for idx in range(0, numImgs): # name.split()[0] = file name, [1]= label
             name = allImages[idx]
             f2= open(os.path.join('../YourSmallAllLabelled',name.split()[0]))
             if idx in range(startIdxTestImgs,endIdxTestImgs):
-                print 'Testing using '+name.split()[0]
+                #print 'Testing using '+name.split()[0]
                 testFeatureSets.append((feature_ext(f2.read().lower()),name.split()[1]))
             else:
-                print 'Training using '+name.split()[0]
+                #print 'Training using '+name.split()[0]
                 trainFeatureSets.append((feature_ext(f2.read().lower()),name.split()[1]))
             f2.close()
             # Train and test classifier for this set of training/test data
         training_model= nltk.NaiveBayesClassifier.train(trainFeatureSets)
-        print(str(classifier)+' accuracy = ')
+        #print(str(classifier)+' accuracy = ')
         acc= nltk.classify.accuracy(training_model, testFeatureSets)    
-        print acc
+        #print acc
         totalAcc+= acc
-        
+    avgAcc=totalAcc/5
+    print str(classifier)+' average accuracy ='+str(avgAcc)
 def extractFeatures():
     f1= open('YourSmallTrain.txt')
     trainImages= f1.read().splitlines()
@@ -92,6 +97,6 @@ def classify_Maxent():
 
 def classify_SVM():
     print 'Train SVM classifier'
-    #classifier_SVM = nltk.classify.SklearnClassifier(SVC()).train(trainFeatureSets)
+    classifier_SVM = nltk.classify.SklearnClassifier(SVC()).train(trainFeatureSets)
     print 'SVM classifier accuracy= '
-    #print nltk.classify.accuracy(classifier_SVM, testFeatureSets)    
+    print nltk.classify.accuracy(classifier_SVM, testFeatureSets)    

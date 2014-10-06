@@ -1,7 +1,7 @@
 import os, glob, errno
 
 def writeTrainList():
-    files = glob.glob('../../lib/Corpus/YourSmallDocs/*.txt')
+    files = glob.glob('../YourSmallAllLabelled/*.txt')
     f= open('YourSmallTrain.txt','w')
     count_pos=0
     count_neg=0
