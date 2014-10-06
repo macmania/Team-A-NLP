@@ -30,7 +30,7 @@ def processTexts(processedListOfTexts):
     #Use items() because moslst_common() doesn't work on mac.
     #Note: Please confirm if output of items() is sorted by value
     #top=[word[0] for word in fullDist.most_common(50) if word[0] not in stopWordSet]
-    top=[word[0] for word in fullDist.items()[:50] if word[0] not in stopWordSet]
+    top=[word[0] for word in fullDist.items()[:100] if word[0] not in stopWordSet]
     for word in top:
         print(word)
     relevantNouns=[]
