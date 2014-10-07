@@ -26,8 +26,8 @@ for line in sys.stdin:
         else:
             featureset[word]= False        
     print line+'\t'+ classifier.classify(featureset)
-    #print '%s\t%s' % (lemmatizedWord + '_' + tup[1], 1)
-
+    
+    
 
 
     
