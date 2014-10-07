@@ -1,12 +1,21 @@
 import os, glob, errno, re
 import nltk
-#import sklearn
-from sklearn.svm import SVC
+#from sklearn.svm import SVC
+from cPickle import dump
 
 featureList=['texas', 'west', 'north', 'waco', 'town', 'explosion', 'blast', 'fertilizer', 'plant', 'company', 'fire', 'flames', 'firefighters', 'responders', 'extinguish', 'people', 'damage', 'destroyed', 'danger', 'injured', 'dead', 'death', 'killed', 'casualties', 'bodies', 'toll', 'rescue', 'buildings', 'homes', 'wednesday', 'authorities', 'officials', 'police', 'state', 'trooper', 'firemen', 'cause', 'ammonia', 'chemical', 'Mary', 'Reyes', 'farming', 'community', 'determine', 'investigation', 'department']
+output = open('featureList.pkl', 'wb')
+dump(featureList, output, -1)
+output.close()
+    
 trainFeatureSets=[]
 testFeatureSets=[]
 
+def saveTrainModel(trainModel):
+    output = open('classifierModel.pkl', 'wb')
+    dump(trainModel, output, -1)
+    output.close()
+    
 # Do this based on most_informative_features
 # TO BE DONE
 def modifyFeatureList(): 
@@ -43,6 +52,7 @@ def crossValidation(classifier):
         totalAcc+= acc
     avgAcc=totalAcc/5
     print str(classifier)+' average accuracy ='+str(avgAcc)
+    
 def extractFeatures():
     f1= open('YourSmallTrain.txt')
     trainImages= f1.read().splitlines()
@@ -62,7 +72,8 @@ def extractFeatures():
         f2= open(os.path.join('../TestYourSmall',name.split()[0]))
         testFeatureSets.append((feature_ext(f2.read().lower()),name.split()[1]))
         f2.close()
-        
+    return classifier
+
 def feature_ext(text):
     #print 'text'+text
     featureset={}
@@ -82,21 +93,24 @@ def classify_NaiveBayes():
     classifier_NB = nltk.NaiveBayesClassifier.train(trainFeatureSets)
     print 'Naive Bayes classifier accuracy= '
     print nltk.classify.accuracy(classifier_NB, testFeatureSets)
+    return classifier_NB
 
 def classify_DecisionTree():
     # Train Naive Bayes classifier 
     classifier_DT = nltk.DecisionTreeClassifier.train(trainFeatureSets)
     print 'Decision Tree classifier accuracy= '
     print nltk.classify.accuracy(classifier_DT, testFeatureSets)
+    return classifier_DT
 
 def classify_Maxent():
     print 'Train Maximum Entropy classifier'
     classifier_ME = nltk.classify.MaxentClassifier.train(trainFeatureSets)
     print 'Maximum Entropy classifier accuracy= '
     print nltk.classify.accuracy(classifier_ME, testFeatureSets)
+    return classifier_ME
 
 def classify_SVM():
     print 'Train SVM classifier'
-    classifier_SVM = nltk.classify.SklearnClassifier(SVC()).train(trainFeatureSets)
-    print 'SVM classifier accuracy= '
-    print nltk.classify.accuracy(classifier_SVM, testFeatureSets)    
+    #classifier_SVM = nltk.classify.SklearnClassifier(SVC()).train(trainFeatureSets)
+    #print 'SVM classifier accuracy= '
+    #print nltk.classify.accuracy(classifier_SVM, testFeatureSets)    

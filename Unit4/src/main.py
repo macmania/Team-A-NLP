@@ -11,11 +11,11 @@ def main():
     #classify_DecisionTree()
     #classify_Maxent()
     #classify_SVM()
-    crossValidation(nltk.NaiveBayesClassifier)
+    bestClassifier = crossValidation(nltk.NaiveBayesClassifier)
     crossValidation(nltk.DecisionTreeClassifier)
     crossValidation(nltk.MaxentClassifier)
-    crossValidation(nltk.classify.SklearnClassifier(SVC()))
-    
+    #crossValidation(nltk.classify.SklearnClassifier(SVC()))
+    saveTrainModel(bestClassifier)
     
 if __name__=="__main__":
     main()
