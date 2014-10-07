@@ -16,7 +16,7 @@ input.close()
 # input is file with fullpath filenames
 for line in sys.stdin:
     #assume line is the full path for a file
-    currentFile = open(line)
+    currentFile = open(line[:-1])
     #extract features
     text= currentFile.read()
     featureset={}

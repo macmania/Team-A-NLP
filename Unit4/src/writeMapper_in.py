@@ -4,7 +4,7 @@ def writeTrainList():
     files = glob.glob('../../Unit2/output/TexasExtractedFiles/*.txt')
     f= open('mapper_in.txt','w')
     for name in files:
-        f.write(name)
+        f.write(name+'\n')
     f.close()            
     
 writeTrainList()
