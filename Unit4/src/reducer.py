@@ -6,8 +6,8 @@ import sys
 pos_count=0
 neg_count=0
 unknown=0
-f1=open('Relevant.txt')
-f1=open('Noise.txt')
+f1=open('Relevant.txt','w')
+f1=open('Noise.txt','w')
 # input comes from STDIN
 for line in sys.stdin:
     # remove leading and trailing whitespace
