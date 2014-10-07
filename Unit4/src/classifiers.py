@@ -52,7 +52,8 @@ def crossValidation(classifier):
         totalAcc+= acc
     avgAcc=totalAcc/5
     print str(classifier)+' average accuracy ='+str(avgAcc)
-    
+    return training_model
+
 def extractFeatures():
     f1= open('YourSmallTrain.txt')
     trainImages= f1.read().splitlines()
