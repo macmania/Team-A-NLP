@@ -3,39 +3,29 @@
 from operator import itemgetter
 import sys
 
-current_word = None
-current_count = 0
-word = None
-freqdistr={} #make it global var?
+pos_count=0
+neg_count=0
+unknown=0
+f1=open('Relevant.txt')
+f1=open('Noise.txt')
 # input comes from STDIN
 for line in sys.stdin:
     # remove leading and trailing whitespace
-	line = line.strip()
-
+    line = line.strip()
     # parse the input we obtained from mapper.py
-	word, count = line.split('\t', 1)
-
-    # convert count (currently a string) to int
-	try:
-		count = int(count)
-	except ValueError:
-        # count was not a number, so silently
-        # ignore/discard this line
-		continue
-
-
-	# this IF-switch only works because Hadoop sorts Map output by key (here: word) 
-	#  before it is passed to the reducer
-	if current_word == word:
-		current_count += count
-		freqdistr[word]=current_count
-	else:
-		if current_word:
-            # write result to STDOUT
-			print '%s\t%s' % (current_word, current_count)
-		current_count = count
-		current_word = word
-                freqdistr[word]=current_count
-# do not forget to output the last word if needed!
-if current_word == word:
-	print '%s\t%s' % (current_word, current_count)
+    filename, label = line.split('\t', 1)
+    if label=='pos':
+        pos_count += 1
+        f1.write(line)
+    elif label=='neg':
+        f2.write(line)    
+        neg_count+=1
+    else :
+        unknown+=1 # expect it to be 0 always
+        		
+    # write result to STDOUT
+    print '%s\t%s' % (filename, label)
+f1.close()
+f2.close()
+print 'Count of relevant documents: '+str(pos_count)
+print 'Count of noisy documents: '+str(neg_count)

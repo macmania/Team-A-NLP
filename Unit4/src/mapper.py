@@ -25,7 +25,7 @@ for line in sys.stdin:
             featureset[word]= True
         else:
             featureset[word]= False        
-    print line+'\t'+ classifier.classify(featureset)
+    print line[:-1]+'\t'+ classifier.classify(featureset)
     
     
 
