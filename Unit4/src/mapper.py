@@ -14,7 +14,7 @@ input = open('classifierModel.pkl', 'rb')
 classifier = load(input)
 input.close() 
 # input is file with fullpath filenames
-for line in ['../../Unit2/output/TexasExtractedFiles/1.txt']:
+for line in sys.stdin:
     #assume line is the full path for a file
     currentFile = open(line)
     #extract features
