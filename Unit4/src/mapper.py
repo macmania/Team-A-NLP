@@ -3,6 +3,7 @@ import sys
 import nltk
 import cPickle
 from cPickle import load
+import re
 
 #import featureList
 input= open('featureList.pkl','rb')
