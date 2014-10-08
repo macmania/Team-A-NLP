@@ -16,9 +16,9 @@ for line in sys.stdin:
     filename, label = line.split('\t', 1)
     if label=='pos':
         pos_count += 1
-        f1.write(line)
+        f1.write(filename+'\n')
     elif label=='neg':
-        f2.write(line)    
+        f2.write(filename+'\n')    
         neg_count+=1
     else :
         unknown+=1 # expect it to be 0 always
