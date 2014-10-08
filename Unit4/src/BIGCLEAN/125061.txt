@@ -1,0 +1,1 @@
+['YP, the YP logo and all other YP marks contained herein are trademarks of YP Intellectual Property LLC and/or YP affiliated companies.', 'AT&T, the AT&T Logo and all AT&T related marks are trademarks of AT&T Inc. or AT&T affiliated companies.']

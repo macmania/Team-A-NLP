@@ -1,0 +1,1 @@
+['\t\t\t\t\t\t\t\tThe author of the Flash source file (.fla) has to assign a clickTag variable using a getURL button action. They also have to make sure that they have selected _blank for a target so it opens in a new window.']

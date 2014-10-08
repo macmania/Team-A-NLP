@@ -1,0 +1,1 @@
+['Ad opportunity: Custom rich media unit that appears to move across a web page and then resolves into a standard banner.    ', 'Close Button: Must be present and clearly defined at all times, the "close" button MUST include the word "CLOSE" in visible bold letters and should include a large BOLD X, also aligned with the right rail']
