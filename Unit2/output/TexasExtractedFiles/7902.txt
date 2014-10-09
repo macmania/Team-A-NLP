@@ -1,1 +1,0 @@
-['Many thanks to r/Lubbock users SwollenGoat for the top bar and stylizing, and boar_amour for bug fixes and CSS cleaning!', 'we use and disclose information to prevent people from abusing the platform, but']

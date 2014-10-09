@@ -38,10 +38,10 @@ def crossValidation(classifier):
             name = allImages[idx]
             f2= open(os.path.join('../YourSmallAllLabelled',name.split()[0]))
             if idx in range(startIdxTestImgs,endIdxTestImgs):
-                #print 'Testing using '+name.split()[0]
+                print 'Testing using '+name.split()[0]
                 testFeatureSets.append((feature_ext(f2.read().lower()),name.split()[1]))
             else:
-                #print 'Training using '+name.split()[0]
+                print 'Training using '+name.split()[0]
                 trainFeatureSets.append((feature_ext(f2.read().lower()),name.split()[1]))
             f2.close()
             # Train and test classifier for this set of training/test data
