@@ -1,0 +1,1 @@
+JavaScript appears to be either disabled or unsupported by your browser. This web application requires JavaScript to work properly. Please enable JavaScript in your browser settings, or upgrade to a browser with JavaScript support and try again. Please ask the phpfreechat community on the forum if you are not able to load the chat.
