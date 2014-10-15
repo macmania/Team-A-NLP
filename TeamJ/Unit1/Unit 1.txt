@@ -1,0 +1,4 @@
+Best simple predicate for text7: [w for w in text7 if len(w) >= 6 and w.isalpha()]
+For the best small set, display the 50 most common. For word pairs, use collocations()
+
+Best simple predicate for ClassEvent: [w for w in ClassEvent if len(w) >= 5 and w.isalpha()]
