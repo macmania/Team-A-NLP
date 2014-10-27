@@ -1,0 +1,24 @@
+hadoop jar $HP -mapper mapper.py -reducer reducer.py -input smallCollectionList.txt -output U5/ceoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -file Unit5/stanfordNER.pickle -cacheArchive nltk_data.zip#nltkData -cacheArchive CollectionBig#eventData
+
+//vm
+hadoop jar $HP -mapper mapper.py -reducer reducer.py -input classeventfiles.txt -output U5/ceoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -file Unit5/english.all.3class.distsim.crf.ser.gz -file Unit5/stanford-ner.jar -cacheArchive nltk_data.zip#nltkData -cacheArchive ClassEvent#eventData
+
+//cluster
+hadoop jar $HP -Dmapreduce.reduce.memory.mb=5120 -mapper mapper.py -reducer reducer.py -input CCSwords.txt -output U5/csoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -file Unit5/english.all.3class.distsim.crf.ser.gz -file Unit5/stanford-ner.jar -cacheArchive nltk_data.zip#nltkData -cacheArchive CleanCollectionSmall#eventData
+
+hadoop jar $HP -mapper mapper.py -reducer reducer.py -input classeventlist.txt -output U5/ceoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -file Unit5/english.all.3class.distsim.crf.ser.gz -file Unit5/stanford-ner.jar -cacheArchive nltk_data.zip#nltkData -cacheArchive ClassEvent#eventData
+
+hadoop jar $HP -mapper mapper.py -reducer reducer.py -input classeventlist.txt -output U5/ceoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -file stanfordNER.pickle -cacheArchive nltk_data.zip#nltkData
+
+//cluster
+hadoop jar $HP -Dmapreduce.map.memory.mb=5120 -mapper mapper.py -reducer reducer.py -input CCSwords.txt -output U5/csoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -cacheArchive nltk_data.zip#nltkData -cacheArchive CleanCollectionSmall#eventData
+
+
+fname = i.rstrip('\n').rstrip().split('\t')[0]
+        with open('./eventFiles/' + fname, 'r') as f:
+        	"".join(list(f))
+
+hadoop fs -get /var/log/hadoop-yarn/apps/clj/logs/application_1410888620986_0297
+
+//cluster
+hadoop fs -get /tmp/logs/class14f_clj/logs

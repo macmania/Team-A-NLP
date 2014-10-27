@@ -1,0 +1,6 @@
+hadoop jar $HP -mapper mapper.py -reducer reducer.py -ipnput smallCollectionList.txt -output U5/csoutput -file Unit5/mapper.py -file Unit5/reducer.py -file nltk.mod -cacheArchive nltk_data.zip#nltkData -cacheArchive CollectionBig#eventData
+
+
+fname = i.rstrip('\n').rstrip().split('\t')[0]
+        with open('./eventFiles/' + fname, 'r') as f:
+        	"".join(list(f))

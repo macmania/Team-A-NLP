@@ -1,0 +1,3 @@
+
+The Dojo Toolkit -- iframe_history.html
+This file is used in Dojo's back/fwd button management.
