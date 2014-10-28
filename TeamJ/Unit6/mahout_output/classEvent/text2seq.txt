@@ -1,0 +1,39 @@
+14/10/27 12:57:58 INFO mapreduce.Job: Running job: job_1412653258045_0460
+14/10/27 12:58:09 INFO mapreduce.Job: Job job_1412653258045_0460 running in uber mode : false
+14/10/27 12:58:09 INFO mapreduce.Job:  map 0% reduce 0%
+14/10/27 12:58:12 INFO mapreduce.Job:  map 100% reduce 0%
+14/10/27 12:58:13 INFO mapreduce.Job: Job job_1412653258045_0460 completed successfully
+14/10/27 12:58:13 INFO mapreduce.Job: Counters: 27
+        File System Counters
+                FILE: Number of bytes read=0
+                FILE: Number of bytes written=85357
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+                HDFS: Number of bytes read=96721
+                HDFS: Number of bytes written=37408
+                HDFS: Number of read operations=37
+                HDFS: Number of large read operations=0
+                HDFS: Number of write operations=2
+        Job Counters
+                Launched map tasks=1
+                Data-local map tasks=1
+                Total time spent by all maps in occupied slots (ms)=1782
+                Total time spent by all reduces in occupied slots (ms)=0
+        Map-Reduce Framework
+                Map input records=11
+                Map output records=11
+                Input split bytes=924
+                Spilled Records=0
+                Failed Shuffles=0
+                Merged Map outputs=0
+                GC time elapsed (ms)=8
+                CPU time spent (ms)=430
+                Physical memory (bytes) snapshot=248401920
+                Virtual memory (bytes) snapshot=1542987776
+                Total committed heap usage (bytes)=502792192
+        File Input Format Counters
+                Bytes Read=0
+        File Output Format Counters
+                Bytes Written=37408
+14/10/27 12:58:13 INFO driver.MahoutDriver: Program took 18287 ms (Minutes: 0.30478333333333335)

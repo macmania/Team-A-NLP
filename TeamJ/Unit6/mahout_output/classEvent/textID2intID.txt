@@ -1,0 +1,11 @@
+[class14f_clj@node1 Unit6]$ mahout rowid -i ./U6/ClassEventVectors/tf-vectors -o ./U6/ClassEventMatrix
+MAHOUT_LOCAL is not set; adding HADOOP_CONF_DIR to classpath.
+Running on hadoop, using /opt/cloudera/parcels/CDH-5.0.0-0.cdh5b1.p0.57/lib/hadoop/bin/hadoop and HADOOP_CONF_DIR=/etc/hadoop/conf
+MAHOUT-JOB: /opt/cloudera/parcels/CDH-5.0.0-0.cdh5b1.p0.57/lib/mahout/mahout-examples-0.8-cdh5.0.0-beta-1-job.jar
+14/10/27 13:35:47 WARN driver.MahoutDriver: No rowid.props found on classpath, will use command-line arguments only
+14/10/27 13:35:48 INFO common.AbstractJob: Command line arguments: {--endPhase=[2147483647], --input=[./U6/ClassEventVectors/tf-vectors], --output=[./U6/ClassEventMatrix], --startPhase=[0], --tempDir=[temp]}
+14/10/27 13:35:48 INFO zlib.ZlibFactory: Successfully loaded & initialized native-zlib library
+14/10/27 13:35:48 INFO compress.CodecPool: Got brand-new compressor [.deflate]
+14/10/27 13:35:48 INFO compress.CodecPool: Got brand-new compressor [.deflate]
+14/10/27 13:35:49 INFO vectors.RowIdJob: Wrote out matrix with 11 rows and 1555 columns to U6/ClassEventMatrix/matrix
+14/10/27 13:35:49 INFO driver.MahoutDriver: Program took 1736 ms (Minutes: 0.028933333333333332)
