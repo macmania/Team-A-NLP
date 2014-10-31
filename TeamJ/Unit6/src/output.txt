@@ -1,0 +1,41 @@
+-----------------------CLASSEVENT----------------------
+3 topics
+
+Topic 1:
+(0.007000, 13) (0.006000, inches) (0.008000, island) (0.007000, islip) (0.007000, rain) (0.007000, record) (0.008000, weather) (0.008000, long) (0.006000, news) (0.006000, flooding) 
+Topic 2:
+(0.005000, august) (0.005000, inches) (0.008000, island) (0.006000, islip) (0.006000, long) (0.005000, water) (0.008000, weather) (0.007000, rain) (0.006000, flooding) (0.005000, york) 
+Topic 3:
+(0.005000, 13) (0.007000, inches) (0.009000, island) (0.006000, islip) (0.008000, rain) (0.005000, record) (0.009000, weather) (0.008000, long) (0.005000, news) (0.006000, flooding) 
+
+-------------------Iterated Class event------------
+Note that this only prints the first topic
+
+LDA Increment 1
+(0.006000, 13) (0.006000, inches) (0.009000, island) (0.006000, islip) (0.007000, long) (0.005000, record) (0.008000, weather) (0.007000, rain) (0.005000, news) (0.006000, flooding) 
+LDA Increment 2
+(0.008000, 13) (0.012000, inches) (0.025000, island) (0.009000, islip) (0.021000, long) (0.008000, record) (0.025000, weather) (0.022000, rain) (0.009000, flooding) (0.008000, york) 
+LDA Increment 3
+(0.008000, 13) (0.012000, inches) (0.025000, island) (0.009000, islip) (0.021000, long) (0.008000, record) (0.025000, weather) (0.022000, rain) (0.009000, flooding) (0.008000, york)
+
+-----------------------Collection Small----------------
+5 topics
+
+Topic 1:
+(0.006000, school) (0.006000, reddit) (0.008000, points1) (0.008000, days) (0.006000, permalinksavecontextfull) (0.005000, hours) (0.009000, point2) (0.017000, points) (0.009000, news) (0.011000, children) 
+Topic 2:
+(0.018000, school) (0.008000, hook) (0.006000, connecticut) (0.008000, newtown) (0.009000, elementary) (0.008000, news) (0.010000, shooting) (0.006000, children) (0.007000, sandy) (0.007000, 2012) 
+Topic 3:
+(0.004000, school) (0.003000, reddit) (0.004000, points1) (0.003000, days) (0.003000, comments) (0.004000, hours) (0.004000, point2) (0.010000, points) (0.009000, news) (0.006000, children) 
+Topic 4:
+(0.012000, school) (0.005000, said) (0.004000, people) (0.004000, hours) (0.004000, connecticut) (0.004000, newtown) (0.007000, news) (0.005000, shooting) (0.005000, children) (0.007000, 2012) 
+Topic 5:
+(0.007000, school) (0.006000, hour) (0.006000, people) (0.007000, points1) (0.006000, comments) (0.009000, hours) (0.010000, point2) (0.034000, points) (0.009000, minutes) (0.017000, children) 
+
+-------------------Iterated Small event------------
+Note that this only prints the first topic
+
+LDA Increment 1
+(0.010000, school) (0.004000, people) (0.005000, hours) (0.005000, point2) (0.013000, points) (0.004000, elementary) (0.007000, news) (0.005000, shooting) (0.009000, children) (0.005000, 2012) 
+LDA Increment 2
+(0.018000, school) (0.007000, points1) (0.006000, connecticut) (0.008000, hours) (0.009000, point2) (0.024000, points) (0.007000, elementary) (0.013000, news) (0.007000, shooting) (0.016000, children)
