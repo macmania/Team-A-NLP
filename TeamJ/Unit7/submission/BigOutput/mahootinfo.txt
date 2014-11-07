@@ -1,0 +1,15 @@
+14/11/06 19:58:58 INFO driver.MahoutDriver: Program took 221315 ms (Minutes: 3.6885833333333333)
+
+mahout canopy -i U7/BigEventAsSentsVectors/tfidf-vectors -t1 300 -t2 200 -o U7/BigEventAsSentsCentroids  
+
+14/11/06 20:02:14 INFO driver.MahoutDriver: Program took 123779 ms (Minutes: 2.0629833333333334)
+
+mahout clusterdump -dt sequencefile -d U7/BigEventAsSentsVectors/dictionary.file-* -i U7/BigEventAsSentsCentroids/clusters-0-final -o bigreport.txt --pointsDir U7/BigEventAsSentsClusters/clusteredPoints
+
+14/11/06 20:06:44 INFO driver.MahoutDriver: Program took 12110 ms (Minutes: 0.20183333333333334)
+
+mahout kmeans -i U7/BigEventAsSentsVectors/tfidf-vectors -c U7/BigEventAsSentsCentroids/clusters-0-final -cd 1.0 -x 20 -cl -o U7/BigEventAsSentsClusters 
+
+14/11/06 20:36:24 INFO driver.MahoutDriver: Program took 1403182 ms (Minutes: 23.386366666666667)
+
+mahout clusterdump -dt sequencefile -d U7/BigEventAsSentsVectors/dictionary.file-* -i U7/BigEventAsSentsClusters/clusters-10-final -o bigsents.txt --pointsDir U7/BigEventAsSentsClusters/clusteredPoints

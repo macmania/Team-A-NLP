@@ -1,0 +1,299 @@
+centroid: ['attacked:1.555', ' have:3.292', ' done:1.490', ' them:1.186', ' who:1.826', ' time:1.134', ' gun:1.247', ' afraid:2.105', ' could:2.359', ' any:1.210', ' poor:1.821', ' wacko:2.307', ' kid:1.812', ' area:1.537', " i'm:1.451", ' contact:1.435', ' without:1.419', ' go:1.385', ' anyone:3.143', ' been:0.988', ' appealed:2.134', ' police:1.260', ' toto:2.054'] 
+ Sentence: (90.288713999999999, ['have:3.292', ' them:4.744', ' who:3.653', ' time:4.536', ' area:6.150', ' contact:5.741', ' anyone:6.285', ' appealed:8.536', ' police:5.040'])
+(85.402866000000003, ['have:3.292', ' done:5.962', ' gun:4.988', ' could:4.719', ' any:4.838', ' wacko:9.229', ' kid:7.248', ' without:5.674'])
+(74.799083999999993, ['have:3.292', ' afraid:8.419', ' poor:7.284', " i'm:5.804", ' go:5.541', ' toto:8.218']) 
+ === 
+
+centroid: ['tends:9.517', ' which:4.387', ' accusations:8.131', ' cycle:9.229', ' often:6.116', ' nasty:8.131', ' part:5.547', ' your:3.811', ' create:5.962', ' result:6.573', ' harassment:7.908'] 
+ Sentence: (551.20444399999997, ['tends:9.517', ' which:4.387', ' accusations:8.131', ' cycle:9.229', ' often:6.116', ' nasty:8.131', ' part:5.547', ' your:3.811', ' create:5.962', ' result:6.573', ' harassment:7.908']) 
+ === 
+
+centroid: ['cattle:8.313', ' king:10.352', ' members:5.696', ' his:3.698', ' had:3.977', ' once:6.234', ' than:4.419', ' some:4.662', ' people:3.790', ' u.s:4.814', ' base:7.977', ' two:4.472', ' nothing:6.246', ' animal:7.060', ' lost:6.573', ' seal:9.006', ' you:3.520', ' senate:6.724', ' itself:7.005', ' regard:8.051', ' american:5.363', ' representing:9.229', ' courage:8.313', ' lion:9.006', ' crossed:6.645', ' more:3.447', ' society:6.457'] 
+ Sentence: (1186.0411730000001, ['cattle:8.313', ' king:10.352', ' members:5.696', ' his:3.698', ' had:3.977', ' once:6.234', ' than:4.419', ' some:4.662', ' people:3.790', ' u.s:4.814', ' base:7.977', ' two:4.472', ' nothing:6.246', ' animal:7.060', ' lost:6.573', ' seal:9.006', ' you:3.520', ' senate:6.724', ' itself:7.005', ' regard:8.051', ' american:5.363', ' representing:9.229', ' courage:8.313', ' lion:9.006', ' crossed:6.645', ' more:3.447', ' society:6.457']) 
+ === 
+
+centroid: ['institute:8.131', ' hosting:8.670', ' defensive:8.131', ' february:6.724', ' michigan:8.051', ' firearms:6.246', ' 18:5.924', ' 21:5.725', ' tucson:4.554', ' steve:7.438', ' fisher:9.517', ' we:3.800'] 
+ Sentence: (605.38396499999999, ['institute:8.131', ' hosting:8.670', ' defensive:8.131', ' february:6.724', ' michigan:8.051', ' firearms:6.246', ' 18:5.924', ' 21:5.725', ' tucson:4.554', ' steve:7.438', ' fisher:9.517', ' we:3.800']) 
+ === 
+
+centroid: ['fellow:7.060', ' citizens:6.832', ' roles:8.131', ' tragic:6.832', ' all:3.855', ' comes:6.555', ' remind:9.229', ' risk:6.473', ' events:6.766', ' our:5.781', ' service:5.040', ' us:6.227'] 
+ Sentence: (537.58827499999995, ['fellow:7.060', ' citizens:6.832', ' roles:8.131', ' tragic:6.832', ' all:3.855', ' comes:6.555', ' remind:9.229', ' risk:6.473', ' events:6.766', ' our:5.781', ' service:5.040', ' us:6.227']) 
+ === 
+
+centroid: ['dupnik:3.383', ' after:2.089', ' outrageous:9.006', ' conference:3.295', ' hatred:7.783', ' said:3.331', ' rampage:3.451', ' country:5.401', ' bigotry:8.313', ' getting:6.312', ' news:1.899', ' anger:7.284', ' democrat:3.383', ' sheriff:3.170', ' goes:6.766'] 
+ Sentence: (496.98406399999999, ['dupnik:6.766', ' after:4.178', ' outrageous:9.006', ' conference:6.590', ' hatred:7.783', ' said:3.331', ' rampage:6.902', ' country:5.401', ' bigotry:8.313', ' getting:6.312', ' news:3.798', ' anger:7.284', ' democrat:6.766', ' goes:6.766'])
+(409.826842, ['outrageous:9.006', ' hatred:7.783', ' said:3.331', ' country:5.401', ' bigotry:8.313', ' getting:6.312', ' anger:7.284', ' sheriff:6.339', ' goes:6.766']) 
+ === 
+
+centroid: ['similar:6.116', ' later:5.962', ' reported:5.605', ' miles:7.571', ' around:7.908', ' louisiana:8.536', ' days:5.363', ' deaths:5.703', ' 300:8.051', ' bird:5.748', ' were:3.989', ' incident:6.745', ' 500:7.843', ' south:5.440', ' arkansas:7.908'] 
+ Sentence: (671.28066799999988, ['similar:6.116', ' later:5.962', ' reported:5.605', ' miles:7.571', ' around:7.908', ' louisiana:8.536', ' days:5.363', ' deaths:5.703', ' 300:8.051', ' bird:5.748', ' were:3.989', ' incident:6.745', ' 500:7.843', ' south:5.440', ' arkansas:7.908']) 
+ === 
+
+centroid: ['huns:7.358', ' through:5.200', ' migrations:9.517', ' et:7.320', ' age:6.457', ' des:19.845'] 
+ Sentence: (660.85272699999985, ['huns:7.358', ' through:5.200', ' migrations:9.517', ' et:7.320', ' age:6.457', ' des:19.845']) 
+ === 
+
+centroid: ["doesn't:6.138", ' make:4.796', ' all:3.855', ' say:4.568', ' intentionally:9.517', ' kid:7.248', ' he:3.213', ' murdered:7.480', ' sense:6.608'] 
+ Sentence: (349.450535, ["doesn't:6.138", ' make:4.796', ' all:3.855', ' say:4.568', ' intentionally:9.517', ' kid:7.248', ' he:3.213', ' murdered:7.480', ' sense:6.608']) 
+ === 
+
+centroid: ['knocked:8.824', ' policeman:8.824', ' one:3.988', ' traffic:7.480', ' nowhere:8.824', ' over:4.609', ' point:5.748', ' thrown:8.536', ' force:6.538', ' out:4.042', ' came:6.161'] 
+ Sentence: (529.63028199999997, ['knocked:8.824', ' policeman:8.824', ' one:3.988', ' traffic:7.480', ' nowhere:8.824', ' over:4.609', ' point:5.748', ' thrown:8.536', ' force:6.538', ' out:4.042', ' came:6.161']) 
+ === 
+
+centroid: ['against:5.152', ' evidence:6.051', ' envelope:7.977', ' loughner:5.025', ' allegedly:7.843', ' assassination:6.505', ' says:4.697', ' him:4.889', ' includes:7.089', ' my:4.504', ' signed:7.843'] 
+ Sentence: (433.88524899999993, ['against:5.152', ' evidence:6.051', ' envelope:7.977', ' loughner:5.025', ' allegedly:7.843', ' assassination:6.505', ' says:4.697', ' him:4.889', ' includes:7.089', ' my:4.504', ' signed:7.843']) 
+ === 
+
+centroid: ['have:4.655', ' net:8.313', ' just:4.455', ' one:3.988', ' show:5.625', ' 129:9.229', ' periods:9.006', ' 13:5.880', ' goal:5.428', ' over:4.609', ' shots:7.725', ' taken:6.173', ' last:4.981'] 
+ Sentence: (532.32164499999999, ['have:4.655', ' net:8.313', ' just:4.455', ' one:3.988', ' show:5.625', ' 129:9.229', ' periods:9.006', ' 13:5.880', ' goal:5.428', ' over:4.609', ' shots:7.725', ' taken:6.173', ' last:4.981']) 
+ === 
+
+centroid: ['evidence:8.558', ' home:4.730', ' returned:7.571', ' roberts:7.977', ' christmas:7.060', ' crime:6.127', ' ends:6.766', ' found:4.686', ' investigators:7.397', ' urging:8.313', ' vegas:7.320', ' had:6.889', ' indicated:7.843', ' than:4.419', " year's:7.119", ' after:4.178', ' death:5.293', ' eve:7.248', ' told:5.423', ' sister:7.215', ' who:3.653', ' narvaez:8.670', ' new:4.485', ' cause:6.411', ' celeste:9.229', ' convinced:7.977', ' flores:8.419', ' 2:4.977', " sister's:9.517", ' atlanta:8.670', ' cooperative:8.824', ' said:3.331', ' body:6.325', ' office:5.646', ' arrest:6.555', ' dna:7.438', ' jan:6.083', ' person:5.674', ' released:6.116', ' probe:8.419', ' clark:9.517', ' griffith:8.313', ' disappearance:9.006', ' informed:8.536', ' monday:6.809', ' search:10.203', ' searching:6.555', ' sibling:9.229', ' press:5.063', ' county:5.703', " dancer's:9.517", ' her:9.335', ' younger:8.218', ' been:3.954', ' emotional:7.843', ' las:7.320', ' missing:7.248', ' said.the:7.284', ' spent:7.005', ' autopsy:9.517', ' more:3.447', ' associated:5.559', ' originally:7.620', ' police:7.127'] 
+ Sentence: (3327.5544289999993, ['evidence:8.558', ' home:4.730', ' returned:7.571', ' roberts:7.977', ' christmas:7.060', ' crime:6.127', ' ends:6.766', ' found:4.686', ' investigators:7.397', ' urging:8.313', ' vegas:7.320', ' had:6.889', ' indicated:7.843', ' than:4.419', " year's:7.119", ' after:4.178', ' death:5.293', ' eve:7.248', ' told:5.423', ' sister:7.215', ' who:3.653', ' narvaez:8.670', ' new:4.485', ' cause:6.411', ' celeste:9.229', ' convinced:7.977', ' flores:8.419', ' 2:4.977', " sister's:9.517", ' atlanta:8.670', ' cooperative:8.824', ' said:3.331', ' body:6.325', ' office:5.646', ' arrest:6.555', ' dna:7.438', ' jan:6.083', ' person:5.674', ' released:6.116', ' probe:8.419', ' clark:9.517', ' griffith:8.313', ' disappearance:9.006', ' informed:8.536', ' monday:6.809', ' search:10.203', ' searching:6.555', ' sibling:9.229', ' press:5.063', ' county:5.703', " dancer's:9.517", ' her:9.335', ' younger:8.218', ' been:3.954', ' emotional:7.843', ' las:7.320', ' missing:7.248', ' said.the:7.284', ' spent:7.005', ' autopsy:9.517', ' more:3.447', ' associated:5.559', ' originally:7.620', ' police:7.127']) 
+ === 
+
+centroid: ['disliked:8.536', ' involved:6.234', ' government:4.832', ' had:3.977', ' women:5.333', ' cited:7.671', ' publicity:9.517', ' report:4.385', ' msf:5.585', ' alleged:7.320', ' sudanese:7.525', ' him:4.889', ' bad:5.934', ' arrested:6.441', ' because:4.835', ' foreman:9.517', ' generated:8.536', ' privacy:5.003'] 
+ Sentence: (801.82267599999989, ['disliked:8.536', ' involved:6.234', ' government:4.832', ' had:3.977', ' women:5.333', ' cited:7.671', ' publicity:9.517', ' report:4.385', ' msf:5.585', ' alleged:7.320', ' sudanese:7.525', ' him:4.889', ' bad:5.934', ' arrested:6.441', ' because:4.835', ' foreman:9.517', ' generated:8.536', ' privacy:5.003']) 
+ === 
+
+centroid: ['his:3.698', ' leader:6.312', ' job:6.339', ' check:5.278', ' like:4.607', ' emotions:8.536', " can't:6.221", ' wrong:6.367', ' he:3.213', ' keep:5.619', ' role:6.426', ' especially:6.608'] 
+ Sentence: (421.73969800000003, ['his:3.698', ' leader:6.312', ' job:6.339', ' check:5.278', ' like:4.607', ' emotions:8.536', " can't:6.221", ' wrong:6.367', ' he:3.213', ' keep:5.619', ' role:6.426', ' especially:6.608']) 
+ === 
+
+centroid: ['ap:7.908', ' began:9.346', ' look:5.528', ' nation:8.985', ' government:4.832', ' after:5.909', ' largest:7.032', ' open:6.521', ' polls:8.218', ' vote:8.907', ' united:7.513', ' herald:8.051', ' women:7.541', " world's:7.725", ' agency:6.457', ' sudan:14.562', " africa's:7.725", ' newest:9.006', ' themselves:9.661', ' dance:8.670', ' nations:7.480', ' states:5.837', ' two:4.472', ' about:4.959', ' referendum:8.697', ' south:5.440', ' voters:9.985', ' wrapped:13.459', ' international:8.852', ' likely:8.431', ' southern:12.232', ' song:13.697', ' sources:6.952', ' broke:10.251', ' split:7.671', ' sunday:7.844', ' weeklong:11.906', ' casting:11.757', ' development:6.684', ' end:6.951', ' begins:7.783', ' five:8.405', ' online:5.779', ' tribune:8.218', ' create:5.962', ' independence:14.179', ' men:8.024', ' out:5.716', ' years:6.833', ' ballots:12.072', ' flags:11.499', ' fox:6.555'] 
+ Sentence: (3946.6499489999997, ['ap:7.908', ' began:9.346', ' look:5.528', ' nation:8.985', ' government:4.832', ' after:5.909', ' largest:7.032', ' open:6.521', ' polls:8.218', ' vote:8.907', ' united:7.513', ' herald:8.051', ' women:7.541', " world's:7.725", ' agency:6.457', ' sudan:14.562', " africa's:7.725", ' newest:9.006', ' themselves:9.661', ' dance:8.670', ' nations:7.480', ' states:5.837', ' two:4.472', ' about:4.959', ' referendum:8.697', ' south:5.440', ' voters:9.985', ' wrapped:13.459', ' international:8.852', ' likely:8.431', ' southern:12.232', ' song:13.697', ' sources:6.952', ' broke:10.251', ' split:7.671', ' sunday:7.844', ' weeklong:11.906', ' casting:11.757', ' development:6.684', ' end:6.951', ' begins:7.783', ' five:8.405', ' online:5.779', ' tribune:8.218', ' create:5.962', ' independence:14.179', ' men:8.024', ' out:5.716', ' years:6.833', ' ballots:12.072', ' flags:11.499', ' fox:6.555']) 
+ === 
+
+centroid: ['fulfilling:9.229', ' action:6.704', ' largely:7.525', ' gop:7.525', ' campaign:5.559', ' election:6.573', ' pledge:8.824', ' symbolic:8.670'] 
+ Sentence: (470.50799300000006, ['fulfilling:9.229', ' action:6.704', ' largely:7.525', ' gop:7.525', ' campaign:5.559', ' election:6.573', ' pledge:8.824', ' symbolic:8.670']) 
+ === 
+
+centroid: ['grim:9.006', ' citizens:6.832', ' message:4.857', ' side:6.127', ' czech:8.131', ' written:6.952', ' exodus:9.229', ' our:4.088', ' your:3.811'] 
+ Sentence: (419.76820899999996, ['grim:9.006', ' citizens:6.832', ' message:4.857', ' side:6.127', ' czech:8.131', ' written:6.952', ' exodus:9.229', ' our:4.088', ' your:3.811']) 
+ === 
+
+centroid: ['church:6.221', ' event:5.028', ' stays:7.480', ' bloomberg:7.525', ' shooter:6.426', ' shot:4.790', ' what:4.196', ' mayor:7.089', ' real:5.871', ' crooks:7.182', ' daniel:7.182', ' democratic:5.772', ' jared:5.434', ' 8a:7.725', ' hernandez:7.182', ' girlfriend:7.215', ' hero:5.369', ' lee:5.703', ' liars:7.284', ' explains:7.320', ' sex:6.573', ' snl:7.571', ' 10az:8.419', ' 9westboro:8.131', ' congresswoman:5.160', ' man:4.749', ' says:4.697', ' during:5.283', ' intern:7.397', ' laughner:7.525', ' bad:5.934', ' do:4.241', ' because:4.835', ' gabriel:7.438', ' snowstorm:7.480', ' baptist:7.620', ' more:3.447', ' beat:6.041', ' oral:7.571'] 
+ Sentence: (1640.051854, ['church:6.221', ' event:5.028', ' stays:7.480', ' bloomberg:7.525', ' shooter:6.426', ' shot:4.790', ' what:4.196', ' mayor:7.089', ' real:5.871', ' crooks:7.182', ' daniel:7.182', ' democratic:5.772', ' jared:5.434', ' 8a:7.725', ' hernandez:7.182', ' girlfriend:7.215', ' hero:5.369', ' lee:5.703', ' liars:7.284', ' explains:7.320', ' sex:6.573', ' snl:7.571', ' 10az:8.419', ' 9westboro:8.131', ' congresswoman:5.160', ' man:4.749', ' says:4.697', ' during:5.283', ' intern:7.397', ' laughner:7.525', ' bad:5.934', ' do:4.241', ' because:4.835', ' gabriel:7.438', ' snowstorm:7.480', ' baptist:7.620', ' more:3.447', ' beat:6.041', ' oral:7.571'])
+(1640.051854, ['church:6.221', ' event:5.028', ' stays:7.480', ' bloomberg:7.525', ' shooter:6.426', ' shot:4.790', ' what:4.196', ' mayor:7.089', ' real:5.871', ' crooks:7.182', ' daniel:7.182', ' democratic:5.772', ' jared:5.434', ' 8a:7.725', ' hernandez:7.182', ' girlfriend:7.215', ' hero:5.369', ' lee:5.703', ' liars:7.284', ' explains:7.320', ' sex:6.573', ' snl:7.571', ' 10az:8.419', ' 9westboro:8.131', ' congresswoman:5.160', ' man:4.749', ' says:4.697', ' during:5.283', ' intern:7.397', ' laughner:7.525', ' bad:5.934', ' do:4.241', ' because:4.835', ' gabriel:7.438', ' snowstorm:7.480', ' baptist:7.620', ' more:3.447', ' beat:6.041', ' oral:7.571']) 
+ === 
+
+centroid: ['officially:8.131', ' than:4.419', ' champagne:9.517', ' when:3.831', ' now:4.639', ' remembers:8.536', ' da:9.006', ' bottle:8.419', ' candido:9.517', ' make:4.796', ' money:6.197', ' loves:9.229', ' people:3.790', ' husband:7.032', ' joao:9.517', ' break:7.358', ' i:3.490', ' says:4.697', ' her:4.175', ' up:4.055', ' mrs:8.051', ' my:4.504', ' more:3.447'] 
+ Sentence: (1048.0425029999999, ['officially:8.131', ' than:4.419', ' champagne:9.517', ' when:3.831', ' now:4.639', ' remembers:8.536', ' da:9.006', ' bottle:8.419', ' candido:9.517', ' make:4.796', ' money:6.197', ' loves:9.229', ' people:3.790', ' husband:7.032', ' joao:9.517', ' break:7.358', ' i:3.490', ' says:4.697', ' her:4.175', ' up:4.055', ' mrs:8.051', ' my:4.504', ' more:3.447']) 
+ === 
+
+centroid: ['members:5.696', ' crew:7.438', ' had:1.989', ' passengers:6.505', ' board:2.890', ' iran:2.580', ' all:1.928', ' feared:2.852', ' people:1.895', ' both:2.755', ' 105:2.830', ' crash:2.890', ' plane:5.127', ' dead:2.482'] 
+ Sentence: (222.39908599999998, ['members:5.696', ' crew:7.438', ' passengers:6.505', ' iran:5.160', ' all:3.855', ' feared:5.703', ' crash:5.779', ' plane:5.127', ' dead:4.963'])
+(222.39908599999998, ['members:5.696', ' crew:7.438', ' passengers:6.505', ' iran:5.160', ' all:3.855', ' feared:5.703', ' crash:5.779', ' plane:5.127', ' dead:4.963'])
+(219.36087699999996, ['members:5.696', ' crew:7.438', ' had:3.977', ' passengers:6.505', ' board:5.779', ' people:3.790', ' both:5.510', ' 105:5.660', ' plane:5.127']) 
+ === 
+
+centroid: ['blood:11.905', ' january:7.298', ' local:10.169', ' after:4.178', ' vote:6.298', ' health:5.074', ' shared:6.521', ' items:7.358', ' new:4.485', ' could:4.719', ' following:8.514', ' 09:14.061', ' 2011u.s:9.229', ' star:10.886', ' shootingarizona:9.517', ' giffords:3.981', ' overhaul:7.977', ' headlinestucson:11.092', ' cross:13.956', ' daily:11.239', ' latest:9.025', ' red:6.426', ' plea:13.459', ' 2011red:17.186', ' 2011the:9.229', ' google:6.855', ' sedatedtucson:9.517', ' fights:7.977', ' her:4.175', ' makes:8.140', ' news:5.371', ' post.com:11.906', ' repeal:7.480', ' your:3.811', ' life:4.960', ' newsjanuary:15.599', ' use:4.882'] 
+ Sentence: (3110.5110089999998, ['blood:11.905', ' january:7.298', ' local:10.169', ' after:4.178', ' vote:6.298', ' health:5.074', ' shared:6.521', ' items:7.358', ' new:4.485', ' could:4.719', ' following:8.514', ' 09:14.061', ' 2011u.s:9.229', ' star:10.886', ' shootingarizona:9.517', ' giffords:3.981', ' overhaul:7.977', ' headlinestucson:11.092', ' cross:13.956', ' daily:11.239', ' latest:9.025', ' red:6.426', ' plea:13.459', ' 2011red:17.186', ' 2011the:9.229', ' google:6.855', ' sedatedtucson:9.517', ' fights:7.977', ' her:4.175', ' makes:8.140', ' news:5.371', ' post.com:11.906', ' repeal:7.480', ' your:3.811', ' life:4.960', ' newsjanuary:15.599', ' use:4.882']) 
+ === 
+
+centroid: ['many:4.851', ' have:3.292', ' congressional:6.197', ' sen:7.320', ' vitriol:7.671', ' durbin:8.536', ' democratic:5.772', ' hairs:7.977', ' certain:6.832', ' said:3.331', ' districts:7.671', ' putting:7.671', ' giffords:3.981', ' cross:6.978', ' beyond:7.525', ' sarah:5.348', ' acceptable:7.908', ' rhetoric:5.733', ' including:5.200', ' up:4.055', ' dick:8.419', ' palin:5.245'] 
+ Sentence: (917.51492900000017, ['many:4.851', ' have:3.292', ' congressional:6.197', ' sen:7.320', ' vitriol:7.671', ' durbin:8.536', ' democratic:5.772', ' hairs:7.977', ' certain:6.832', ' said:3.331', ' districts:7.671', ' putting:7.671', ' giffords:3.981', ' cross:6.978', ' beyond:7.525', ' sarah:5.348', ' acceptable:7.908', ' rhetoric:5.733', ' including:5.200', ' up:4.055', ' dick:8.419', ' palin:5.245']) 
+ === 
+
+centroid: ['when:3.831', ' issue:6.312', ' like:4.607', ' security:5.457', ' seven:7.215', ' complex:7.525', ' definitions:9.229', ' defensible:9.229', ' i:3.490', ' reviewed:8.670', ' especially:6.608', ' homeland:6.312', ' article:5.779', ' 2008:5.534'] 
+ Sentence: (619.42993999999999, ['when:3.831', ' issue:6.312', ' like:4.607', ' security:5.457', ' seven:7.215', ' complex:7.525', ' definitions:9.229', ' defensible:9.229', ' i:3.490', ' reviewed:8.670', ' especially:6.608', ' homeland:6.312', ' article:5.779', ' 2008:5.534']) 
+ === 
+
+centroid: ['large:6.426', ' istanbul:8.670', ' past:6.116', ' though:6.185', ' other:4.427', ' war:5.888', ' headed:8.218', ' poverty:8.824', ' rights:5.102', ' southeast:8.419', ' western:7.248', ' cities:7.284', ' decades:7.525', ' accusations:8.131', ' live:5.579', ' kurds:8.824', ' union:6.787', ' european:7.571', ' numbers:7.248', ' escape:8.824', ' wants:7.032', ' join:5.741', " turkey's:8.670"] 
+ Sentence: (1217.371453, ['large:6.426', ' istanbul:8.670', ' past:6.116', ' though:6.185', ' other:4.427', ' war:5.888', ' headed:8.218', ' poverty:8.824', ' rights:5.102', ' southeast:8.419', ' western:7.248', ' cities:7.284', ' decades:7.525', ' accusations:8.131', ' live:5.579', ' kurds:8.824', ' union:6.787', ' european:7.571', ' numbers:7.248', ' escape:8.824', ' wants:7.032', ' join:5.741', " turkey's:8.670"]) 
+ === 
+
+centroid: ['larger:7.977', ' subtle:9.006', ' mad:7.977', ' new:4.485', ' all:3.855', ' photo:6.645', ' even:5.059', ' killer:7.438', ' headline:8.131', ' playing:7.005', ' york:6.197', ' post:5.653', ' beside:9.229', ' eyes:7.571', ' him:4.889', ' convicted:7.480', ' more:3.447'] 
+ Sentence: (788.19410999999991, ['larger:7.977', ' subtle:9.006', ' mad:7.977', ' new:4.485', ' all:3.855', ' photo:6.645', ' even:5.059', ' killer:7.438', ' headline:8.131', ' playing:7.005', ' york:6.197', ' post:5.653', ' beside:9.229', ' eyes:7.571', ' him:4.889', ' convicted:7.480', ' more:3.447']) 
+ === 
+
+centroid: ['many:4.851', ' public:5.178', ' one:3.988', ' who:3.653', ' where:5.094', ' staffers:8.051', ' could:4.719', ' meet:6.489', ' about:3.507', ' voters:7.060', ' giffords:5.630', ' zimmerman:6.426', ' organized:8.131', ' events:6.766', ' issues:6.221', ' her:4.175', ' talk:6.161'] 
+ Sentence: (575.85028599999998, ['many:4.851', ' public:5.178', ' one:3.988', ' who:3.653', ' where:5.094', ' staffers:8.051', ' could:4.719', ' meet:6.489', ' about:3.507', ' voters:7.060', ' giffords:5.630', ' zimmerman:6.426', ' organized:8.131', ' events:6.766', ' issues:6.221', ' her:4.175', ' talk:6.161']) 
+ === 
+
+centroid: ['65:6.411', ' had:3.977', ' happened:6.473', ' after:4.178', ' raid:12.072', ' shot:4.790', ' bank:11.446', ' militant:8.218', ' mistakenly:12.737', ' friday:6.555', ' israeli:8.798', ' supporters:7.060', ' west:10.909', ' pre:7.783', ' said:3.331', ' troops:10.300', ' dawn:7.908', ' hamas:10.925', ' hebron:9.229', ' palestinian:10.352', ' times:5.498', ' arrest:6.555', ' old:4.886', ' year:4.076', ' kill:6.051', ' seattle:7.908', ' man:6.716', ' six:5.915', ' during:5.283', ' day:4.922', ' killed:4.397', ' palestinians:7.671', ' officials:5.445'] 
+ Sentence: (1939.8293449999996, ['65:6.411', ' had:3.977', ' happened:6.473', ' after:4.178', ' raid:12.072', ' shot:4.790', ' bank:11.446', ' militant:8.218', ' mistakenly:12.737', ' friday:6.555', ' israeli:8.798', ' supporters:7.060', ' west:10.909', ' pre:7.783', ' said:3.331', ' troops:10.300', ' dawn:7.908', ' hamas:10.925', ' hebron:9.229', ' palestinian:10.352', ' times:5.498', ' arrest:6.555', ' old:4.886', ' year:4.076', ' kill:6.051', ' seattle:7.908', ' man:6.716', ' six:5.915', ' during:5.283', ' day:4.922', ' killed:4.397', ' palestinians:7.671', ' officials:5.445']) 
+ === 
+
+centroid: ['involved:6.234', ' may:4.580', ' medical:5.688', ' 102:9.229', ' area:6.150', ' diagnosis:8.051', ' poisoning:6.246', ' clinical:8.218', ' treatment:5.592'] 
+ Sentence: (417.82654600000001, ['involved:6.234', ' may:4.580', ' medical:5.688', ' 102:9.229', ' area:6.150', ' diagnosis:8.051', ' poisoning:6.246', ' clinical:8.218', ' treatment:5.592']) 
+ === 
+
+centroid: ['victim:2.833', ' video:1.255', ' alert:4.209', ' www.truveo.com:1.758', ' zahra:8.131', ' baker:8.051', ' amber:4.759', ' clare:8.218', ' source:1.470', ' violence:2.557', ' domestic:3.439'] 
+ Sentence: (306.50147099999998, ['video:5.021', ' alert:8.419', ' www.truveo.com:7.032', ' zahra:8.131', ' baker:8.051', ' amber:9.517', ' clare:8.218', ' source:5.880'])
+(279.19425999999999, ['alert:8.419', ' zahra:8.131', ' baker:8.051', ' amber:9.517', ' clare:8.218'])
+(251.25183699999999, ['victim:5.667', ' zahra:8.131', ' baker:8.051', ' clare:8.218', ' violence:5.114', ' domestic:6.878']) 
+ === 
+
+centroid: ['assistant:7.783', ' operations:6.927', ' director:6.367', ' scala:9.517', ' 21:5.725', ' tucson:4.554', " eegee's:8.670", " that's:6.072", ' locations:8.313'] 
+ Sentence: (474.32899000000003, ['assistant:7.783', ' operations:6.927', ' director:6.367', ' scala:9.517', ' 21:5.725', ' tucson:4.554', " eegee's:8.670", " that's:6.072", ' locations:8.313']) 
+ === 
+
+centroid: ['ago:4.248', ' state:5.047', ' worked:6.441', ' had:3.977', ' health:5.074', ' kelly:6.766', ' served:6.608', ' since:5.541', ' care:5.625', ' patricia:8.670', ' 13:5.880', ' giffords:3.981', ' ms:6.809', ' senate:6.724', ' she:4.188', ' while:4.491', ' campaign:5.559', ' daughter:6.978', ' tucson:4.554', ' debate:6.573', ' moved:7.215', ' her:4.175', ' years:6.833', ' active:7.438', ' last:4.981'] 
+ Sentence: (873.0778220000002, ['ago:4.248', ' state:5.047', ' worked:6.441', ' had:3.977', ' health:5.074', ' kelly:6.766', ' served:6.608', ' since:5.541', ' care:5.625', ' patricia:8.670', ' 13:5.880', ' giffords:3.981', ' ms:6.809', ' senate:6.724', ' she:4.188', ' while:4.491', ' campaign:5.559', ' daughter:6.978', ' tucson:4.554', ' debate:6.573', ' moved:7.215', ' her:4.175', ' years:6.833', ' active:7.438', ' last:4.981']) 
+ === 
+
+centroid: ['also:4.401', ' claim:7.525', ' continues:6.339', ' donation:9.006', ' several:5.579', ' assets:8.313', ' schemes:8.670', ' investigate:7.908', ' where:5.094', ' value:7.843', ' contribution:6.608', ' both:5.510', ' distribution:8.313', ' organizations:7.620', ' receipt:9.517', ' same:5.579', ' full:5.504', ' involving:7.571', ' irs:6.902', ' various:7.358', ' cash:11.006', ' including:5.200', ' non:9.398', ' situations:7.571'] 
+ Sentence: (1328.7844110000001, ['also:4.401', ' claim:7.525', ' continues:6.339', ' donation:9.006', ' several:5.579', ' assets:8.313', ' schemes:8.670', ' investigate:7.908', ' where:5.094', ' value:7.843', ' contribution:6.608', ' both:5.510', ' distribution:8.313', ' organizations:7.620', ' receipt:9.517', ' same:5.579', ' full:5.504', ' involving:7.571', ' irs:6.902', ' various:7.358', ' cash:11.006', ' including:5.200', ' non:9.398', ' situations:7.571']) 
+ === 
+
+centroid: ['also:4.401', ' law:5.412', ' had:3.977', ' said:3.331', ' he:3.213', ' brushes:9.229', ' without:5.674', ' elaborating:9.517', ' sheriff:6.339'] 
+ Sentence: (334.01893100000001, ['also:4.401', ' law:5.412', ' had:3.977', ' said:3.331', ' he:3.213', ' brushes:9.229', ' without:5.674', ' elaborating:9.517', ' sheriff:6.339']) 
+ === 
+
+centroid: ['exposure:5.962', ' past:6.116', ' lead:6.561', ' caries:9.006', ' enamel:13.459', ' dental:8.218', ' use:4.882'] 
+ Sentence: (469.61978599999998, ['exposure:5.962', ' past:6.116', ' lead:6.561', ' caries:9.006', ' enamel:13.459', ' dental:8.218', ' use:4.882']) 
+ === 
+
+centroid: ['biography:9.006', ' reported:5.605', ' difficult:6.809', ' own:5.303', ' accusation:8.670', ' barely:8.313', ' important:6.094', ' find:5.504', ' unsubstantiated:9.517', ' section:6.325', ' should:4.823', ' feature:7.571', ' person:5.674', ' i:3.490', " it's:4.974", ' believe:6.051'] 
+ Sentence: (715.60400899999991, ['biography:9.006', ' reported:5.605', ' difficult:6.809', ' own:5.303', ' accusation:8.670', ' barely:8.313', ' important:6.094', ' find:5.504', ' unsubstantiated:9.517', ' section:6.325', ' should:4.823', ' feature:7.571', ' person:5.674', ' i:3.490', " it's:4.974", ' believe:6.051']) 
+ === 
+
+centroid: ['according:5.639', ' his:3.698', ' chair:8.131', ' forward:5.462', ' board:5.779', ' messages:7.089', ' transportation:8.131', ' reporters:7.182', ' he:3.213', ' mmda:8.051', ' regulatory:8.536', ' proposal:7.320', ' land:7.150', ' planning:7.783', ' text:6.489'] 
+ Sentence: (698.15755299999989, ['according:5.639', ' his:3.698', ' chair:8.131', ' forward:5.462', ' board:5.779', ' messages:7.089', ' transportation:8.131', ' reporters:7.182', ' he:3.213', ' mmda:8.051', ' regulatory:8.536', ' proposal:7.320', ' land:7.150', ' planning:7.783', ' text:6.489']) 
+ === 
+
+centroid: ['charlie:9.229', ' game:5.772', ' arizona:4.249', ' all:3.855', ' named:6.902', ' outfielder:9.229', ' manuel:9.517', ' star:6.285', ' philadelphia:7.725', ' manager:6.704', ' chris:7.977', ' phillies:7.843', ' young:5.598'] 
+ Sentence: (675.39403300000004, ['charlie:9.229', ' game:5.772', ' arizona:4.249', ' all:3.855', ' named:6.902', ' outfielder:9.229', ' manuel:9.517', ' star:6.285', ' philadelphia:7.725', ' manager:6.704', ' chris:7.977', ' phillies:7.843', ' young:5.598']) 
+ === 
+
+centroid: ['so:4.097', ' having:6.325', ' trouble:7.248', ' authority:7.060', ' encounter:9.006', ' entities:8.313', ' looking:6.246', ' presumption:9.517', ' over:4.609', ' territories:9.229', ' under:5.445', ' anyone:6.285', ' respective:7.977', ' do:4.241'] 
+ Sentence: (696.15313000000003, ['so:4.097', ' having:6.325', ' trouble:7.248', ' authority:7.060', ' encounter:9.006', ' entities:8.313', ' looking:6.246', ' presumption:9.517', ' over:4.609', ' territories:9.229', ' under:5.445', ' anyone:6.285', ' respective:7.977', ' do:4.241']) 
+ === 
+
+centroid: ['against:5.152', ' past:6.116', ' rep:5.288', ' so:4.097', ' always:5.981', ' constituents:6.787', ' people:3.790', ' dedication:8.824', ' despite:6.952', ' giffords:3.981', ' she:4.188', ' threats:6.645', ' has:3.623', ' her:7.231', ' represents:8.051', ' been:3.954', ' accessible:8.670'] 
+ Sentence: (629.66886000000011, ['against:5.152', ' past:6.116', ' rep:5.288', ' so:4.097', ' always:5.981', ' constituents:6.787', ' people:3.790', ' dedication:8.824', ' despite:6.952', ' giffords:3.981', ' she:4.188', ' threats:6.645', ' has:3.623', ' her:7.231', ' represents:8.051', ' been:3.954', ' accessible:8.670']) 
+ === 
+
+centroid: ['field:6.505', ' candidate:7.725', ' divided:11.281', ' whether:5.962', ' one:3.988', ' who:3.653', ' wait:5.298', ' another:5.406', ' opposition:8.131', ' over:4.609', ' year:4.076', ' imply:8.670', ' go:5.541', ' alone:6.927', ' five:5.943', ' seem:6.684'] 
+ Sentence: (689.1590809999999, ['field:6.505', ' candidate:7.725', ' divided:11.281', ' whether:5.962', ' one:3.988', ' who:3.653', ' wait:5.298', ' another:5.406', ' opposition:8.131', ' over:4.609', ' year:4.076', ' imply:8.670', ' go:5.541', ' alone:6.927', ' five:5.943', ' seem:6.684']) 
+ === 
+
+centroid: ["isn't:7.060", ' so:4.097', ' good:5.250', ' people:3.790', ' throw:8.131', ' things:5.871', ' away:5.845', ' daily:6.489', ' see:4.838', ' believe:6.051', ' hard:5.934', ' basis:7.438', ' we:3.800'] 
+ Sentence: (450.40560199999999, ["isn't:7.060", ' so:4.097', ' good:5.250', ' people:3.790', ' throw:8.131', ' things:5.871', ' away:5.845', ' daily:6.489', ' see:4.838', ' believe:6.051', ' hard:5.934', ' basis:7.438', ' we:3.800']) 
+ === 
+
+centroid: ['advanced:7.977', ' plates:9.006', ' set:5.725', ' plant:8.218', ' said:3.331', ' he:3.213', ' fuel:7.480', ' up:4.055', ' produce:7.783', " we've:7.397"] 
+ Sentence: (454.15476700000005, ['advanced:7.977', ' plates:9.006', ' set:5.725', ' plant:8.218', ' said:3.331', ' he:3.213', ' fuel:7.480', ' up:4.055', ' produce:7.783', " we've:7.397"]) 
+ === 
+
+centroid: ['able:4.758', ' mccartney:8.419', ' mills:8.313', ' expression:8.670', " other's:9.006", ' respect:7.358', ' allow:6.902', ' each:5.653', ' freedom:7.908', ' independence:7.089'] 
+ Sentence: (565.42559200000005, ['able:4.758', ' mccartney:8.419', ' mills:8.313', ' expression:8.670', " other's:9.006", ' respect:7.358', ' allow:6.902', ' each:5.653', ' freedom:7.908', ' independence:7.089']) 
+ === 
+
+centroid: ['depsec:9.229', ' one:3.988', ' needed:6.809', ' new:4.485', ' whereas:8.824', ' significant:7.119', ' two:4.472', ' management:7.032', ' difference:7.248', ' hsac:8.824', ' between:5.406', ' charged:6.489', ' believed:7.571', ' focus:7.150', ' portfolio:9.229'] 
+ Sentence: (760.89265499999999, ['depsec:9.229', ' one:3.988', ' needed:6.809', ' new:4.485', ' whereas:8.824', ' significant:7.119', ' two:4.472', ' management:7.032', ' difference:7.248', ' hsac:8.824', ' between:5.406', ' charged:6.489', ' believed:7.571', ' focus:7.150', ' portfolio:9.229']) 
+ === 
+
+centroid: ['also:4.401', ' england:7.060', ' thought:5.559', ' totally:7.908', ' excited:7.783', ' insurance:7.620', ' former:5.639', ' give:6.209', ' had:3.977', ' 35:6.978', ' advanced:7.977', ' delighted:8.824', ' later:5.962', ' specific:7.005', ' too:5.110', ' given:6.353', ' united:5.312', ' would:4.279', ' deal:6.664', ' girl:5.423', ' manchester:6.209', ' naturally:9.229', ' spice:7.438', ' until:5.748', ' made:5.213', ' redknapp:8.131', ' date:5.845', ' 10:4.970', ' beckham:5.259', ' boys:7.725', ' victoria:5.273', ' agreed:7.284', ' galaxy:8.218', ' since:5.541', ' announced:6.787', ' both:5.510', ' ongoing:7.525', ' said:5.769', ' say:4.568', ' spokeswoman:6.978', ' were:5.641', ' david:5.401', ' families:6.505', ' married:7.320', ' star:8.888', " beckham's:8.670", ' ex:7.620', ' pregnancy:7.908', ' hd:9.517', ' play:6.116', ' playing:7.005', ' boss:7.843', ' comes:6.555', ' far:5.406', ' la:7.571', ' mr:6.116', ' old:4.886', ' year:4.076', ' club:7.150', ' tottenham:11.006', ' train:7.438', ' midfielder:9.006', ' 1999:7.438', ' has:6.275', ' day:6.961', ' due:6.161', ' actually:6.473', ' news:3.798', ' up:4.055', ' been:3.954', ' hope:5.952', ' mrs:8.051', ' premiums:9.229', ' more:3.447', ' talks:7.480', ' declined:7.397', ' harry:7.525', ' how:4.617', ' very:5.169'] 
+ Sentence: (3564.0941310000003, ['also:4.401', ' england:7.060', ' thought:5.559', ' totally:7.908', ' excited:7.783', ' insurance:7.620', ' former:5.639', ' give:6.209', ' had:3.977', ' 35:6.978', ' advanced:7.977', ' delighted:8.824', ' later:5.962', ' specific:7.005', ' too:5.110', ' given:6.353', ' united:5.312', ' would:4.279', ' deal:6.664', ' girl:5.423', ' manchester:6.209', ' naturally:9.229', ' spice:7.438', ' until:5.748', ' made:5.213', ' redknapp:8.131', ' date:5.845', ' 10:4.970', ' beckham:5.259', ' boys:7.725', ' victoria:5.273', ' agreed:7.284', ' galaxy:8.218', ' since:5.541', ' announced:6.787', ' both:5.510', ' ongoing:7.525', ' said:5.769', ' say:4.568', ' spokeswoman:6.978', ' were:5.641', ' david:5.401', ' families:6.505', ' married:7.320', ' star:8.888', " beckham's:8.670", ' ex:7.620', ' pregnancy:7.908', ' hd:9.517', ' play:6.116', ' playing:7.005', ' boss:7.843', ' comes:6.555', ' far:5.406', ' la:7.571', ' mr:6.116', ' old:4.886', ' year:4.076', ' club:7.150', ' tottenham:11.006', ' train:7.438', ' midfielder:9.006', ' 1999:7.438', ' has:6.275', ' day:6.961', ' due:6.161', ' actually:6.473', ' news:3.798', ' up:4.055', ' been:3.954', ' hope:5.952', ' mrs:8.051', ' premiums:9.229', ' more:3.447', ' talks:7.480', ' declined:7.397', ' harry:7.525', ' how:4.617', ' very:5.169']) 
+ === 
+
+centroid: ['his:3.698', ' reed:8.131', ' etc:7.320', ' fact:5.605', ' walter:9.229', ' staff:6.221'] 
+ Sentence: (288.66207200000002, ['his:3.698', ' reed:8.131', ' etc:7.320', ' fact:5.605', ' walter:9.229', ' staff:6.221']) 
+ === 
+
+centroid: ['just:6.300', ' cut:7.320', ' about:3.507', ' fbi:6.489', ' chase:9.006', ' watch:6.473', ' simply:6.952', ' each:5.653', ' homes:5.504', ' our:4.088', ' put:5.579', ' agents:6.978', ' how:4.617', ' us:4.403'] 
+ Sentence: (518.49963100000002, ['just:6.300', ' cut:7.320', ' about:3.507', ' fbi:6.489', ' chase:9.006', ' watch:6.473', ' simply:6.952', ' each:5.653', ' homes:5.504', ' our:4.088', ' put:5.579', ' agents:6.978', ' how:4.617', ' us:4.403']) 
+ === 
+
+centroid: ['announcement:7.908', ' found:4.686', ' zuckerberg:6.234', ' regarding:7.571', ' response:6.312', ' down:4.320', ' shutting:5.598', ' official:6.116', ' can:4.493', ' facebook:6.421', ' from:3.517', ' mark:5.804', ' has:3.623', ' website:6.339', ' been:3.954'] 
+ Sentence: (484.33982199999997, ['announcement:7.908', ' found:4.686', ' zuckerberg:6.234', ' regarding:7.571', ' response:6.312', ' down:4.320', ' shutting:5.598', ' official:6.116', ' can:4.493', ' facebook:6.421', ' from:3.517', ' mark:5.804', ' has:3.623', ' website:6.339', ' been:3.954']) 
+ === 
+
+centroid: ['also:4.401', ' truths:9.517', ' experience:5.934', ' too:5.110', ' through:5.200', ' difficult:6.809', ' them:6.708', ' who:3.653', ' idea:6.645', ' people:3.790', ' seems:6.704', ' think:7.039', ' about:3.507', ' blind:8.670', ' often:6.116', ' order:6.590', ' throw:8.131', ' far:5.406', ' things:5.871', " don't:5.047", ' conspiracy:6.952', " it's:4.974", ' my:4.504', ' out:4.042', ' theory:7.358', ' whose:6.367'] 
+ Sentence: (983.97592699999996, ['also:4.401', ' truths:9.517', ' experience:5.934', ' too:5.110', ' through:5.200', ' difficult:6.809', ' them:6.708', ' who:3.653', ' idea:6.645', ' people:3.790', ' seems:6.704', ' think:7.039', ' about:3.507', ' blind:8.670', ' often:6.116', ' order:6.590', ' throw:8.131', ' far:5.406', ' things:5.871', " don't:5.047", ' conspiracy:6.952', " it's:4.974", ' my:4.504', ' out:4.042', ' theory:7.358', ' whose:6.367']) 
+ === 
+
+centroid: ['learn:6.745', ' soon:7.150', ' so:4.097', ' always:5.981', ' enjoy:7.843', ' from:3.517', ' touch:7.620', ' hubs:9.517', ' i:3.490', ' ill:7.397', ' your:3.811', ' much:4.873', ' very:5.169'] 
+ Sentence: (503.57904199999996, ['learn:6.745', ' soon:7.150', ' so:4.097', ' always:5.981', ' enjoy:7.843', ' from:3.517', ' touch:7.620', ' hubs:9.517', ' i:3.490', ' ill:7.397', ' your:3.811', ' much:4.873', ' very:5.169']) 
+ === 
+
+centroid: ['attack:5.353', ' tragedy:5.395', ' people:3.790', ' wounded:5.639', ' others:5.322', ' lives:6.339', ' has:3.623', ' six:5.915', ' horrified:8.536', ' result:6.573', ' taken:6.173', ' we:3.800'] 
+ Sentence: (389.15656799999999, ['attack:5.353', ' tragedy:5.395', ' people:3.790', ' wounded:5.639', ' others:5.322', ' lives:6.339', ' has:3.623', ' six:5.915', ' horrified:8.536', ' result:6.573', ' taken:6.173', ' we:3.800']) 
+ === 
+
+centroid: ['his:3.698', ' would:4.279', ' what:4.196', ' class:6.724', ' route:8.131', ' working:6.259', ' handsome:9.229', ' safe:7.089', ' parents:6.489', ' roots:8.218', ' secure:8.218', ' wanted:6.473', ' man:4.749', ' describe:7.571', " that's:6.072", ' face:5.812', ' few:5.906', ' young:5.598'] 
+ Sentence: (771.33814899999993, ['his:3.698', ' would:4.279', ' what:4.196', ' class:6.724', ' route:8.131', ' working:6.259', ' handsome:9.229', ' safe:7.089', ' parents:6.489', ' roots:8.218', ' secure:8.218', ' wanted:6.473', ' man:4.749', ' describe:7.571', " that's:6.072", ' face:5.812', ' few:5.906', ' young:5.598']) 
+ === 
+
+centroid: ['ohio:9.694', ' drawn:8.051', ' found:4.686', ' mastodon:8.419', ' once:8.816', ' position:7.248', ' s:6.083', ' after:4.178', ' flattering:9.006', ' who:3.653', ' around:5.592', ' fairs:9.229', ' 1887:9.517', ' its:4.547', ' unearthed:9.517', ' carted:9.517', ' named:6.902', ' started:6.538', ' western:7.248', ' reassembling:9.517', ' horse:9.006', ' newton:8.051', ' carriages:9.517', ' conway:13.459', ' skeleton:8.131', ' farm:8.131', ' parts.the:9.517', ' county:5.703', ' workers:6.766'] 
+ Sentence: (1891.8737769999998, ['ohio:9.694', ' drawn:8.051', ' found:4.686', ' mastodon:8.419', ' once:8.816', ' position:7.248', ' s:6.083', ' after:4.178', ' flattering:9.006', ' who:3.653', ' around:5.592', ' fairs:9.229', ' 1887:9.517', ' its:4.547', ' unearthed:9.517', ' carted:9.517', ' named:6.902', ' started:6.538', ' western:7.248', ' reassembling:9.517', ' horse:9.006', ' newton:8.051', ' carriages:9.517', ' conway:13.459', ' skeleton:8.131', ' farm:8.131', ' parts.the:9.517', ' county:5.703', ' workers:6.766'])
+(1891.8737769999998, ['ohio:9.694', ' drawn:8.051', ' found:4.686', ' mastodon:8.419', ' once:8.816', ' position:7.248', ' s:6.083', ' after:4.178', ' flattering:9.006', ' who:3.653', ' around:5.592', ' fairs:9.229', ' 1887:9.517', ' its:4.547', ' unearthed:9.517', ' carted:9.517', ' named:6.902', ' started:6.538', ' western:7.248', ' reassembling:9.517', ' horse:9.006', ' newton:8.051', ' carriages:9.517', ' conway:13.459', ' skeleton:8.131', ' farm:8.131', ' parts.the:9.517', ' county:5.703', ' workers:6.766']) 
+ === 
+
+centroid: ['rwanda:8.824', ' forced:7.005', ' had:3.977', ' local:8.303', ' chosen:8.536', ' france:7.671', ' icrc:8.419', ' which:4.387', ' one:3.988', ' denounced:8.131', ' almost:6.457', ' its:4.547', ' intervention:8.218', ' set:5.725', ' were:3.989', ' demanded:8.218', ' french:5.854', ' from:3.517', ' murders:8.313', ' stop:5.943', ' 500:7.843', ' country:5.401', ' lost:9.295', ' military:5.696', ' msf:7.899', ' evacuate:9.006', ' 56:7.571', ' stay:6.787', ' respective:7.977', ' up:4.055', ' hundred:7.908', ' team:5.795', ' genocide:7.908', ' pictured:8.824', ' staff:8.798'] 
+ Sentence: (1763.139011, ['rwanda:8.824', ' forced:7.005', ' had:3.977', ' local:8.303', ' chosen:8.536', ' france:7.671', ' icrc:8.419', ' which:4.387', ' one:3.988', ' denounced:8.131', ' almost:6.457', ' its:4.547', ' intervention:8.218', ' set:5.725', ' were:3.989', ' demanded:8.218', ' french:5.854', ' from:3.517', ' murders:8.313', ' stop:5.943', ' 500:7.843', ' country:5.401', ' lost:9.295', ' military:5.696', ' msf:7.899', ' evacuate:9.006', ' 56:7.571', ' stay:6.787', ' respective:7.977', ' up:4.055', ' hundred:7.908', ' team:5.795', ' genocide:7.908', ' pictured:8.824', ' staff:8.798']) 
+ === 
+
+centroid: ['also:4.401', ' license:6.382', ' clinic:8.670', ' his:3.698', ' vegas:7.320', ' jackson:10.925', ' when:3.831', ' sentence:6.978', ' which:4.387', ' died:5.051', ' houston:8.536', ' who:3.653', ' negligence:8.670', ' four:5.952', ' administered:9.229', ' could:4.719', ' medical:5.688', ' propofol:9.006', ' demanded:8.218', ' prison:6.809', ' only:4.467', ' he:4.544', ' between:5.406', ' revocation:9.517', ' has:3.623', ' murray:7.571', ' gross:8.824', ' convicted:7.480', ' up:4.055', ' accused:7.089', ' get:4.741', ' las:7.320', ' years:4.832', ' face:5.812'] 
+ Sentence: (1526.1576560000001, ['also:4.401', ' license:6.382', ' clinic:8.670', ' his:3.698', ' vegas:7.320', ' jackson:10.925', ' when:3.831', ' sentence:6.978', ' which:4.387', ' died:5.051', ' houston:8.536', ' who:3.653', ' negligence:8.670', ' four:5.952', ' administered:9.229', ' could:4.719', ' medical:5.688', ' propofol:9.006', ' demanded:8.218', ' prison:6.809', ' only:4.467', ' he:4.544', ' between:5.406', ' revocation:9.517', ' has:3.623', ' murray:7.571', ' gross:8.824', ' convicted:7.480', ' up:4.055', ' accused:7.089', ' get:4.741', ' las:7.320', ' years:4.832', ' face:5.812']) 
+ === 
+
+centroid: ['dangerous:6.978', ' had:3.977', ' work:5.395', ' too:5.110', ' weather:6.878', ' before:4.627', ' begin:8.051', ' could:4.719', ' cleared:8.218', ' from:3.517', ' snow:7.725', ' allow:6.902', ' go:5.541', ' deck:9.517', ' anyone:6.285', ' bad:5.934', ' up:4.055'] 
+ Sentence: (675.181331, ['dangerous:6.978', ' had:3.977', ' work:5.395', ' too:5.110', ' weather:6.878', ' before:4.627', ' begin:8.051', ' could:4.719', ' cleared:8.218', ' from:3.517', ' snow:7.725', ' allow:6.902', ' go:5.541', ' deck:9.517', ' anyone:6.285', ' bad:5.934', ' up:4.055']) 
+ === 
+
+centroid: ['against:5.152', ' ago:4.248', ' forcedsatisfied:9.517', ' his:3.698', ' liverpool:12.446', ' rooney:8.824', ' score:8.419', ' difficulties:8.824', ' facing:7.525', ' game:5.772', ' teen:8.313', ' uk.manchester:9.517', ' half:6.221', ' match:7.182', ' muhammadjusuf:8.824', ' united:7.513', ' draw:8.131', ' houston:8.536', ' manchester:8.781', ' until:5.748', ' what:4.196', ' won:5.725', ' bywayne:9.517', ' made:5.213', ' 0:9.210', ' first:4.568', ' new:4.485', ' tookplace:9.517', ' 1:6.550', ' appoint:8.419', ' manchesterunited:9.517', " united's:9.517", ' replaced:7.977', ' contributions:6.127', ' finally:6.952', ' thanks:6.031', ' from:3.517', ' about:3.507', ' develop:7.525', ' friends:5.090', ' goal:5.428', ' harsh:8.419', ' boss:7.843', ' darkness:8.824', ' minutes:5.871', ' club:7.150', ' fc_hodgson:9.229', ' glasgow:9.006', ' kill:6.051', ' 87:8.218', ' earned:7.977', ' penalty:6.724', ' return:6.367', ' single:7.119', ' dalglish:14.364', ' loading:5.553', ' her:5.904', ' news:3.798', ' soul:8.218', ' leaves:7.248', ' out:4.042', ' rangers:13.052', ' kenny:12.882', ' more:3.447', ' beat:6.041', ' hodgson:7.089', ' month:6.259', ' reality:6.724'] 
+ Sentence: (3964.1670719999993, ['against:5.152', ' ago:4.248', ' forcedsatisfied:9.517', ' his:3.698', ' liverpool:12.446', ' rooney:8.824', ' score:8.419', ' difficulties:8.824', ' facing:7.525', ' game:5.772', ' teen:8.313', ' uk.manchester:9.517', ' half:6.221', ' match:7.182', ' muhammadjusuf:8.824', ' united:7.513', ' draw:8.131', ' houston:8.536', ' manchester:8.781', ' until:5.748', ' what:4.196', ' won:5.725', ' bywayne:9.517', ' made:5.213', ' 0:9.210', ' first:4.568', ' new:4.485', ' tookplace:9.517', ' 1:6.550', ' appoint:8.419', ' manchesterunited:9.517', " united's:9.517", ' replaced:7.977', ' contributions:6.127', ' finally:6.952', ' thanks:6.031', ' from:3.517', ' about:3.507', ' develop:7.525', ' friends:5.090', ' goal:5.428', ' harsh:8.419', ' boss:7.843', ' darkness:8.824', ' minutes:5.871', ' club:7.150', ' fc_hodgson:9.229', ' glasgow:9.006', ' kill:6.051', ' 87:8.218', ' earned:7.977', ' penalty:6.724', ' return:6.367', ' single:7.119', ' dalglish:14.364', ' loading:5.553', ' her:5.904', ' news:3.798', ' soul:8.218', ' leaves:7.248', ' out:4.042', ' rangers:13.052', ' kenny:12.882', ' more:3.447', ' beat:6.041', ' hodgson:7.089', ' month:6.259', ' reality:6.724']) 
+ === 
+
+centroid: ['head:5.559', ' when:3.831', ' refrigerator:14.033', ' opened:6.878', ' plate:9.229', ' setting:8.419', ' mans:9.517', ' police:5.040'] 
+ Sentence: (561.83990600000004, ['head:5.559', ' when:3.831', ' refrigerator:14.033', ' opened:6.878', ' plate:9.229', ' setting:8.419', ' mans:9.517', ' police:5.040']) 
+ === 
+
+centroid: ['page:4.873', ' his:5.230', ' world:7.578', ' currency:7.571', ' government:4.832', ' among:5.353', ' masses:9.006', ' one:3.988', ' so:4.097', ' bureaucrats:9.517', ' monetary:8.313', ' brave:8.218', ' friend:6.521', ' new:6.342', ' authorities:6.072', ' could:4.719', ' novels:9.517', ' system:5.516', ' 11:4.755', ' books:7.438', ' u.s:4.814', ' said:3.331', ' were:3.989', ' behind:6.457', ' two:4.472', ' about:3.507', ' control:8.618', ' animal:7.060', ' order:6.590', ' he:4.544', ' listed:8.051', ' farm:8.131', ' worried:8.131', ' 9:4.727', ' believed:7.571', ' governments:7.783', ' unified:8.419', ' youtube:6.927', ' create:5.962', ' favorite:8.051', ' rest:6.766', ' social:6.382', ' how:4.617'] 
+ Sentence: (1876.3757280000004, ['page:4.873', ' his:5.230', ' world:7.578', ' currency:7.571', ' government:4.832', ' among:5.353', ' masses:9.006', ' one:3.988', ' so:4.097', ' bureaucrats:9.517', ' monetary:8.313', ' brave:8.218', ' friend:6.521', ' new:6.342', ' authorities:6.072', ' could:4.719', ' novels:9.517', ' system:5.516', ' 11:4.755', ' books:7.438', ' u.s:4.814', ' said:3.331', ' were:3.989', ' behind:6.457', ' two:4.472', ' about:3.507', ' control:8.618', ' animal:7.060', ' order:6.590', ' he:4.544', ' listed:8.051', ' farm:8.131', ' worried:8.131', ' 9:4.727', ' believed:7.571', ' governments:7.783', ' unified:8.419', ' youtube:6.927', ' create:5.962', ' favorite:8.051', ' rest:6.766', ' social:6.382', ' how:4.617']) 
+ === 
+
+centroid: ['local:5.871', ' time:4.536', ' rubik:9.006', ' calls:6.441', ' history:6.150', ' our:4.088', ' pages:7.358', ' represents:8.051', ' darkest:9.517'] 
+ Sentence: (441.70475199999998, ['local:5.871', ' time:4.536', ' rubik:9.006', ' calls:6.441', ' history:6.150', ' our:4.088', ' pages:7.358', ' represents:8.051', ' darkest:9.517']) 
+ === 
+
+centroid: ['ago:4.248', ' white:6.339', ' here:5.094', ' haired:8.670', ' photos:5.625', ' rep:5.288', ' 40:6.573', ' aged:7.843', ' gabrielle:4.559', ' 50:5.457', ' about:3.507', ' shooting:6.009', ' giffords:3.981', ' he:3.213', ' pictures:7.783', ' 17:6.105', ' between:5.406', ' described:6.339', ' man:4.749', ' aftermath:11.386', ' hours:4.583', ' dark:7.620'] 
+ Sentence: (847.32505500000025, ['ago:4.248', ' white:6.339', ' here:5.094', ' haired:8.670', ' photos:5.625', ' rep:5.288', ' 40:6.573', ' aged:7.843', ' gabrielle:4.559', ' 50:5.457', ' about:3.507', ' shooting:6.009', ' giffords:3.981', ' he:3.213', ' pictures:7.783', ' 17:6.105', ' between:5.406', ' described:6.339', ' man:4.749', ' aftermath:11.386', ' hours:4.583', ' dark:7.620']) 
+ === 
+
+centroid: ['heads:7.397', ' horrible:7.571', ' talking:6.927', ' who:5.165', ' completely:7.320', ' all:3.855', ' people:3.790', ' 11:4.755', ' 09:5.741', ' frightening:9.517', ' were:3.989', ' test:7.119', ' 14:5.343', ' political:5.071', ' really:7.717', ' abuse:5.619', ' evil:7.397', ' report:4.385', ' weed:9.517', ' kill:6.051', ' yet:6.197', ' reply:5.741', ' help:4.746', ' those:4.844', ' am:5.417', ' out:4.042', ' result:6.573', ' 2011:4.434', ' assumed:8.313', ' us:6.227'] 
+ Sentence: (1162.536648, ['heads:7.397', ' horrible:7.571', ' talking:6.927', ' who:5.165', ' completely:7.320', ' all:3.855', ' people:3.790', ' 11:4.755', ' 09:5.741', ' frightening:9.517', ' were:3.989', ' test:7.119', ' 14:5.343', ' political:5.071', ' really:7.717', ' abuse:5.619', ' evil:7.397', ' report:4.385', ' weed:9.517', ' kill:6.051', ' yet:6.197', ' reply:5.741', ' help:4.746', ' those:4.844', ' am:5.417', ' out:4.042', ' result:6.573', ' 2011:4.434', ' assumed:8.313', ' us:6.227']) 
+ === 
+
+centroid: ['lake:8.131', ' his:3.698', ' mins:8.824', ' updated:6.521', ' confirms:9.006', ' died:7.144', ' 4:5.547', ' beller:12.737', ' has:3.623', ' county:5.703', ' agoread:9.006', ' christopher:8.051'] 
+ Sentence: (716.89690699999994, ['lake:8.131', ' his:3.698', ' mins:8.824', ' updated:6.521', ' confirms:9.006', ' died:7.144', ' 4:5.547', ' beller:12.737', ' has:3.623', ' county:5.703', ' agoread:9.006', ' christopher:8.051']) 
+ === 
+
+centroid: ['facility:8.419', ' which:4.387', ' nuclear:7.783', ' can:4.493', ' real:5.871', ' could:4.719', ' aim:8.313', ' develop:7.525', ' trial:7.089', ' error:7.977', ' environment:7.182', ' do:4.241', ' use:4.882', ' we:3.800'] 
+ Sentence: (575.08424300000001, ['facility:8.419', ' which:4.387', ' nuclear:7.783', ' can:4.493', ' real:5.871', ' could:4.719', ' aim:8.313', ' develop:7.525', ' trial:7.089', ' error:7.977', ' environment:7.182', ' do:4.241', ' use:4.882', ' we:3.800']) 
+ === 
+
+centroid: ['once:6.234', ' threat:6.855', ' all:3.855', ' sex:6.573', ' again:4.953', ' point:5.748', ' proves:9.517', ' offenders:7.977'] 
+ Sentence: (355.69666599999999, ['once:6.234', ' threat:6.855', ' all:3.855', ' sex:6.573', ' again:4.953', ' point:5.748', ' proves:9.517', ' offenders:7.977']) 
+ === 
+
+centroid: ['began:6.608', ' movies:8.131', ' er:8.536', ' working:6.259', ' 13:5.880', ' clooney:6.094', ' while:4.491', ' appearing:8.419'] 
+ Sentence: (384.57708000000002, ['began:6.608', ' movies:8.131', ' er:8.536', ' working:6.259', ' 13:5.880', ' clooney:6.094', ' while:4.491', ' appearing:8.419']) 
+ === 
+
+centroid: ['further:6.505', ' representatives:7.783', ' so:4.097', ' time:4.536', ' discussions:7.671', ' ongoing:7.525', ' update:6.724', ' staff:6.221'] 
+ Sentence: (339.63370200000003, ['further:6.505', ' representatives:7.783', ' so:4.097', ' time:4.536', ' discussions:7.671', ' ongoing:7.525', ' update:6.724', ' staff:6.221']) 
+ === 
+
+centroid: ['also:4.401', ' available:6.367', ' less:8.681', ' than:4.419', ' when:3.831', ' did:5.017', ' 200:7.397', ' say:4.568', ' breeze:9.006', ' tablet:5.943', ' cost:7.060', ' much:4.873', ' how:4.617'] 
+ Sentence: (481.55759799999998, ['also:4.401', ' available:6.367', ' less:8.681', ' than:4.419', ' when:3.831', ' did:5.017', ' 200:7.397', ' say:4.568', ' breeze:9.006', ' tablet:5.943', ' cost:7.060', ' much:4.873', ' how:4.617']) 
+ === 
+
+centroid: ['traced:9.517', ' colic:8.670', ' litharge:9.517', ' had:3.977', ' developed:7.284', ' lead:4.639', ' who:3.653', ' did:5.017', ' made:5.213', ' simmering:9.517', ' cause:6.411', ' were:3.989', ' wine:12.737', ' 15:5.040', ' sugar:8.824', ' 139:8.824', ' he:3.213', ' drink:8.051', ' while:4.491', ' monks:9.517', ' noticed:8.218', ' healthy:8.670'] 
+ Sentence: (1231.9328669999998, ['traced:9.517', ' colic:8.670', ' litharge:9.517', ' had:3.977', ' developed:7.284', ' lead:4.639', ' who:3.653', ' did:5.017', ' made:5.213', ' simmering:9.517', ' cause:6.411', ' were:3.989', ' wine:12.737', ' 15:5.040', ' sugar:8.824', ' 139:8.824', ' he:3.213', ' drink:8.051', ' while:4.491', ' monks:9.517', ' noticed:8.218', ' healthy:8.670']) 
+ === 
+
+centroid: ['ap:5.592', " aren't:5.888", ' links:5.553', ' ohio:6.855', ' study:5.871', ' thought:5.559', ' fish:7.965', ' have:3.292', ' homeless:8.051', ' former:5.639', ' government:4.832', ' had:3.977', ' shaking:5.119', ' wife:5.498', ' after:4.178', ' death:7.485', ' jail:7.525', ' morning:6.150', ' suburban:8.536', ' too:5.110', ' when:3.831', ' enquirer:9.517', ' exclusive:8.514', ' heart:5.619', ' jackpot:5.428', ' mass:5.619', " woman's:8.670", ' won:5.725', ' charges:9.199', ' held:6.127', ' check:7.465', ' die:5.764', ' apocalyptic:6.083', ' deaths:5.703', ' lower:5.696', ' people:3.790', ' winner:5.055', ' limits:5.991', ' plans:5.748', ' soldier:8.051', ' splotchy:6.072', ' bird:5.748', ' learned:6.001', ' related:5.688', ' thereap:6.952', ' beating:8.313', ' pale:5.123', ' bond:8.419', ' regularlyfact:6.083', ' shooting:4.249', ' reckless:9.229', ' shows:5.710', ' waterap:6.083', ' being:4.929', ' he:5.566', ' kids:5.888', ' old:4.886', ' reports:4.826', ' year:4.076', ' riley:9.517', ' birds:5.423', ' cincinnati:9.229', ' fluoride:8.405', ' man:4.749', ' says:4.697', ' seek:5.837', ' saturday:5.245', ' homicide:9.229', ' occur:5.888', ' 25:5.962', ' convicted:7.480', ' fall:5.871', ' up:4.055', ' attackfact:6.952', ' arraigned:9.517', ' much:4.873', ' weapons:7.150', ' us:4.403'] 
+ Sentence: (3201.3757950000008, ['ap:5.592', " aren't:5.888", ' links:5.553', ' ohio:6.855', ' study:5.871', ' thought:5.559', ' fish:7.965', ' have:3.292', ' homeless:8.051', ' former:5.639', ' government:4.832', ' had:3.977', ' shaking:5.119', ' wife:5.498', ' after:4.178', ' death:7.485', ' jail:7.525', ' morning:6.150', ' suburban:8.536', ' too:5.110', ' when:3.831', ' enquirer:9.517', ' exclusive:8.514', ' heart:5.619', ' jackpot:5.428', ' mass:5.619', " woman's:8.670", ' won:5.725', ' charges:9.199', ' held:6.127', ' check:7.465', ' die:5.764', ' apocalyptic:6.083', ' deaths:5.703', ' lower:5.696', ' people:3.790', ' winner:5.055', ' limits:5.991', ' plans:5.748', ' soldier:8.051', ' splotchy:6.072', ' bird:5.748', ' learned:6.001', ' related:5.688', ' thereap:6.952', ' beating:8.313', ' pale:5.123', ' bond:8.419', ' regularlyfact:6.083', ' shooting:4.249', ' reckless:9.229', ' shows:5.710', ' waterap:6.083', ' being:4.929', ' he:5.566', ' kids:5.888', ' old:4.886', ' reports:4.826', ' year:4.076', ' riley:9.517', ' birds:5.423', ' cincinnati:9.229', ' fluoride:8.405', ' man:4.749', ' says:4.697', ' seek:5.837', ' saturday:5.245', ' homicide:9.229', ' occur:5.888', ' 25:5.962', ' convicted:7.480', ' fall:5.871', ' up:4.055', ' attackfact:6.952', ' arraigned:9.517', ' much:4.873', ' weapons:7.150', ' us:4.403']) 
+ === 
+
+centroid: ['have:1.552', ' simon:7.150', ' tamra:7.783', ' 11:1.585', ' married:2.440', ' barney:7.620', ' children:1.847', ' image:1.966', ' together:2.163', ' source:1.960', ' been:1.318', ' three:1.747', ' years:1.611'] 
+ Sentence: (248.80396200000004, ['have:4.655', ' simon:7.150', ' tamra:7.783', ' 11:4.755', ' married:7.320', ' barney:7.620', ' children:5.541', ' together:6.489', ' been:3.954', ' three:5.240', ' years:4.832'])
+(192.88029100000003, ['simon:7.150', ' tamra:7.783', ' barney:7.620', ' image:5.897', ' source:5.880'])
+(169.761989, ['simon:7.150', ' tamra:7.783', ' barney:7.620']) 
+ === 
+
