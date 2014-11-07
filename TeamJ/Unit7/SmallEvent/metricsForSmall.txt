@@ -1,0 +1,20 @@
+The command:
+mahout seqdirectory -i SmallEventAsSents -o SmallEventSeq
+took 841427 ms (Minutes: 14.0237833)
+
+The command:
+mahout seq2sparse -i SmallEventSeq -o SmallEventVectors
+took 230812 ms (Minutes: 3.8468666)
+
+The command:
+mahout canopy -i SmallEventVectors/tfidf-vectors -o SmallEventCentroids -m
+org.apache.mahout.common.distance.SquaredEuclideanDistanceMeasure -t1 500 -t2
+250
+took 267 ms (Minutes: 0.00445)
+
+The command:
+mahout clusterdump -dt sequencefile -d SmallEventVectors/dictionary.file-* -i
+SmallEventCentroids/clusters-0-final -o report.txt
+took 1779 ms (Minutes: 0.02965)
+
+
