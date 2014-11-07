@@ -1,0 +1,34 @@
+14/11/06 19:16:38 INFO mapreduce.Job: Counters: 27
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=85418
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=5374500
+		HDFS: Number of bytes written=2556044
+		HDFS: Number of read operations=59
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Data-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=70957
+		Total time spent by all reduces in occupied slots (ms)=0
+	Map-Reduce Framework
+		Map input records=14059
+		Map output records=14059
+		Input split bytes=145
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=431
+		CPU time spent (ms)=67640
+		Physical memory (bytes) snapshot=194539520
+		Virtual memory (bytes) snapshot=1531174912
+		Total committed heap usage (bytes)=229113856
+	File Input Format Counters 
+		Bytes Read=2570691
+	File Output Format Counters 
+		Bytes Written=2556044
+14/11/06 19:16:38 INFO driver.MahoutDriver: Program took 1278784 ms (Minutes: 21.313066666666668)
