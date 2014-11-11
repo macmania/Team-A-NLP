@@ -1,0 +1,27 @@
+20-year-old killer
+massacre in newton, connecticut
+schoolterror at connecticut
+at connecticut elementary school
+'18 children among 27 dead' at newton elementary 
+tragedy at sandy hook elementary school
+shooting at connecticut elementary school
+connecticut school shooting
+elementary school shooting
+connecticut school shooting victims : <location> shooting victims, alternately victims of <event>
+died in connecticut school shooting: in <location> shooting
+a shooting at a connecticut elementary school friday left 27 people dead, including 18 children, an official said
+20 children among 26 victims of connecticut school shootingcut school : victims of <event>
+connecticut shooter adam lanza
+a gunman walked into sandy hook elementary school in newtown friday and opened fire, killing 26 people, including 20 children : succinct headline
+connecticut governor dan malloy said that the weapon was so powerful he was literally able to shoot an entrance into the building
+
+
+General observation:
+<location> shooting = <event>
+Anything with '*', say police OR Police say '*' could be an interesting sentence
+
+Search for regex matching patterns
+Rank the K possible matches according to other occurrences.
+
+compare against lists of NEs:
+list of locations, list of persons, list of organizations, 
