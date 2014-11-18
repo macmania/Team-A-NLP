@@ -1,0 +1,1673 @@
+gunman_2_0	3377
+shooter_2_0	2573
+morning_0_1	1084
+Friday, December 14_0_0	730
+Saturday, December 15_0_0	265
+afternoon_0_1	204
+gunmen_2_0	165
+rifle_1_1	71
+adam lanza_1_0	66
+for motive in _2_2	57
+opened fire_1_0	55
+dawn_0_1	52
+forced his_1_0	43
+Friday December 14_0_0	39
+handgun_1_1	37
+Friday, killing 26_0_0	30
+no motive for inflicting this much harm_2_2	25
+entered an_1_0	25
+pistol_1_1	24
+if there_1_0	24
+in the_1_0	22
+27_0_2	22
+4:48 pm_0_1	15
+2:48 pm_0_1	15
+1:54 pm_0_1	15
+1:18 pm_0_1	15
+9:42 am_0_1	14
+4:54 pm_0_1	14
+3:40 pm_0_1	14
+2:22 pm_0_1	14
+1:36 pm_0_1	14
+11:50 am_0_1	14
+11:25 am_0_1	14
+1:00 am_0_1	14
+Tuesday, December 18_0_0	13
+9:52 am_0_1	13
+8:45 am_0_1	13
+26_0_2	13
+2:47 pm_0_1	13
+12:55 pm_0_1	13
+1:19 pm_0_1	13
+1:09 pm_0_1	13
+Saturday, Dec 15_0_0	12
+identified as_1_0	12
+establish motive for shooting_2_2	12
+5:52 pm_0_1	12
+2:30 pm_0_1	12
+1:55 pm_0_1	12
+1:52 pm_0_1	12
+1:24 pm_0_1	12
+1:23 pm_0_1	12
+11:47 am_0_1	12
+the motive for the second_2_2	11
+the motive for the attack_2_2	11
+in connecticut_1_0	11
+9:51 am_0_1	11
+4:59 pm_0_1	11
+4:44 pm_0_1	11
+2:41 pm_0_1	11
+23_0_3	11
+2:20 pm_0_1	11
+2:18 pm_0_1	11
+2:14 pm_0_1	11
+12:51 pm_0_1	11
+12:39 pm_0_1	11
+1:21 pm_0_1	11
+10:57 am_0_1	11
+1_0_3	11
+1:00 pm_0_1	11
+forced way_1_0	10
+7:03 pm_0_1	10
+5:07 pm_0_1	10
+3:29 pm_0_1	10
+2:42 pm_0_1	10
+2:09 pm_0_1	10
+2:01 pm_0_1	10
+2:00 pm_0_1	10
+1:20 pm_0_1	10
+1:14 pm_0_1	10
+walked into_1_0	9
+Tuesday, Dec 11_0_0	9
+shot mother_1_0	9
+on motive for _2_2	9
+inside the_1_0	9
+9:58 am_0_1	9
+6:41 pm_0_1	9
+5:40 pm_0_1	9
+4:35 pm_0_1	9
+4:18 pm_0_1	9
+4:04 pm_0_1	9
+4:00 pm_0_1	9
+3:50 pm_0_1	9
+3:33 pm_0_1	9
+3:13 pm_0_1	9
+3:11 pm_0_1	9
+2:56 pm_0_1	9
+2:29 pm_0_1	9
+2:24 pm_0_1	9
+2:10 pm_0_1	9
+1:48 pm_0_1	9
+1:37 am_0_1	9
+1:33 pm_0_1	9
+12:54 pm_0_1	9
+1:22 pm_0_1	9
+12:24 pm_0_1	9
+11:45 am_0_1	9
+11:27 am_0_1	9
+11:13 am_0_1	9
+10:58 pm_0_1	9
+10:37 am_0_1	9
+1:01 pm_0_1	9
+the massacre_1_0	8
+9:45 am_0_1	8
+9:01 pm_0_1	8
+9:01 am_0_1	8
+8:56 pm_0_1	8
+8:55 am_0_1	8
+8:35 am_0_1	8
+6:50 pm_0_1	8
+6:30 pm_0_1	8
+6:17 pm_0_1	8
+5:47 pm_0_1	8
+5:28 pm_0_1	8
+5:00 pm_0_1	8
+4:53 pm_0_1	8
+4:33 pm_0_1	8
+4:31 pm_0_1	8
+4:08 pm_0_1	8
+3:47 pm_0_1	8
+3:42 pm_0_1	8
+3:35 pm_0_1	8
+3:23 pm_0_1	8
+3:22 pm_0_1	8
+3:10 pm_0_1	8
+3:09 pm_0_1	8
+2:59 pm_0_1	8
+2:50 pm_0_1	8
+2:38 pm_0_1	8
+2:36 pm_0_1	8
+2:11 pm_0_1	8
+1:27 pm_0_1	8
+12:48 pm_0_1	8
+12:42 pm_0_1	8
+12:35 pm_0_1	8
+12:34 pm_0_1	8
+12:32 am_0_1	8
+12:27 am_0_1	8
+1:16 am_0_1	8
+11:23 am_0_1	8
+1:08 pm_0_1	8
+1:07 pm_0_1	8
+10:15 am_0_1	8
+01:30 pm_0_1	8
+who killed_1_0	7
+Tuesday, December 11_0_0	7
+Saturday, Dec 08_0_0	7
+on Sunday, December 16_0_0	7
+9:36 am_0_1	7
+9:34 am_0_1	7
+9:33 am_0_1	7
+9:28 am_0_1	7
+8:28 pm_0_1	7
+6:10 pm_0_1	7
+6:07 pm_0_1	7
+5:39 pm_0_1	7
+5:38 pm_0_1	7
+5:32 pm_0_1	7
+5:22 pm_0_1	7
+5:14 pm_0_1	7
+5:02 pm_0_1	7
+4:56 pm_0_1	7
+4:52 pm_0_1	7
+4:51 pm_0_1	7
+4:41 pm_0_1	7
+4:27 pm_0_1	7
+4:21 pm_0_1	7
+4:19 pm_0_1	7
+4:11 pm_0_1	7
+4:07 pm_0_1	7
+4:02 pm_0_1	7
+3:39 pm_0_1	7
+3:28 pm_0_1	7
+3:18 pm_0_1	7
+3:17 pm_0_1	7
+3:15 pm_0_1	7
+3:12 pm_0_1	7
+3:01 pm_0_1	7
+28_0_2	7
+2:28 pm_0_1	7
+1:50 pm_0_1	7
+1:39 am_0_1	7
+12:58 pm_0_1	7
+12:36 am_0_1	7
+12:33 am_0_1	7
+12:19 pm_0_1	7
+12:16 pm_0_1	7
+12:01 pm_0_1	7
+1:13 pm_0_1	7
+11:17 am_0_1	7
+1:04 pm_0_1	7
+10:44 am_0_1	7
+1:03 pm_0_1	7
+10:24 am_0_1	7
+10:22 am_0_1	7
+threatened professor_1_0	6
+s mother_1_0	6
+killed in_1_0	6
+in newtown_1_0	6
+from 5 to 10_0_4	6
+Friday left 27_0_0	6
+Friday Dec 14_0_0	6
+dead in_1_0	6
+at sandy_1_0	6
+9:44 pm_0_1	6
+9:41 am_0_1	6
+9:40 am_0_1	6
+9:39 am_0_1	6
+8:18 pm_0_1	6
+7:50 pm_0_1	6
+7:48 pm_0_1	6
+7:39 pm_0_1	6
+7:26 pm_0_1	6
+7:21 pm_0_1	6
+7:01 pm_0_1	6
+7:00 pm_0_1	6
+6:38 pm_0_1	6
+6:37 pm_0_1	6
+6:27 pm_0_1	6
+6:24 pm_0_1	6
+6:12 pm_0_1	6
+6:08 pm_0_1	6
+6:03 pm_0_1	6
+5:44 pm_0_1	6
+5:31 pm_0_1	6
+5:30 pm_0_1	6
+5:25 pm_0_1	6
+5:18 pm_0_1	6
+5:05 pm_0_1	6
+4:58 pm_0_1	6
+4:57 pm_0_1	6
+4:46 pm_0_1	6
+4:05 pm_0_1	6
+3:59 pm_0_1	6
+3:27 pm_0_1	6
+32_0_2	6
+3:19 pm_0_1	6
+3:14 pm_0_1	6
+3:03 pm_0_1	6
+2:55 pm_0_1	6
+2:53 pm_0_1	6
+2:51 pm_0_1	6
+2:44 pm_0_1	6
+2:43 pm_0_1	6
+2:25 pm_0_1	6
+2:21 pm_0_1	6
+2:17 pm_0_1	6
+2:07 pm_0_1	6
+2:03 pm_0_1	6
+2_0_3	6
+2:02 pm_0_1	6
+1:56 pm_0_1	6
+1:53 pm_0_1	6
+1:49 pm_0_1	6
+1:47 pm_0_1	6
+1:38 pm_0_1	6
+1:35 pm_0_1	6
+12:57 pm_0_1	6
+12:50 pm_0_1	6
+12:47 pm_0_1	6
+12:46 pm_0_1	6
+12:30 pm_0_1	6
+1:20 am_0_1	6
+12:05 pm_0_1	6
+11:58 am_0_1	6
+11:34 am_0_1	6
+11:31 am_0_1	6
+1:12 pm_0_1	6
+11:28 am_0_1	6
+11:18 am_0_1	6
+11:09 am_0_1	6
+11:06 am_0_1	6
+1:05 pm_0_1	6
+10:58 am_0_1	6
+10:56 am_0_1	6
+10:54 am_0_1	6
+10:50 am_0_1	6
+10:35 am_0_1	6
+10:32 am_0_1	6
+10:31 am_0_1	6
+1:02 pm_0_1	6
+10:26 am_0_1	6
+10:25 am_0_1	6
+10:00 am_0_1	6
+to slaughter_1_0	5
+s in_1_0	5
+Saturday Dec 15_0_0	5
+jacob roberts_1_0	5
+from 6 to 56_0_4	5
+feel no_1_0	5
+dusk_0_1	5
+dead saturdaythe half_1_2	5
+broke in_1_0	5
+blasted way_1_0	5
+behind the_1_0	5
+a motive for the second_2_2	5
+9:55 am_0_1	5
+9:48 am_0_1	5
+9:44 am_0_1	5
+9:31 am_0_1	5
+9:15 am_0_1	5
+9:13 pm_0_1	5
+8:20 pm_0_1	5
+8:00 pm_0_1	5
+7:57 pm_0_1	5
+7:28 pm_0_1	5
+7:24 pm_0_1	5
+7:23 pm_0_1	5
+7:20 pm_0_1	5
+7:19 pm_0_1	5
+6:54 pm_0_1	5
+6:43 pm_0_1	5
+6:36 pm_0_1	5
+6:23 pm_0_1	5
+6:20 pm_0_1	5
+6:19 pm_0_1	5
+6:15 pm_0_1	5
+6:04 pm_0_1	5
+6:00 pm_0_1	5
+5:48 pm_0_1	5
+5:27 pm_0_1	5
+5:26 pm_0_1	5
+5:21 pm_0_1	5
+5:16 pm_0_1	5
+5:13 pm_0_1	5
+5:09 pm_0_1	5
+5:08 pm_0_1	5
+5:04 pm_0_1	5
+4:55 pm_0_1	5
+4:47 pm_0_1	5
+4:39 pm_0_1	5
+4:37 pm_0_1	5
+4:24 pm_0_1	5
+4:23 pm_0_1	5
+4:20 pm_0_1	5
+4:14 pm_0_1	5
+4:12 pm_0_1	5
+4:09 pm_0_1	5
+4:03 pm_0_1	5
+40_0_3	5
+3:58 pm_0_1	5
+3:57 pm_0_1	5
+3:53 pm_0_1	5
+3:48 pm_0_1	5
+3:46 pm_0_1	5
+3:45 pm_0_1	5
+3:43 pm_0_1	5
+3:36 pm_0_1	5
+3:34 pm_0_1	5
+3:30 pm_0_1	5
+3:21 pm_0_1	5
+3:20 pm_0_1	5
+3:08 pm_0_1	5
+3:06 pm_0_1	5
+2:37 pm_0_1	5
+2:34 pm_0_1	5
+2:27 pm_0_1	5
+2:19 pm_0_1	5
+2:15 pm_0_1	5
+2:13 pm_0_1	5
+1:59 pm_0_1	5
+1:43 pm_0_1	5
+1:41 pm_0_1	5
+1:39 pm_0_1	5
+1:30 pm_0_1	5
+1:28 pm_0_1	5
+12:54 am_0_1	5
+12:52 pm_0_1	5
+12:47 am_0_1	5
+12:39 am_0_1	5
+12:38 pm_0_1	5
+12:32 pm_0_1	5
+12:29 pm_0_1	5
+12:18 pm_0_1	5
+12:13 pm_0_1	5
+12:09 pm_0_1	5
+12:04 pm_0_1	5
+1:17 pm_0_1	5
+1:16 pm_0_1	5
+1:15 pm_0_1	5
+11:53 am_0_1	5
+11:52 am_0_1	5
+11:48 am_0_1	5
+11:46 am_0_1	5
+11:44 am_0_1	5
+11:41 am_0_1	5
+11:37 am_0_1	5
+11:36 am_0_1	5
+11:29 am_0_1	5
+1:10 pm_0_1	5
+1:06 pm_0_1	5
+10:59 am_0_1	5
+10:52 pm_0_1	5
+10:42 am_0_1	5
+10:36 am_0_1	5
+10:30 am_0_1	5
+10:28 am_0_1	5
+10:16 am_0_1	5
+10:14 am_0_1	5
+000_0_2	5
+went on_1_0	4
+to kill_1_0	4
+shot schoolchildren_1_0	4
+shot dead_1_0	4
+responsible for_1_0	4
+possible motive for the shooting and a law enforcement official has said police have found no letters or diaries left behind that could shed light on it_2_2	4
+had run_1_0	4
+had planned an even more gruesome massacre but was stopped short_1_3	4
+had planned an _1_3	4
+had altercation_1_0	4
+from 27 to 56_0_4	4
+fired hundreds of rounds_2_1	4
+entered sandy_1_0	4
+described as_1_0	4
+and someone_1_0	4
+alloy offered no possible motive for the shooting and a law enforcement official has said police have found no letters or diaries left behind that could shed light on it_2_3	4
+9:58 pm_0_1	4
+9:54 am_0_1	4
+9:50 pm_0_1	4
+9:50 am_0_1	4
+9:47 am_0_1	4
+9:43 am_0_1	4
+9:38 am_0_1	4
+9:37 am_0_1	4
+9:35 am_0_1	4
+9:32 am_0_1	4
+9:30 am_0_1	4
+9:26 am_0_1	4
+9:25 am_0_1	4
+9:24 am_0_1	4
+9:22 pm_0_1	4
+9:15 pm_0_1	4
+8:10 pm_0_1	4
+800_0_2	4
+7:55 pm_0_1	4
+7:54 pm_0_1	4
+7:38 pm_0_1	4
+7:29 pm_0_1	4
+7:18 pm_0_1	4
+7:16 pm_0_1	4
+7:10 pm_0_1	4
+7:08 pm_0_1	4
+6:59 pm_0_1	4
+6:58 pm_0_1	4
+6:57 pm_0_1	4
+6:55 pm_0_1	4
+6:44 pm_0_1	4
+6:33 pm_0_1	4
+6:32 pm_0_1	4
+6:31 pm_0_1	4
+6:25 pm_0_1	4
+6:05 pm_0_1	4
+6:02 pm_0_1	4
+6:01 pm_0_1	4
+5:58 pm_0_1	4
+5:50 pm_0_1	4
+5:49 pm_0_1	4
+5:34 pm_0_1	4
+5:29 pm_0_1	4
+5:19 pm_0_1	4
+5:17 pm_0_1	4
+5:11 pm_0_1	4
+4:43 pm_0_1	4
+4:36 pm_0_1	4
+4:32 pm_0_1	4
+4:26 pm_0_1	4
+4:17 pm_0_1	4
+4:10 pm_0_1	4
+3:54 pm_0_1	4
+3:44 pm_0_1	4
+3:41 pm_0_1	4
+3:38 pm_0_1	4
+3:26 pm_0_1	4
+3:25 pm_0_1	4
+3:16 pm_0_1	4
+3:07 pm_0_1	4
+3:00 pm_0_1	4
+2:45 pm_0_1	4
+2:39 pm_0_1	4
+2:33 pm_0_1	4
+2:31 pm_0_1	4
+22_0_3	4
+2:16 pm_0_1	4
+2:12 pm_0_1	4
+20_0_2	4
+1:57 pm_0_1	4
+1:46 pm_0_1	4
+1:44 pm_0_1	4
+1:31 pm_0_1	4
+1:29 pm_0_1	4
+1:28 am_0_1	4
+1:26 pm_0_1	4
+12:59 pm_0_1	4
+12:49 pm_0_1	4
+12:40 pm_0_1	4
+12:33 pm_0_1	4
+12:31 pm_0_1	4
+12:28 pm_0_1	4
+12:23 pm_0_1	4
+12:22 pm_0_1	4
+12:02 pm_0_1	4
+12:00 pm_0_1	4
+11:55 am_0_1	4
+11:54 am_0_1	4
+11:51 am_0_1	4
+11:38 am_0_1	4
+11:30 am_0_1	4
+1:12 am_0_1	4
+11:08 am_0_1	4
+11:05 am_0_1	4
+11:04 am_0_1	4
+11:02 am_0_1	4
+10:48 am_0_1	4
+10:47 am_0_1	4
+10:45 pm_0_1	4
+10:43 am_0_1	4
+10:39 am_0_1	4
+10:37 pm_0_1	4
+10:34 am_0_1	4
+10:32 pm_0_1	4
+10:29 am_0_1	4
+10:21 am_0_1	4
+10:20 am_0_1	4
+10:19 am_0_1	4
+10:18 am_0_1	4
+10:05 am_0_1	4
+10:04 am_0_1	4
+10:03 am_0_1	4
+with brutal_1_0	3
+whom law_1_0	3
+who massacred_1_0	3
+took about_1_0	3
+the motive behind the bloody rampage _2_2	3
+the motive behind _2_2	3
+targeted such young school children_1_4	3
+targeted an elementary school in newtown_1_4	3
+s running_1_0	3
+so numb_1_0	3
+shot his_1_0	3
+shared with_1_0	3
+Saturday of 26_0_0	3
+s alledged_1_0	3
+on this_1_0	3
+o motive was cited by authorities_2_2	3
+kills mother_1_0	3
+killed his_1_0	3
+he motive remains murky_2_2	3
+he motive for the mass killing was unknown_2_2	3
+had planned an even _1_3	3
+had hundreds_1_0	3
+from 2 to 14_0_4	3
+Friday, Dec 14_0_0	3
+Friday at 9_0_0	3
+for motive in deadly school rampage_2_2	3
+entered the_1_0	3
+dead in her son_1_2	3
+dead at the scene_1_2	3
+appears to_1_0	3
+anza's motive was unclear _2_2	3
+and her_1_0	3
+and any_1_0	3
+according to_1_0	3
+9:59 am_0_1	3
+9:56 am_0_1	3
+9:52 pm_0_1	3
+9:51 pm_0_1	3
+9:42 pm_0_1	3
+9:30 pm_0_1	3
+9:29 am_0_1	3
+9:24 pm_0_1	3
+9:23 am_0_1	3
+9:22 am_0_1	3
+9:20 pm_0_1	3
+9:19 am_0_1	3
+9:18 am_0_1	3
+9:17 am_0_1	3
+9:16 pm_0_1	3
+9:13 am_0_1	3
+9:09 am_0_1	3
+9:08 am_0_1	3
+9:04 pm_0_1	3
+8:42 am_0_1	3
+8:34 pm_0_1	3
+8:30 am_0_1	3
+8:29 pm_0_1	3
+8:24 pm_0_1	3
+8:22 pm_0_1	3
+8:17 pm_0_1	3
+8:12 pm_0_1	3
+8:06 pm_0_1	3
+8:05 pm_0_1	3
+8:03 pm_0_1	3
+7:55 am_0_1	3
+7:53 pm_0_1	3
+7:45 pm_0_1	3
+7:44 pm_0_1	3
+7:37 pm_0_1	3
+7:36 pm_0_1	3
+7:35 am_0_1	3
+7:32 pm_0_1	3
+7:15 pm_0_1	3
+7:14 pm_0_1	3
+7:09 pm_0_1	3
+7:06 pm_0_1	3
+7:04 pm_0_1	3
+7_0_2	3
+6:52 pm_0_1	3
+6:51 pm_0_1	3
+6:49 pm_0_1	3
+6:48 pm_0_1	3
+6:45 pm_0_1	3
+6:26 pm_0_1	3
+6:22 pm_0_1	3
+6:14 pm_0_1	3
+6:13 pm_0_1	3
+6:11 pm_0_1	3
+6:09 pm_0_1	3
+5:59 pm_0_1	3
+5:57 pm_0_1	3
+5:55 pm_0_1	3
+5:53 pm_0_1	3
+5:51 pm_0_1	3
+5:45 pm_0_1	3
+5:43 pm_0_1	3
+5:42 pm_0_1	3
+5:23 pm_0_1	3
+5:15 pm_0_1	3
+5:10 pm_0_1	3
+5:01 am_0_1	3
+4:50 pm_0_1	3
+4:45 pm_0_1	3
+4:42 pm_0_1	3
+4:38 pm_0_1	3
+4:34 pm_0_1	3
+4:29 pm_0_1	3
+4:25 pm_0_1	3
+4:22 pm_0_1	3
+4:16 pm_0_1	3
+4:15 pm_0_1	3
+4:13 pm_0_1	3
+4:12 am_0_1	3
+4:06 pm_0_1	3
+4_0_3	3
+4:01 pm_0_1	3
+3:52 pm_0_1	3
+3:49 pm_0_1	3
+3:31 pm_0_1	3
+33_0_2	3
+3:24 pm_0_1	3
+3:04 pm_0_1	3
+3_0_3	3
+2:58 pm_0_1	3
+2:46 pm_0_1	3
+2:35 pm_0_1	3
+2:32 pm_0_1	3
+2:23 pm_0_1	3
+2:08 pm_0_1	3
+2:06 pm_0_1	3
+2:05 pm_0_1	3
+166_0_2	3
+1:56 am_0_1	3
+1:51 pm_0_1	3
+15_0_2	3
+1:45 am_0_1	3
+1:42 pm_0_1	3
+1:40 pm_0_1	3
+1:40 am_0_1	3
+1:38 am_0_1	3
+1:37 pm_0_1	3
+1:32 pm_0_1	3
+1:30 am_0_1	3
+13_0_3	3
+1:25 pm_0_1	3
+12:56 pm_0_1	3
+12:53 pm_0_1	3
+12:41 pm_0_1	3
+12:37 am_0_1	3
+12:27 pm_0_1	3
+12:26 pm_0_1	3
+12:25 am_0_1	3
+12:24 am_0_1	3
+12:21 pm_0_1	3
+12:20 pm_0_1	3
+12:17 pm_0_1	3
+12:10 pm_0_1	3
+12:10 am_0_1	3
+12:02 am_0_1	3
+12:00 am_0_1	3
+11:57 am_0_1	3
+11:56 pm_0_1	3
+11:56 am_0_1	3
+11:40 am_0_1	3
+11:39 am_0_1	3
+11:35 am_0_1	3
+11:24 am_0_1	3
+11:20 am_0_1	3
+1:11 pm_0_1	3
+11:19 am_0_1	3
+11:12 am_0_1	3
+11:10 am_0_1	3
+11:08 pm_0_1	3
+11:01 am_0_1	3
+10:55 am_0_1	3
+10:53 am_0_1	3
+10:50 pm_0_1	3
+10:41 am_0_1	3
+10:38 am_0_1	3
+10:27 pm_0_1	3
+10:27 am_0_1	3
+10:24 pm_0_1	3
+10:13 am_0_1	3
+10:11 am_0_1	3
+10:10 am_0_1	3
+10:09 am_0_1	3
+10:07 am_0_1	3
+10:01 am_0_1	3
+01:00 am_0_1	3
+who shot_1_0	2
+who opened_1_0	2
+who forced_1_0	2
+was on_1_0	2
+was found_1_0	2
+was a_1_0	2
+varga said_1_0	2
+used rifle_1_0	2
+Tuesday, December 4_0_0	2
+to shield_1_0	2
+though he_1_0	2
+the motive for the nation_2_2	2
+the motive for the mass killing  the nations second_2_2	2
+the motive for the attack on two classrooms_2_2	2
+the motive behind the bloody rampage by a shooter who killed his mother_2_2	2
+the hero_1_0	2
+that had_1_0	2
+s what_1_0	2
+s killed_1_0	2
+shot and_1_0	2
+shooting motive  _2_2	2
+s home_1_0	2
+s have_1_0	2
+s father_1_0	2
+s face_1_0	2
+s exhumed_1_0	2
+s because_1_0	2
+Saturday that 20_0_0	2
+Saturday seized 47_0_0	2
+s are_1_0	2
+roamed school_1_0	2
+recalled as_1_0	2
+possible motive for deadly killing spree_2_2	2
+officials say_1_0	2
+nvestigators have not yet commented on a possible motive for deadly killing spree_2_3	2
+no motive necessary_2_2	2
+new details_1_0	2
+named as_1_0	2
+learned to_1_0	2
+killed six_1_0	2
+killed himself_1_0	2
+kicked in_1_0	2
+in an_1_0	2
+identified asadam_1_0	2
+he motive of self_2_2	2
+had mental_1_0	2
+gunmans motive remains unclear_2_2	2
+from breaching_1_0	2
+Friday of 26_0_0	2
+Friday of 20_0_0	2
+Friday night 11_0_0	2
+Friday, killing 20_0_0	2
+Friday Issue 11_0_0	2
+Friday, her 20_0_0	2
+Friday between 9_0_0	2
+Friday after 20_0_0	2
+fired his_1_0	2
+enrolled in_1_0	2
+died at_1_0	2
+dead in a classroom_1_2	2
+dead from_1_0	2
+dead friday_1_2	2
+dead at sandy hook _1_2	2
+dead and_1_0	2
+conn schootersome_1_0	2
+connecticut shooting_1_0	2
+cheers and_1_0	2
+carried hundreds_1_0	2
+attacked a_1_0	2
+at a_1_0	2
+apparent motive is really harming the emotional state of our country_2_2	2
+anza's motive  _2_2	2
+and mother_1_0	2
+and his_1_0	2
+and another_1_0	2
+a motive in the massacre_2_2	2
+a motive for the slaying_2_2	2
+a motive for the shooter who killed _2_2	2
+a motive for the killing that stunned the nation and brought tears to the eyes of _2_2	2
+a motive for the killings_2_2	2
+a motive for the incident_2_2	2
+a motive and hoped it would lead investigators _2_2	2
+a motive after _2_2	2
+allegedly killed_1_0	2
+after a_1_0	2
+9:54 pm_0_1	2
+9:53 am_0_1	2
+9:35 pm_0_1	2
+9:32 pm_0_1	2
+9:27 pm_0_1	2
+9:23 pm_0_1	2
+9:20 am_0_1	2
+9:17 pm_0_1	2
+9:16 am_0_1	2
+9:09 pm_0_1	2
+9:08 pm_0_1	2
+9:07 pm_0_1	2
+9:05 pm_0_1	2
+9:03 pm_0_1	2
+9:03 am_0_1	2
+8:59 pm_0_1	2
+8:58 pm_0_1	2
+8:57 pm_0_1	2
+8:56 am_0_1	2
+8:55 pm_0_1	2
+8:53 pm_0_1	2
+8:52 am_0_1	2
+8:51 pm_0_1	2
+8:47 am_0_1	2
+8:44 pm_0_1	2
+8:43 pm_0_1	2
+8:38 pm_0_1	2
+8:37 pm_0_1	2
+8:29 am_0_1	2
+8:27 pm_0_1	2
+8:23 pm_0_1	2
+8:21 pm_0_1	2
+8:20 am_0_1	2
+8:18 am_0_1	2
+8:16 pm_0_1	2
+8:15 pm_0_1	2
+8:14 pm_0_1	2
+8:13 pm_0_1	2
+8:08 pm_0_1	2
+8:03 am_0_1	2
+8:02 am_0_1	2
+8:01 am_0_1	2
+7:58 am_0_1	2
+7:52 pm_0_1	2
+7:52 am_0_1	2
+7:49 pm_0_1	2
+7:47 pm_0_1	2
+7:46 pm_0_1	2
+7:41 pm_0_1	2
+7:31 pm_0_1	2
+7:30 pm_0_1	2
+7:12 pm_0_1	2
+7:11 pm_0_1	2
+7:00 am_0_1	2
+6:53 pm_0_1	2
+6:47 pm_0_1	2
+6:46 pm_0_1	2
+6:42 pm_0_1	2
+6:39 pm_0_1	2
+6:29 pm_0_1	2
+6:28 pm_0_1	2
+6:28 am_0_1	2
+6:18 pm_0_1	2
+6:16 pm_0_1	2
+6:14 am_0_1	2
+6:06 pm_0_1	2
+58_0_3	2
+5:54 pm_0_1	2
+5:41 pm_0_1	2
+5:35 pm_0_1	2
+5:20 pm_0_1	2
+5:08 am_0_1	2
+5:06 pm_0_1	2
+5:03 pm_0_1	2
+5:01 pm_0_1	2
+4:37 am_0_1	2
+4:30 pm_0_1	2
+4_0_2	2
+3:56 pm_0_1	2
+35_0_2	2
+3:37 pm_0_1	2
+3:32 pm_0_1	2
+3:03 am_0_1	2
+3000_0_2	2
+2:59 am_0_1	2
+2:54 pm_0_1	2
+2:52 pm_0_1	2
+2:49 pm_0_1	2
+2:40 pm_0_1	2
+2:26 pm_0_1	2
+22_0_2	2
+2:11 am_0_1	2
+2:05 am_0_1	2
+2:04 pm_0_1	2
+2:02 am_0_1	2
+20128:17 am_0_1	2
+20128:14 pm_0_1	2
+20126:43 pm_0_1	2
+20126:19 pm_0_1	2
+20125:02 pm_0_1	2
+20124:51 pm_0_1	2
+20124:22 pm_0_1	2
+20123:44 pm_0_1	2
+20123:43 pm_0_1	2
+20122:46 pm_0_1	2
+20122:16 pm_0_1	2
+20121:59 pm_0_1	2
+20121:53 pm_0_1	2
+20121:44 pm_0_1	2
+20121:38 pm_0_1	2
+20121:20 pm_0_1	2
+20121:13 pm_0_1	2
+20121:00 pm_0_1	2
+17_0_3	2
+1:45 pm_0_1	2
+1:43 am_0_1	2
+1:42 am_0_1	2
+13_0_2	2
+1:27 am_0_1	2
+12:57 am_0_1	2
+12:56 am_0_1	2
+12:51 am_0_1	2
+12:50 am_0_1	2
+1:24 am_0_1	2
+12:49 am_0_1	2
+12:45 pm_0_1	2
+12:43 pm_0_1	2
+12:38 am_0_1	2
+12:37 pm_0_1	2
+12:31 am_0_1	2
+1:22 am_0_1	2
+12:29 am_0_1	2
+12:21 am_0_1	2
+12:15 pm_0_1	2
+12:14 pm_0_1	2
+12:14 am_0_1	2
+12:12 pm_0_1	2
+12:12 am_0_1	2
+12:11 pm_0_1	2
+12:11 am_0_1	2
+12:08 pm_0_1	2
+12:06 am_0_1	2
+12:05 am_0_1	2
+12:03 pm_0_1	2
+12_0_2	2
+11:59 am_0_1	2
+11:49 pm_0_1	2
+11:37 pm_0_1	2
+11:35 pm_0_1	2
+11:34 pm_0_1	2
+11:33 am_0_1	2
+11:32 pm_0_1	2
+11:32 am_0_1	2
+11:30 pm_0_1	2
+11:28 pm_0_1	2
+11:27 pm_0_1	2
+11:25 pm_0_1	2
+11:21 am_0_1	2
+11:19 pm_0_1	2
+11:16 pm_0_1	2
+11:15 am_0_1	2
+11:14 am_0_1	2
+11:11 am_0_1	2
+11:03 am_0_1	2
+11:00 am_0_1	2
+1:08 am_0_1	2
+1:05 am_0_1	2
+10:52 am_0_1	2
+10:51 pm_0_1	2
+10:47 pm_0_1	2
+10:44 pm_0_1	2
+10:40 pm_0_1	2
+10:33 am_0_1	2
+10:23 pm_0_1	2
+10:19 pm_0_1	2
+10:17 am_0_1	2
+10:16 pm_0_1	2
+10:14 pm_0_1	2
+10:12 pm_0_1	2
+10:12 am_0_1	2
+10:10 pm_0_1	2
+10:09 pm_0_1	2
+10:08 am_0_1	2
+10:06 pm_0_1	2
+10:02 am_0_1	2
+10:00 pm_0_1	2
+03:15 pm_0_1	2
+03:00 pm_0_1	2
+02:50 pm_0_1	2
+wounds officer_1_0	1
+worshiped the_1_0	1
+with emotions_1_0	1
+who stormed_1_0	1
+who set_1_0	1
+whose mother_1_0	1
+who plan on suicide later _1_3	1
+who is_1_0	1
+who introduced_1_0	1
+who died_1_0	1
+who authorities_1_0	1
+while his_1_0	1
+when killeddawn_1_0	1
+wearing a_1_0	1
+watch cnn_1_0	1
+was shot_1_0	1
+was killed_1_0	1
+was just_1_0	1
+was initially_1_0	1
+was identified_1_0	1
+was driven_1_0	1
+was described_1_0	1
+was dead_1_0	1
+was carrying_1_0	1
+was also_1_0	1
+was accounted_1_0	1
+uthorities have said little of a possible motive  or anything at all in _2_3	1
+twisted motive behind this rampage_2_2	1
+tweetshare thisemailprintfactboxfactbox_1_0	1
+Tuesday, October 30_0_0	1
+Tuesday at 7_0_0	1
+Tuesday, April 3_0_0	1
+tried to_1_0	1
+to try_1_0	1
+to snap_1_0	1
+to protect_1_0	1
+took twenty_1_0	1
+took big_1_0	1
+then killed_1_0	1
+the motive was just unknown_2_2	1
+the motive to complete the deed_2_2	1
+the motive to be revealed_2_2	1
+the motive side of the equation_2_2	1
+the motive should be our priority_2_2	1
+the motive of the shooter_2_2	1
+the motive of the gunman_2_2	1
+the motive of the alleged _2_2	1
+the motive of a _2_2	1
+the motive is still unknown_2_2	1
+the motive is _2_2	1
+the motive in that analysis_2_2	1
+the motive for the shootings in _2_2	1
+the motive for the massacre_2_2	1
+the motive for sparking this deadly _2_2	1
+the motive for poisoning a subway station_2_2	1
+the motive for a murder_2_2	1
+the motive behind this_2_2	1
+the motive behind the shooting_2_2	1
+the motive behind one of the deadliest school shootings in the nation_2_2	1
+that killed_1_0	1
+targeted students_1_4	1
+targeted sandy hook elementary after killing his mother early friday because he believed she loved the school "more than she loved him_1_4	1
+targeted own mother_1_4	1
+takes out_1_0	1
+s who_1_0	1
+s were_1_0	1
+s weapon_1_0	1
+s we_1_0	1
+stormed into_1_0	1
+stood out_1_0	1
+stood near_1_0	1
+sshare on_1_0	1
+s random_1_0	1
+s plan to strangle_1_3	1
+s overnight_1_0	1
+sought to_1_0	1
+s or_1_0	1
+s often_1_0	1
+s name_1_0	1
+s motive_1_0	1
+s motivation_1_0	1
+s loose_1_0	1
+shot three_1_0	1
+shot mom_1_0	1
+shot children_1_0	1
+shooter's motive  _2_2	1
+s find_1_0	1
+seems so_1_0	1
+searching for any clues that may lead investigators to a possible motive of the shooting_2_3	1
+s do_1_0	1
+school violenceadvertisementfriday_1_0	1
+s can_1_0	1
+s before_1_0	1
+say motive unknown_2_2	1
+Saturday Windows 8_0_0	1
+Saturday, including 20_0_0	1
+Saturday, December 8_0_0	1
+Saturday December 15_0_0	1
+Saturday, December 1_0_0	1
+Saturday, December 08_0_0	1
+Saturday across 10_0_0	1
+Saturday,  15_0_0	1
+s apartment_1_0	1
+salute local_1_0	1
+s a_1_0	1
+reportedly visited_1_0	1
+rampaged through_1_0	1
+possible motive  or anything at all in _2_2	1
+possible motive of the shooting_2_2	1
+possible motive have been recovered in multiple searches_2_2	1
+possible motive for the killings at the _2_2	1
+possible motive emerge in school massacre_2_2	1
+or other_1_0	1
+opens fire_1_0	1
+open fire_1_0	1
+on Sunday, December 9_0_0	1
+on Sunday, December 2_0_0	1
+o motive known_2_2	1
+o motive has been given for the recent school attack_2_2	1
+of motive at this time_2_2	1
+official motive is found_2_2	1
+no motive that is justifiable for doing this_2_2	1
+no motive for the shooting_2_2	1
+no motive for the deadly assault_2_2	1
+moved on_1_0	1
+mother of_1_0	1
+metropolis home_1_0	1
+man's motive just like the _2_2	1
+mad motive this young man had for committing this atrocity will never truly be known_2_2	1
+made the plan then procured the instrument to carry it out_1_3	1
+like the_1_0	1
+killed two_1_0	1
+killed mother_1_0	1
+is now_1_0	1
+is dead_1_0	1
+is cause_1_0	1
+is among_1_0	1
+in january_1_0	1
+in fridays_1_0	1
+in friday_1_0	1
+in conn_1_0	1
+in a_1_0	1
+identified by_1_0	1
+identifiedadam lanza_1_0	1
+hunted down_1_0	1
+he motive to achieve_2_2	1
+he motive remains a mystery_2_2	1
+he motive is not yet known_2_2	1
+he motive for the plot was not immediately known_2_2	1
+he motive for the mass killing_2_2	1
+have motive to do this_2_2	1
+had planned an even more gruesome massacre and was _1_3	1
+had planned an even_1_3	1
+had opened_1_0	1
+gunman's motive remains unclear_2_2	1
+got into the building and have not yet offered a possible motive for the killings at the _2_3	1
+from 6 to 8_0_4	1
+from 65 to 67_0_4	1
+from 2004 to 2007_0_4	1
+from 1994 to 2004_0_4	1
+from 1974 and 2000_0_4	1
+from 1962 to 1977_0_4	1
+from 1951 and 1952_0_4	1
+from 12 to 4_0_4	1
+Friday when 20_0_0	1
+Friday, October 19_0_0	1
+Friday Issue 12_0_0	1
+Friday, December 7_0_0	1
+Friday, December 21_0_0	1
+Friday, December 07_0_0	1
+Friday as 20_0_0	1
+forcibly entered_1_0	1
+forced himself_1_0	1
+fired more than 100 rounds_2_1	1
+fired at least 100 rounds_2_1	1
+eports of possible motive emerge in school massacre_2_3	1
+elementary school_1_0	1
+during lockdown at san jose city collegefacebook founder zuckerberg gives _1_2	1
+dressed in_1_0	1
+down a_1_0	1
+discerning motive in this case_2_2	1
+determine motive  _2_2	1
+denied a_1_0	1
+deceased inside the school from a self_1_2	1
+dead with next to three guns_1_2	1
+dead when police entered the school_1_2	1
+deadsurvivors offer_1_0	1
+deadsome relieved_1_0	1
+deadschool shooting_1_0	1
+dead on the scene_1_2	1
+dead next to three guns _1_2	1
+dead in the school from an apparent self_1_2	1
+dead inside the school and another person was found dead elsewhere in newtown_1_2	1
+dead inside the school_1_2	1
+dead in a home searched in hoboken_1_2	1
+deadchris cuomo_1_0	1
+dead at home in nj_1_2	1
+dead at her newtown home_1_2	1
+dead at a home in new jersey_1_2	1
+dead at_1_0	1
+deadaffordable care_1_0	1
+connecticut sandy_1_0	1
+committed suicide_1_0	1
+clad in_1_0	1
+came to_1_0	1
+blazed his_1_0	1
+attended school_1_0	1
+at least_1_0	1
+at his house_1_2	1
+as soon_1_0	1
+associated pressjetblue plane from boston lands safety at bwi after precautionary alertassociated presswhats in susan rices future_1_3	1
+assaulted the_1_0	1
+as police_1_0	1
+as he_1_0	1
+armed with_1_0	1
+anza's motive for the killings_2_2	1
+and the_1_0	1
+and staff_1_0	1
+and ran_1_0	1
+and panicked_1_0	1
+and motive of the suspected shooter_2_2	1
+and motive of the shooter_2_2	1
+and a_1_0	1
+ance said clues to the possible motive have been recovered in multiple searches_2_3	1
+a motive to start a fight or to prove the superiority in the opinion_2_2	1
+a motive later_2_2	1
+a motive in the shootings_2_2	1
+a motive in the shooting remained unclear but the swift police response probably halted _2_2	1
+a motive in the mass shooting and that its going to take many_2_2	1
+a motive have found _2_2	1
+a motive from a nearby home on _2_2	1
+a motive for the tragedy_2_2	1
+a motive for the shootings_2_2	1
+a motive for the shooting at the movie theater or the thankfully failed assassination attempt on _2_2	1
+a motive for the shooting_2_2	1
+a motive for the mass shooting_2_2	1
+a motive for the gunman  and will not release the shooter_2_2	1
+a motive for the attack  assuming one exists at all  a police official told the _2_2	1
+a motive for the attack _2_2	1
+a motive for mass murder_2_2	1
+a motive for _2_2	1
+a motive behind the tragic shooting this past friday_2_2	1
+a motive behind _2_2	1
+a motive and hoped it would lead investigators into finding all there is to learn about this horrific act_2_2	1
+ambistar ventures_1_0	1
+also killed_1_0	1
+also died_1_0	1
+a loner_1_0	1
+aloneby matt_1_0	1
+allen corbinariel_1_0	1
+after two_1_0	1
+9:59 pm_0_1	1
+9:57 pm_0_1	1
+9:57 am_0_1	1
+9:56 pm_0_1	1
+9:53 pm_0_1	1
+9:49 am_0_1	1
+9:48 pm_0_1	1
+9:46 pm_0_1	1
+9:46 am_0_1	1
+9:41 pm_0_1	1
+9:40 pm_0_1	1
+9:38 pm_0_1	1
+9:37 pm_0_1	1
+9:36 pm_0_1	1
+9:34 pm_0_1	1
+9:33 pm_0_1	1
+9:31 pm_0_1	1
+9:29 pm_0_1	1
+9:28 pm_0_1	1
+9:27 am_0_1	1
+9:25 pm_0_1	1
+9:21 pm_0_1	1
+9:19 pm_0_1	1
+9:14 pm_0_1	1
+9:14 am_0_1	1
+9:12 pm_0_1	1
+9:11 pm_0_1	1
+9:11 am_0_1	1
+9:10 pm_0_1	1
+9:10 am_0_1	1
+9:04 am_0_1	1
+9:02 pm_0_1	1
+90_0_3	1
+8:58 am_0_1	1
+8:54 pm_0_1	1
+8:53 am_0_1	1
+8:52 pm_0_1	1
+8:50 am_0_1	1
+8:49 pm_0_1	1
+8:49 am_0_1	1
+8:47 pm_0_1	1
+8:46 pm_0_1	1
+8:46 am_0_1	1
+8:45 pm_0_1	1
+8:41 pm_0_1	1
+8:41 am_0_1	1
+8:40 pm_0_1	1
+8:40 am_0_1	1
+838:07 am_0_1	1
+8:36 pm_0_1	1
+8:35 pm_0_1	1
+8:32 pm_0_1	1
+8:28 am_0_1	1
+8:26 pm_0_1	1
+8:26 am_0_1	1
+8:25 pm_0_1	1
+8:23 am_0_1	1
+8:19 pm_0_1	1
+8:19 am_0_1	1
+8:12 am_0_1	1
+8:11 am_0_1	1
+8:09 am_0_1	1
+8:08 am_0_1	1
+8:04 pm_0_1	1
+8:01 pm_0_1	1
+7:59 pm_0_1	1
+7:56 pm_0_1	1
+7:51 pm_0_1	1
+7:50 am_0_1	1
+7:49 am_0_1	1
+7:43 pm_0_1	1
+7:42 pm_0_1	1
+7:40 am_0_1	1
+7:36 am_0_1	1
+7:35 pm_0_1	1
+7:34 pm_0_1	1
+7:33 pm_0_1	1
+7:33 am_0_1	1
+7:27 pm_0_1	1
+7:25 pm_0_1	1
+7:25 am_0_1	1
+7:22 pm_0_1	1
+7:17 pm_0_1	1
+7:13 am_0_1	1
+7:08 am_0_1	1
+7:07 pm_0_1	1
+7:05 pm_0_1	1
+7:05 am_0_1	1
+7:04 am_0_1	1
+7_0_3	1
+7:02 pm_0_1	1
+6:53 am_0_1	1
+6:35 pm_0_1	1
+6:31 am_0_1	1
+6:21 pm_0_1	1
+6:08 am_0_1	1
+6_0_3	1
+60_0_2	1
+59_0_3	1
+5:59 am_0_1	1
+5:57 am_0_1	1
+5:50 am_0_1	1
+5:46 pm_0_1	1
+5:37 pm_0_1	1
+5:36 pm_0_1	1
+5:33 pm_0_1	1
+5:33 am_0_1	1
+5:29 am_0_1	1
+5:25 am_0_1	1
+5:24 pm_0_1	1
+5:15 am_0_1	1
+5:12 pm_0_1	1
+5:06 am_0_1	1
+50_0_3	1
+4:54 am_0_1	1
+4:51 am_0_1	1
+45_0_2	1
+4:49 pm_0_1	1
+4:47 am_0_1	1
+4:34 am_0_1	1
+4:28 pm_0_1	1
+4:28 am_0_1	1
+4:23 am_0_1	1
+4212:15 pm_0_1	1
+4212:12 pm_0_1	1
+4212:09 pm_0_1	1
+4212:08 pm_0_1	1
+4212:04 pm_0_1	1
+4:11 am_0_1	1
+41_0_3	1
+4:07 am_0_1	1
+358_0_2	1
+3:56 am_0_1	1
+3:55 pm_0_1	1
+3:26 am_0_1	1
+3:23 am_0_1	1
+3:20 am_0_1	1
+3:17 am_0_1	1
+3:11 am_0_1	1
+3:05 pm_0_1	1
+30_0_3	1
+2:57 pm_0_1	1
+2:53 am_0_1	1
+253:18 pm_0_1	1
+253:09 pm_0_1	1
+252:24 pm_0_1	1
+251:29 pm_0_1	1
+2:48 am_0_1	1
+2:47 am_0_1	1
+2:45 am_0_1	1
+24_0_3	1
+2:36 am_0_1	1
+2:33 am_0_1	1
+2:32 am_0_1	1
+23_0_2	1
+2:29 am_0_1	1
+2:25 am_0_1	1
+223:42 pm_0_1	1
+2:18 am_0_1	1
+2:16 am_0_1	1
+2:12 am_0_1	1
+21_0_3	1
+2:08 am_0_1	1
+2:06 am_0_1	1
+2:01 am_0_1	1
+20129:37 pm_0_1	1
+20129:36 pm_0_1	1
+20129:35 pm_0_1	1
+20129:33 pm_0_1	1
+20129:31 pm_0_1	1
+20129:31 am_0_1	1
+20129:10 am_0_1	1
+20128:51 pm_0_1	1
+20128:50 pm_0_1	1
+20128:22 pm_0_1	1
+20128:21 pm_0_1	1
+20128:11 pm_0_1	1
+20128:00 pm_0_1	1
+20127:58 pm_0_1	1
+20127:56 pm_0_1	1
+20127:54 pm_0_1	1
+20127:50 pm_0_1	1
+20127:38 pm_0_1	1
+20127:33 pm_0_1	1
+20127:30 pm_0_1	1
+20127:16 pm_0_1	1
+20127:11 pm_0_1	1
+20127:07 pm_0_1	1
+20127:03 pm_0_1	1
+20126:51 pm_0_1	1
+20126:48 pm_0_1	1
+20126:45 pm_0_1	1
+20126:36 pm_0_1	1
+20126:36 am_0_1	1
+20126:33 pm_0_1	1
+20126:29 pm_0_1	1
+20126:27 pm_0_1	1
+20126:25 pm_0_1	1
+20126:22 pm_0_1	1
+20126:10 pm_0_1	1
+20126:04 pm_0_1	1
+20125:59 pm_0_1	1
+20125:55 pm_0_1	1
+20125:54 pm_0_1	1
+20125:49 pm_0_1	1
+20125:45 pm_0_1	1
+20125:44 pm_0_1	1
+20125:40 pm_0_1	1
+20125:24 pm_0_1	1
+20125:22 pm_0_1	1
+20125:20 pm_0_1	1
+20125:11 pm_0_1	1
+20125:09 pm_0_1	1
+20125:08 pm_0_1	1
+20125:06 pm_0_1	1
+20125:05 pm_0_1	1
+20124:58 am_0_1	1
+20124:50 pm_0_1	1
+20124:48 pm_0_1	1
+20124:46 pm_0_1	1
+20124:45 pm_0_1	1
+20124:42 pm_0_1	1
+20124:40 pm_0_1	1
+20124:37 pm_0_1	1
+20124:33 pm_0_1	1
+20124:30 pm_0_1	1
+20124:28 pm_0_1	1
+20124:27 pm_0_1	1
+20124:24 pm_0_1	1
+20124:15 pm_0_1	1
+20124:08 pm_0_1	1
+20123:53 pm_0_1	1
+20123:50 pm_0_1	1
+20123:47 pm_0_1	1
+20123:46 pm_0_1	1
+20123:45 pm_0_1	1
+20123:42 pm_0_1	1
+20123:29 pm_0_1	1
+20123:28 pm_0_1	1
+20123:25 pm_0_1	1
+20123:23 pm_0_1	1
+20123:22 pm_0_1	1
+20123:21 pm_0_1	1
+20123:20 pm_0_1	1
+20123:19 pm_0_1	1
+20123:18 pm_0_1	1
+20123:17 pm_0_1	1
+20123:15 pm_0_1	1
+20123:07 pm_0_1	1
+20123:06 pm_0_1	1
+20123:00 pm_0_1	1
+20122:58 pm_0_1	1
+20122:49 pm_0_1	1
+20122:48 pm_0_1	1
+20122:47 pm_0_1	1
+20122:43 pm_0_1	1
+20122:40 pm_0_1	1
+20122:32 pm_0_1	1
+20122:30 pm_0_1	1
+20122:29 pm_0_1	1
+20122:27 pm_0_1	1
+20122:26 pm_0_1	1
+20122:22 pm_0_1	1
+20122:19 pm_0_1	1
+20122:14 pm_0_1	1
+20122:07 pm_0_1	1
+20122:05 pm_0_1	1
+20122:01 pm_0_1	1
+20121:51 pm_0_1	1
+20121:50 pm_0_1	1
+20121:46 pm_0_1	1
+20121:43 pm_0_1	1
+20121:42 pm_0_1	1
+20121:41 pm_0_1	1
+20121:36 pm_0_1	1
+20121:31 pm_0_1	1
+20121:31 am_0_1	1
+20121:30 pm_0_1	1
+20121:28 pm_0_1	1
+20121:25 pm_0_1	1
+201212:59 pm_0_1	1
+201212:56 pm_0_1	1
+20121:22 pm_0_1	1
+20121:21 pm_0_1	1
+201212:07 am_0_1	1
+20121:18 pm_0_1	1
+20121:15 pm_0_1	1
+201211:42 pm_0_1	1
+201211:17 pm_0_1	1
+201211:11 pm_0_1	1
+20121:10 pm_0_1	1
+201211:05 am_0_1	1
+20121:06 pm_0_1	1
+20121:04 pm_0_1	1
+201210:47 pm_0_1	1
+20121:03 pm_0_1	1
+201210:39 am_0_1	1
+201210:34 pm_0_1	1
+201210:33 pm_0_1	1
+201210:30 pm_0_1	1
+20121:02 pm_0_1	1
+201210:28 pm_0_1	1
+201210:27 pm_0_1	1
+201210:26 pm_0_1	1
+201210:24 pm_0_1	1
+20121:01 pm_0_1	1
+201210:17 am_0_1	1
+201210:14 am_0_1	1
+2:00 am_0_1	1
+200_0_2	1
+16_0_3	1
+1:58 pm_0_1	1
+1:55 am_0_1	1
+1:48 am_0_1	1
+1:47 am_0_1	1
+147_0_3	1
+1:46 am_0_1	1
+14:52 pm_0_1	1
+1:44 am_0_1	1
+14:43 pm_0_1	1
+14:29 pm_0_1	1
+14:28 pm_0_1	1
+14:26 pm_0_1	1
+14_0_3	1
+1:34 pm_0_1	1
+1:34 am_0_1	1
+1:33 am_0_1	1
+1:31 am_0_1	1
+1:26 am_0_1	1
+12:44 am_0_1	1
+12:42 am_0_1	1
+1:23 am_0_1	1
+12:36 pm_0_1	1
+12:35 am_0_1	1
+12:30 am_0_1	1
+12:20 am_0_1	1
+12:15 am_0_1	1
+12:13 am_0_1	1
+12:08 am_0_1	1
+12:07 pm_0_1	1
+12:07 am_0_1	1
+12:04 am_0_1	1
+12:03 am_0_1	1
+11:59 pm_0_1	1
+11:55 pm_0_1	1
+11:52 pm_0_1	1
+11:51 pm_0_1	1
+1:14 am_0_1	1
+11:49 am_0_1	1
+11:46 pm_0_1	1
+11:45 pm_0_1	1
+11:43 pm_0_1	1
+11:43 am_0_1	1
+11:42 am_0_1	1
+11:38 pm_0_1	1
+11:29 pm_0_1	1
+11:26 pm_0_1	1
+11:26 am_0_1	1
+11:23 pm_0_1	1
+11:22 am_0_1	1
+11:20 pm_0_1	1
+1:11 am_0_1	1
+11:17 pm_0_1	1
+11:14 pm_0_1	1
+11:13 pm_0_1	1
+11:11 pm_0_1	1
+1:10 am_0_1	1
+11:06 pm_0_1	1
+11:05 pm_0_1	1
+11:02 pm_0_1	1
+11:01 pm_0_1	1
+11:00 pm_0_1	1
+10:57 pm_0_1	1
+10:56 pm_0_1	1
+10:54 pm_0_1	1
+10:51 am_0_1	1
+10:49 pm_0_1	1
+10:49 am_0_1	1
+10:46 pm_0_1	1
+10:46 am_0_1	1
+10:43 pm_0_1	1
+10:42 pm_0_1	1
+10:39 pm_0_1	1
+10:36 pm_0_1	1
+10:35 pm_0_1	1
+10:33 pm_0_1	1
+1:02 am_0_1	1
+10:29 pm_0_1	1
+10:25 pm_0_1	1
+10:23 am_0_1	1
+10:22 pm_0_1	1
+1:01 am_0_1	1
+10:18 pm_0_1	1
+10:08 pm_0_1	1
+10:05 pm_0_1	1
+10:04 pm_0_1	1
+10_0_3	1
+10:02 pm_0_1	1
+10:01 pm_0_1	1
+09:38 pm_0_1	1
+09:32 am_0_1	1
+09:30 am_0_1	1
+09:23 pm_0_1	1
+08:45 pm_0_1	1
+08:40 am_0_1	1
+08:28 pm_0_1	1
+08:18 pm_0_1	1
+08:10 pm_0_1	1
+08:05 pm_0_1	1
+08:00 am_0_1	1
+07:46 am_0_1	1
+07:36 pm_0_1	1
+07:29 pm_0_1	1
+07:08 pm_0_1	1
+07:07 pm_0_1	1
+06:00 am_0_1	1
+05:47 pm_0_1	1
+04:27 pm_0_1	1
+02:36 am_0_1	1
+02:06 am_0_1	1
+01:12 am_0_1	1
+01:00 pm_0_1	1
