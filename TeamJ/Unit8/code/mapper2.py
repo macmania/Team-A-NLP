@@ -24,7 +24,7 @@ import operator
 
 shooter='(gunman|killer[s]?|shooter[s]?|gunmen|assassin|murderer)' #otherwise shooters,gunmen,killers
 
-#locationPatternString = "((in|at)\s([a-zA-Z]{4,}|[a-zA-Z]{2,}\s[a-zA-Z]{3,}))|\s+[a-zA-Z]{3,},\s[a-zA-Z]{2,}\s[a-zA-Z]{3,}"
+locationPatternString = "((in|at)\s([a-zA-Z]{4,}|[a-zA-Z]{2,}\s[a-zA-Z]{3,}))|\s+[a-zA-Z]{3,},\s[a-zA-Z]{2,}\s[a-zA-Z]{3,}"
 
 timePatternString = "(((on|at)\s((S|s)unday)|((T|t)uesday)|([Mm]onday)([Ww]ednesday)|([Tt]ursday)|([Ff]riday)|([Ss]aturday)),?\s([a-zA-z]*)\s([0-9]+))"
 
@@ -50,23 +50,23 @@ motivePatternString= "([a-z]+\'?s?\smotive\s[a-z\s]+)"
 #foundPatternString= "(killer|shooter|gunman)[\sa-z]{1,20}(found|caught|apprehended[a-z\s]+)"
 foundPatternString= "((killer|shooter|gunman)[\sa-z]{1,10}found([a-z\s]+))"
 
-planPatternString= "(shooter[\'s]*|killer[\'s]*|gunman[\'s])*[\'s]*)([a-z\s]{1,25} plan[a-z\s\"]+)"
+planPatternString= "(shooter[\'s]*|killer[\'s]*|gunman[\'s])*([\'s]*)([a-z\s]{1,25} plan[a-z\s\"]+)"
                     
 roundsPatternString= "fired([\s0-9a-z]+)rounds" #shot
 
 #targetPatternString="[a-z\s]*(shooter|killer|gunman|"+killerName+")([a-z\s]*targeted[a-z\s\"]*|[a-z\s\"]*random[a-z\s\"]*)"
-targetPatternString= "([a-z\s,]+shooter[a-z\s]*|[a-z\s,]+killer[a-z\s]*|[a-z\s,]+gunman[a-z\s]*|)(targeted[a-z\s\"]+|(shot|fire)[a-z\s\"]*random[a-z\s\"]*)"
+targetPatternString= "([a-z\s,]+shooter[a-z\s]*|[a-z\s,]+killer[a-z\s]*|[a-z\s,]+gunman[a-z\s]*)(targeted[a-z\s\"]+|(shot|fire)[a-z\s\"]*random[a-z\s\"]*)"
 
 #---------------------------------------------------------------------------------
 # create the array of pattern strings
 patternStrings= [shooterPatternString, roundsPatternString,motivePatternString, possibleMotiveString]
 patternStrings0 = [timePatternString, todPatternString, numKilledPatternString,
-                   numHurtPatternString, agePatternString]
+                   numHurtPatternString, agePatternString, locationPatternString]
 patternStrings1= [namePatternString,gunPatternString,foundPatternString,planPatternString,targetPatternString]
 
 #---------------------------------------------------------------------------------
 #allocate the pattern array
-patterns=[]namePatternString
+patterns=[] 
 for i in range(len(patternStrings)):
     patterns.append(re.compile(patternStrings[i]))
 
@@ -84,7 +84,7 @@ for line in sys.stdin:
     #fname = line.rstrip("\n").split('\t')[0]
     f = open('eventData/'+line.rstrip())
     #print line.rstrip()
-    text= f.read()
+    text= f.read().lower()
     #print text
     if len(text) > 0:
         for i in range(len(patterns)):
@@ -112,3 +112,4 @@ for line in sys.stdin:
                 continue
             else:
                 print '%s_1_%d\t1'%(match.group(2),i) # wordMatch_1_i     1
+

@@ -1,0 +1,539 @@
+4_0_3	46
+57_0_3	2
+5_0_2	4
+60_0_3	3
+Friday Jan 7_0_0	2
+Friday, December 18_0_0	1
+Friday, September 03_0_0	2
+Saturday, August 21_0_0	1
+Saturday, June 20_0_0	3
+Saturday, May 30_0_0	2
+Tuesday, December 14_0_0	5
+Tuesday, January 19_0_0	6
+Tuesday, January 4_0_0	111
+Tuesday, July 20_0_0	2
+Tuesday, July 6_0_0	1
+Tuesday, June 22_0_0	2
+from 1 to 3_0_4	1
+from 11 to 22_0_4	1
+from 2000 to 2004_0_4	1
+from 2005 to 2007_0_4	2
+his motive was moved by a real distortion of what he perceived was _2_2	1
+murderer_1_0	14
+on Sunday October 17_0_0	1
+political motive to the shootings_2_2	2
+possible motive for the attack_2_2	1
+20102_0_3	1
+5_0_3	2
+6_0_2	20
+Friday, April 09_0_0	1
+Friday, August 20_0_0	1
+Friday, January 1_0_0	1
+Friday, July 2412_0_0	1
+Friday, July 319_0_0	1
+Friday, May 22_0_0	2
+Friday, November 27_0_0	3
+Friday, November 9_0_0	1
+Saturday, December 4_0_0	2
+Saturday, November 21_0_0	1
+Tuesday, August 24_0_0	2
+Tuesday, August 4_0_0	1
+Tuesday, December 2_0_0	1
+Tuesday, January 5_0_0	1
+Tuesday, July 21_0_0	1
+Tuesday, June 23_0_0	1
+Tuesday, May 26_0_0	4
+Tuesday, November 23_0_0	1
+a motive for the  shooting_2_2	1
+a motive for the shooting_2_2	3
+from 1962 to 1985_0_4	1
+from 1964 to 1972_0_4	1
+from 6 to 9_0_4	1
+he motive in _2_2	2
+his motive for shooting _2_2	2
+real motive for the crime_2_2	3
+sexual motive or element to the attacks_2_2	1
+the motive and perpetrators of these incidents_2_2	5
+the motive for the shooting_2_2	1
+theorizeapolitical motive in the absence of any actual knowledge_2_2	1
+such as his background or a possible motive in the attack_2_3	1
+27_0_2	5
+30_0_2	1
+6_0_3	4
+Friday, November 28_0_0	1
+Saturday, June 19_0_0	1
+Saturday, May 1_0_0	2
+Tuesday, August 25_0_0	1
+Tuesday, March 25_0_0	1
+Tuesday, November 24_0_0	1
+from 1 to 5_0_4	3
+from 10 to 58_0_4	1
+from 1901 to 1989_0_4	1
+from 1993 to 2002_0_4	1
+from 2001 to 2005_0_4	4
+possible motive stems from five messages he posted in a slide presentation on _2_2	2
+targeted the politician at an arizona supermarket_1_4	2
+the motive is not entirely clear_2_2	1
+249_0_3	1
+30_0_3	12
+7_0_3	3
+Friday The 13_0_0	1
+Friday, Dec 3_0_0	1
+Friday, December 24_0_0	11
+Friday, January 29_0_0	2
+Saturday with 38_0_0	1
+Saturday, December 6_0_0	1
+Saturday, July 10_0_0	3
+Saturday, May 2_0_0	1
+Tuesday April 14_0_0	1
+Tuesday, Dec 7_0_0	1
+Tuesday, Jan 11_0_0	5
+Tuesday, November 25_0_0	8
+attacker's motive was_2_2	1
+from 1972 to 1977_0_4	1
+from 1989 to 1993_0_4	1
+from 2008 to 2010_0_4	1
+gunmen_2_0	103
+he motive for the shooting is unclear_2_2	3
+main motive is to stating _2_2	1
+the motive or other victims are available at this time_2_2	17
+28_0_3	1
+32_0_2	3
+800_0_3	1
+Friday, April 15_0_0	1
+Friday, December 25_0_0	2
+Friday, Jan 7_0_0	1
+Friday, June 11_0_0	2
+Friday, September 10_0_0	2
+Saturday, July 11_0_0	1
+Saturday, November 24_0_0	1
+Tuesday January 11_0_0	2
+Tuesday, Dec 8_0_0	1
+Tuesday, December 21_0_0	72
+Tuesday, July 13_0_0	2
+Tuesday, June 8_0_0	5
+a motive yet_2_2	1
+astigar declined to comment on a possible motive for the attack_2_3	1
+clear motive has been identified but a local sheriff says there is a vitriolic political atmosphere which could have been a factor in what happened_2_2	1
+from 1973 to 1991_0_4	1
+from 1997 to 2000_0_4	1
+from 600 to 400_0_4	1
+no motive has been revealed_2_2	2
+pistol_1_1	16
+possible motive in the attack_2_2	1
+saturday May 01_0_0	1
+to motive is a logical fallacy_2_2	2
+112_0_2	2
+32_0_3	168
+33_0_2	1
+65_0_3	1
+66_0_2	1
+Friday, April 16_0_0	2
+Friday, August 24_0_0	3
+Friday, Dec 5_0_0	1
+Friday, February 12_0_0	4
+Friday, July 10_0_0	1
+Friday, June 12_0_0	2
+Friday, SaturdayKGUN 9_0_0	2
+Saturday October 16_0_0	2
+Saturday, February 14_0_0	5
+Tuesday Jan 17_0_0	1
+Tuesday, August 31_0_0	1
+Tuesday, December 22_0_0	2
+Tuesday, June 30_0_0	1
+Tuesday, June 9_0_0	3
+Tuesday, November 9_0_0	1
+as motive for a long_2_2	1
+ectarian motive explored in petrol bomb attacks_2_2	1
+from 1979 to 2005_0_4	1
+from 1994 to 2004_0_4	1
+or motive for the shooting_2_2	1
+targeted rep_1_4	21
+the motive was_2_2	1
+288_0_3	1
+70_0_2	68
+Friday, February 13_0_0	1
+Friday, September 12_0_0	4
+Saturday January 8_0_0	3
+Saturday, December 18_0_0	1
+Saturday, January 08_0_0	2
+Saturday, June 26_0_0	3
+Tuesday kill 17_0_0	1
+Tuesday that 29_0_0	1
+Tuesday, Dec 28_0_0	5
+Tuesday, December 7_0_0	3
+a motive for the _2_2	2
+a motive for the attack_2_2	2
+a motive for the shooting and examine a number of anti_2_2	1
+central motive of the war between the allied _2_2	1
+from 7 to 7_0_4	16
+gunman's motive is clear_2_2	1
+the motive for the _2_2	2
+the motive for the shooting  the suspect was not talking and had invoked his right against self_2_2	1
+70_0_3	1
+71_0_2	68
+Friday after 23_0_0	1
+Friday voted 10_0_0	4
+Friday, December 31_0_0	24
+Friday, December 4_0_0	2
+Friday, January 7_0_0	397
+Friday, or 6_0_0	2
+Saturday June 5_0_0	15
+Saturday, August 28_0_0	1
+Saturday, December 19_0_0	1
+Saturday, February 5_0_0	1
+Saturday, January 1_0_0	14
+Tuesday after 30_0_0	1
+Tuesday, December 8_0_0	3
+Tuesday, July 27_0_0	2
+Tuesday, July 2810_0_0	1
+Tuesday, June 29_0_0	2
+Tuesday, October 05_0_0	1
+a motive to the shooting but lashed out at what he called a climate of _2_2	3
+from 1980 to 1987_0_4	1
+from 2004 to 2007_0_4	1
+m_0_1	1971
+of motive and incitement will be argued about for a long time to come_2_2	1
+two _2_1	1
+35_0_3	13
+500_0_2	6
+72_0_2	8
+Friday February 4_0_0	1
+Friday, August 27_0_0	2
+Friday, May 29_0_0	5
+Saturday, February 20_0_0	1
+Saturday, January 2_0_0	1
+Saturday, June 6_0_0	2
+Saturday, November 28_0_0	1
+Tuesday May 5_0_0	1
+Tuesday, July 28_0_0	1
+from 7 to 9_0_4	3
+he motive in the _2_2	2
+40_0_2	1
+839_0_2	2
+Friday, April 23_0_0	1
+Friday, August 31_0_0	1
+Saturday, April 18_0_0	2
+Saturday, February 21_0_0	1
+Tuesday, September 08_0_0	1
+apparent motive in this case_2_2	1
+from 1975 to 1983_0_4	1
+on Sunday, December 19_0_0	1
+on Sunday, losing 1_0_0	2
+the motive of the individual responsible is not yet known_2_2	1
+117_0_2	1
+Friday that 18_0_0	1
+Friday that 54_0_0	1
+Friday, October 15_0_0	1
+Friday, September 3_0_0	1
+Saturday at 7_0_0	2
+Saturday, Dec 4_0_0	1
+Saturday, December 25_0_0	10
+Saturday, January 15_0_0	9
+Saturday, July 31_0_0	4
+Tuesday, April 20_0_0	1
+Tuesday, Nov 30_0_0	1
+educational motive does not somehow provide a blanket exemption from liability for infringement_2_2	1
+from 1948 to 2008_0_4	1
+from 2 to 6_0_4	1
+from 452 to 470_0_4	1
+from 5 to 1_0_4	1
+gunman, _1_0	26
+38_0_3	1
+39_0_2	1
+42_0_2	1
+Friday the 13_0_0	1
+Friday, January 07_0_0	12
+Friday, June 18_0_0	2
+Friday, October 16_0_0	1
+Friday, September 17_0_0	2
+Saturday about 2_0_0	3
+Saturday at 8_0_0	1
+Saturday, Jan 8_0_0	3
+Saturday, November 1_0_0	4
+Tuesday of 26_0_0	16
+Tuesday, December 28_0_0	16
+from 1937 to 1943_0_4	1
+from 1945 to 1946_0_4	1
+from 1979 to 1981_0_4	1
+from 1997 to 2010_0_4	1
+no motive has been identified_2_2	1
+rifle_1_1	72
+s'_1_3	1
+'_1_3	48
+42_0_3	5
+76_0_2	6
+Friday, January 11_0_0	1
+Friday, June 19_0_0	1
+Friday, June 4_0_0	1
+Saturday, August 1_0_0	1
+Saturday, Dec 6_0_0	1
+Saturday, January 17_0_0	4
+Tuesday [May 11_0_0	1
+Tuesday nightKGUN 9_0_0	18
+Tuesday the 29_0_0	1
+Tuesday, April 22_0_0	1
+Tuesday, December 29_0_0	2
+Tuesday, January 04_0_0	3
+from 14 to 12_0_4	1
+from 1979 to 1982_0_4	2
+from 2003 to 2005_0_4	1
+from 2012 to 2021_0_4	5
+his motive was_2_2	1
+political motive for this atrocity on the part of a wacko shooter_2_2	1
+the motive in the shooting incident at the federal _2_2	1
+10_0_3	3
+11_0_2	5
+200_0_2	1
+43_0_3	7
+Friday, June 5_0_0	3
+Friday, November 12_0_0	2
+Friday, September 19_0_0	1
+Saturday October 9_0_0	3
+Tuesday September 11_0_0	1
+Tuesday, Jan 4_0_0	3
+Tuesday, May 11_0_0	2
+Tuesday, October 14_0_0	1
+at Sunday, October 03_0_0	1
+ectarian motive explored in petrol bomb attacks          _2_2	1
+from 1988 to 1996_0_4	2
+from 2011 to 2012_0_4	22
+from 428 to 452_0_4	1
+he motive was to provide treatment to the calf_2_2	2
+on Sunday at 8_0_0	4
+shooter's motive is unclear_2_2	1
+the motive for todays shooting was not immediately clear_2_2	10
+11_0_3	1
+12_0_2	1
+80_0_3	1
+Friday, February 6_0_0	1
+Friday, March 5_0_0	1
+Friday, November 13_0_0	1
+Saturday, January 8_0_0	768
+Saturday, July 24_0_0	2
+Saturday, October 31_0_0	1
+Tuesday November 02_0_0	1
+Tuesday, August 10_0_0	3
+Tuesday, February 2_0_0	1
+Tuesday, March 9_0_0	1
+Tuesday, May 12_0_0	1
+any motive to any edit and hypothesise any string of _2_2	1
+from 18 to 21_0_4	1
+targeted giffords as she met with constituents around _1_4	2
+the motive for the shootings_2_2	5
+15 to 20 _2_1	2
+12_0_3	51
+13_0_2	1
+45_0_3	1
+Friday that 26_0_0	1
+Friday, August 6_0_0	2
+Friday, January 14_0_0	8
+Friday, July 23_0_0	2
+Friday, June 25_0_0	2
+Friday, March 6_0_0	2
+Friday, September 24_0_0	1
+Saturday March 13_0_0	1
+Saturday, January 23_0_0	1
+Saturday, January 9_0_0	1
+Saturday, July 25_0_0	1
+Saturday, March 13_0_0	1
+Saturday, May 15_0_0	2
+Tuesday, February 3_0_0	2
+_1_3	2857
+a motive for his actions or seek to modify our own behavior  to avoid future attacks that _2_2	1
+a motive that_2_2	1
+from 18 to 22_0_4	1
+from 1957 to 1963_0_4	1
+from 1965 to 1966_0_4	3
+from 1987 to 1991_0_4	1
+from 1991 to 1998_0_4	1
+from 1992 to 2008_0_4	1
+from 65 to 91_0_4	5
+killer_1_0	37
+no motive to kill _2_2	1
+ss_1_3	7
+the motive is the same_2_2	1
+31 _2_1	1
+13_0_3	46
+14_0_2	6
+400_0_3	6
+46_0_3	3
+50_0_2	2
+Friday December 03_0_0	1
+Friday, August 7_0_0	1
+Friday, December 10_0_0	15
+Friday, July 24_0_0	1
+Friday, June 26_0_0	1
+Friday, October 24_0_0	1
+Saturday, February 28_0_0	2
+Saturday, March 14_0_0	1
+Saturday, May 16_0_0	2
+Saturday, November 6_0_0	4
+Tuesday for 61_0_0	1
+Tuesday, February 19_0_0	1
+Tuesday, January 11_0_0	24
+Tuesday, May 2610_0_0	1
+Tuesday, October 20_0_0	2
+friday january 22_0_0	1
+from 1943 to 1945_0_4	1
+from 1991 to 1999_0_4	1
+gunman _1_0	2030
+he motive for the attack is being investigated_2_2	1
+or motive for criminal behavior_2_2	2
+s_1_3	82
+14_0_3	53
+15_0_2	1
+50_0_3	3
+Friday, February 27_0_0	2
+Friday, January 16_0_0	5
+Friday, March 20_0_0	1
+Saturday, September 13_0_0	1
+Saturday, September 4_0_0	1
+Tuesday, age 86_0_0	1
+from 1962 to 1974_0_4	1
+from 1988 to 2003_0_4	1
+from 200 to 500_0_4	1
+from 75 to 300_0_4	1
+o motive has been revealed and no arrests have been made_2_2	1
+suspect_1_0	1199
+the motive for the shooting is unclear_2_2	12
+130_0_3	1
+15_0_3	1
+201176_0_2	6
+49_0_2	1
+Friday as 46_0_0	3
+Friday for 45_0_0	1
+Friday, Dec 31_0_0	5
+Friday, Jan 14_0_0	3
+Friday, November 20_0_0	1
+Saturday, August 7_0_0	4
+Tuesday at 2100_0_0	1
+Tuesday, April 28_0_0	1
+Tuesday, February 24_0_0	1
+Tuesday, September 23_0_0	2
+Tuesday, September 7_0_0	3
+from 1977 to 1982_0_4	1
+on Sunday, January 2_0_0	1
+on Sunday, September 30_0_0	2
+political motive that found a willing tool in a young wacko who lost touch with reality_2_2	1
+the motive behind _2_2	1
+the motive behind centuries of mass killings_2_2	1
+'s_1_3	12
+000_0_2	7
+20_0_2	28
+53_0_2	2
+Friday, July 30_0_0	4
+Friday, March 19_0_0	1
+Friday, May 13_0_0	1
+Friday, October 30_0_0	1
+Friday, the 4_0_0	1
+Saturday, August 8_0_0	1
+Saturday, January 30_0_0	1
+Saturday, June 12_0_0	3
+Tuesday at 1232_0_0	1
+Tuesday, April 29_0_0	1
+Tuesday, Dec 14_0_0	1
+a_0_1	438
+from 1978 to 1979_0_4	1
+from 1994 to 1999_0_4	2
+from 2002 to 2005_0_4	2
+from 2006 to 2009_0_4	2
+oughner's possible motive stems from five messages he posted in a slide presentation on _2_3	2
+targeted giffords that has come out_1_4	1
+the motive may or may not be related to any current political party_2_2	1
+000_0_3	4
+100_0_2	1
+18_0_2	33
+20_0_3	1
+21_0_2	1
+90_0_2	2
+Friday, January 22_0_0	5
+Friday, July 31_0_0	1
+Friday, May 14_0_0	6
+Friday, May 1_0_0	1
+Friday, November 19_0_0	4
+Saturday, August 14_0_0	2
+Saturday, June 13_0_0	2
+Saturday, May 23_0_0	4
+Saturday, November 13_0_0	3
+Tuesday June 22_0_0	1
+Tuesday September 21_0_0	2
+Tuesday, February 26_0_0	1
+Tuesday, June 15_0_0	3
+Tuesday, March 16_0_0	1
+from 1968 to 1971_0_4	2
+from 1973 to 1977_0_4	1
+from 1973 to 1980_0_4	1
+handgun_1_1	28
+on Sunday, March 01_0_0	1
+on Sunday, November 11_0_0	1
+about 20 _2_1	2
+100_0_3	3
+170_0_2	2
+18_0_3	15
+19_0_2	3
+1_0_3	4
+Friday, August 13_0_0	5
+Friday, May 15_0_0	2
+Friday, October 29_0_0	1
+Saturday Jan 15_0_0	1
+Saturday, September 8_0_0	1
+Tuesday, August 17_0_0	1
+Tuesday, July 212_0_0	1
+Tuesday, June 16_0_0	1
+from 16 to 22_0_4	2
+from 1985 to 1991_0_4	1
+from 1999 to 2007_0_4	1
+from 450 to 457_0_4	1
+from 8 to 29_0_4	1
+he motive of the suspect_2_2	3
+168_0_2	11
+22_0_3	1
+23_0_2	1
+2_0_3	4
+Friday, November 6_0_0	1
+Saturday to 85_0_0	2
+Tuesday July 8_0_0	1
+Tuesday, January 20_0_0	1
+Tuesday, June 2_0_0	2
+Tuesday, November 17_0_0	1
+Tuesday, November 2_0_0	2
+Tuesday, September 30_0_0	1
+a motive for the shootings_2_2	1
+attacker's motive actually was_2_2	1
+d_0_1	104
+on Sunday sells 52_0_0	1
+or motive for violence_2_2	2
+shooter_1_0	171
+the motive for the attack_2_2	1
+3_0_3	10
+62976_0_2	1
+Friday, April 10_0_0	3
+Friday, December 17_0_0	13
+Friday, November 7_0_0	7
+Friday, Sep 3_0_0	2
+Saturday, December 11_0_0	6
+Tuesday, January 18_0_0	1
+Tuesday, November 3_0_0	1
+Tuesday, October 27_0_0	1
+Tuesday, Sep 14_0_0	1
+Tuesday, September 28_0_0	15
+a motive for the shooting has not been released_2_2	2
+from 1 to 2_0_4	1
+from 10 to 2_0_4	1
+from 1972 to 1973_0_4	1
+from 1990 to 1999_0_4	1
+from 2001 to 2002_0_4	1
+from 215 to 205_0_4	1
+from 6 to 7_0_4	1
+gunman's motive is not known_2_2	3
+gunman_2_0	7135
+major motive for _2_2	1
+political motive in both cases_2_2	1
+sectarian motive is one line of enquiry_2_2	1
+shooter_2_0	1377
+strong motive evidence_2_2	5
+targeted congresswoman gabrielle giffords back in _1_4	1
+targeted the three_1_4	7
+the motive for _2_2	1
+underlying motive behind his persecution_2_2	1
