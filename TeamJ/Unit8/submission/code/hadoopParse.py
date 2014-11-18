@@ -20,9 +20,10 @@ outputs['shooterfound'] = [];
 outputs['plan'] = [];
 outputs['roundsfired'] = [];
 outputs['target'] = [];
+outputs['location'] = [];
 
 # an attempt to decifpher the mapping...
-mapping = [['time', 'timeofday', 'numkilled', 'numhurt', 'agerange'], 
+mapping = [['time', 'timeofday', 'numkilled', 'numhurt', 'agerange', 'location'], 
 ['shootername', 'gun', 'shooterfound', 'plan', 'target'], ['shooterplurality', 'roundsfired', 'motive', 'possiblemotive']]
 
 # filter name list
@@ -66,7 +67,8 @@ def parseline(line):
 	arrayindex = int(splt2[-1])
 	arraynum = int(splt2[-2])
 	tup = (splt2[0], count)
-	maparray(tup, arraynum, arrayindex)
+	if len(tup[0]) > 0:
+		maparray(tup, arraynum, arrayindex)
 
 def printoutputs():
 	global outputs
